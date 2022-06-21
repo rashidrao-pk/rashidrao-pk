@@ -84,7 +84,7 @@ Total Impact Factor: 25.317
 32. Pedestrian Behaviour Analysis.
 33. Optical Flow Estimation
 <br>
-# T E C H N I C A L S K I L L S ⚡ :
+#  T E C H N I C A L S K I L L S ⚡ :
 <br> 
 Expert 
 <br>
