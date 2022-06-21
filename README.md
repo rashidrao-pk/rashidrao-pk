@@ -3,7 +3,7 @@
 <!--
 **rashidrao-pk/rashidrao-pk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About My: 
+<br>
+Hi, I am Rashid Rao from Pakistan. Below are my Qualification
+<br>
+1. I passed my Bechelors from AIOU, Islamabad, Pakistan (2010-2016) with Software Engineering Specialization.
+2. I passed my Masters from Comsats University Islamabad, Pakistan ( 2017-2019) with Computer Vision and Graphics.
+<br>
