@@ -16,7 +16,7 @@
 -->
 # About Me ✨: 
 <br>
-Hi, I am Rashid Rao from Pakistan.Software Engineer by profession and a Tourist by passion. I love to find solution to real-world problems. I love challenging tasks in my life. As far as my passion is concerned, I love adventures in my life and my professional field. 👨🏻‍ 👨🏻‍💻
+Hi, I am Rashid Rao from Pakistan.Software Engineer by profession and a Tourist 🏕️🏔️ by passion. I love to find solution to real-world problems. I love challenging tasks in my life. As far as my passion is concerned, I love adventures 🚣 in my life and my professional field. 👨🏻‍ 👨🏻‍💻
 
 # My Qualifications 🎓: 
 I passed my matriculation, my F.Sc Pre Eng and then I continued my higher education which details are as follows:
@@ -97,8 +97,8 @@ Expert
   f) Microsoft (Word, Access, Excel,
       PowerPoint) <br>
 
-# Social Links :
-
-Google Scholar : https://scholar.google.com.pk/citations?user=F5u_Z5MAAAAJ
-LinkedIn : https://www.linkedin.com/in/rashid-rao-cuipakistan/
+# Social Links 🔗:
+<br>
+Google Scholar : https://scholar.google.com.pk/citations?user=F5u_Z5MAAAAJ <br>
+LinkedIn : https://www.linkedin.com/in/rashid-rao-cuipakistan/ <br>
 
