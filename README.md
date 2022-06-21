@@ -47,8 +47,9 @@ After getting motivated, i did my research in Computer Vision and Mahcine Learni
 5. An integrated framework of skin lesion detection and recognition through saliency method and optimal deep neural network features selection.
 6. An Optimized Approach for Breast Cancer Classification for Histopathological Images Based on Hybrid Feature Set.
 7. Region-based active contour JSEG fusion technique for skin lesion segmentation from dermoscopic images.
-
+<br>
 Total Impact Factor: 25.317
+
 # R E S E A R C H P R O J E C T S ( Completed as Freelancer) :
 1. Heart Vein Blockage Detection. (GUI-Based App).
 2. Bone Cancer Detection using MRI Images. (GUI-Based App).
@@ -95,3 +96,9 @@ Expert
   e) Adobe Illustrator  <br>
   f) Microsoft (Word, Access, Excel,
       PowerPoint) <br>
+
+# Social Links :
+
+Google Scholar : https://scholar.google.com.pk/citations?user=F5u_Z5MAAAAJ
+LinkedIn : https://www.linkedin.com/in/rashid-rao-cuipakistan/
+
