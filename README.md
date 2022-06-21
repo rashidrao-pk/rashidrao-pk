@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **rashidrao-pk/rashidrao-pk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@
 -->
 # About Me ✨: 
 <br>
-Hi, I am Rashid Rao from Pakistan.Software Engineer by profession and a Tourist 🏕️🏔️ by passion. I love to find solution to real-world problems. I love challenging tasks in my life. As far as my passion is concerned, I love adventures 🚣 in my life and my professional field. 👨🏻‍ 👨🏻‍💻
+Hi 👋, I am Rashid Rao from Pakistan.Software Engineer by profession and a Tourist 🏕️🏔️ by passion. I love to find solution to real-world problems. I love challenging tasks in my life. As far as my passion is concerned, I love adventures 🚣 in my life and my professional field. 👨🏻‍ 👨🏻‍💻
 
 # My Qualifications 🎓: 
 I passed my matriculation, my F.Sc Pre Eng and then I continued my higher education which details are as follows:
@@ -24,7 +22,8 @@ I passed my matriculation, my F.Sc Pre Eng and then I continued my higher educat
 1. I passed my Bachelors 📘 from AIOU, Islamabad, Pakistan (2010-2016) with Software Engineering Specialization💻.
 2. I passed my Masters 📗 from Comsats University Islamabad, Pakistan ( 2017-2019) with Computer Vision and Graphics.
 <br>
-# Motivation for my Research Carrier:
+
+# Motivation for my Research Carrier⚡:
 <br>
 In my Master's, I learned the following Courses which motivated me to start my research carrier:
 1. Advanced Algorithm Analysis.
@@ -50,7 +49,7 @@ After getting motivated, i did my research in Computer Vision and Mahcine Learni
 <br>
 Total Impact Factor: 25.317
 
-# R E S E A R C H P R O J E C T S ( Completed as Freelancer) :
+# R E S E A R C H P R O J E C T S ( Completed as Freelancer) ⚡ :
 1. Heart Vein Blockage Detection. (GUI-Based App).
 2. Bone Cancer Detection using MRI Images. (GUI-Based App).
 3. Driver drowsiness Detection based on Facial Features. (GUI-Based App)
@@ -84,8 +83,8 @@ Total Impact Factor: 25.317
 31. Low Light Image Enhancements.
 32. Pedestrian Behaviour Analysis.
 33. Optical Flow Estimation
-
-# T E C H N I C A L S K I L L S
+<br>
+# T E C H N I C A L S K I L L S ⚡ :
 <br> 
 Expert 
 <br>
