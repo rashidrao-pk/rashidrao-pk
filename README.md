@@ -14,9 +14,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## About My: 
+## About Me: 
 <br>
-Hi, I am Rashid Rao from Pakistan. Below are my Qualification
+Hi, I am Rashid Rao from Pakistan. I am a software Engineer by profession and a Tourist by passion. I love to find solution for real world problem. I love challenging tasks in my life. As far as my passion is converned, I love adventures in my life and my professional field.
+## My Qualifications : 
+I passed my matriculation, my F.Sc Pre Eng and then i continued my higher education which details are as follows:
 <br>
 1. I passed my Bechelors from AIOU, Islamabad, Pakistan (2010-2016) with Software Engineering Specialization.
 2. I passed my Masters from Comsats University Islamabad, Pakistan ( 2017-2019) with Computer Vision and Graphics.
