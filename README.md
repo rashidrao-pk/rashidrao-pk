@@ -39,8 +39,8 @@ Thesis Title:  Object Detection and Classification Based on Feature Fusion and D
 
 # My Research Articles/ Publications 📊📝:
 After getting motivated, i did my research in Computer Vision and Mahcine Learning Field and published following research articles:
-1. A sustainable deep learning framework for object recognition using multi-layers deep features fusion and selection [Google Scholar Link](https://link.springer.com/article/10.1007/s11042-018-7031-0) - [GitHub Repo ](https://github.com/rashidrao-pk/Object-Detection-and-Classification-A-Joint-Selection-and-Fusion-Strategy-of-Deep-Convolutional-Neu).
-2. Object Detection and Classification: A Joint Selection and Fusion Strategy of Deep Convolutional Neural Network and SIFT Point Features. [Google Scholar Link](https://www.mdpi.com/2071-1050/12/12/5037) [GitHub Repo](https://github.com/rashidrao-pk/A-sustainable-deep-learning-framework-for-object-recognition-using-multi-layers-deep-features-fusion)
+1. A sustainable deep learning framework for object recognition using multi-layers deep features fusion and selection [Google Scholar Link](https://link.springer.com/article/10.1007/s11042-018-7031-0) | [GitHub Repo ](https://github.com/rashidrao-pk/Object-Detection-and-Classification-A-Joint-Selection-and-Fusion-Strategy-of-Deep-Convolutional-Neu).
+2. Object Detection and Classification: A Joint Selection and Fusion Strategy of Deep Convolutional Neural Network and SIFT Point Features. [Google Scholar Link](https://www.mdpi.com/2071-1050/12/12/5037) | [GitHub Repo](https://github.com/rashidrao-pk/A-sustainable-deep-learning-framework-for-object-recognition-using-multi-layers-deep-features-fusion)
 3. Deep CNN and geometric features-based gastrointestinal tract diseases detection and classification from wireless capsule endoscopy images.
 4. Classification of Gastrointestinal Diseases of Stomach from WCE using the improved Saliency-based method and Color Features.
 5. An integrated framework of skin lesion detection and recognition through saliency method and optimal deep neural network features selection.
