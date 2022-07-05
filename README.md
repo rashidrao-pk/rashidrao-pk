@@ -39,7 +39,7 @@ Thesis Title:  Object Detection and Classification Based on Feature Fusion and D
 
 # My Research Articles/ Publications 📊📝:
 After getting motivated, i did my research in Computer Vision and Mahcine Learning Field and published following research articles:
-1. A sustainable deep learning framework for object recognition using multi-layers deep features fusion and selection.
+1. A sustainable deep learning framework for object recognition using multi-layers deep features fusion and selection This site was built using [Google Scholar Link](https://link.springer.com/article/10.1007/s11042-018-7031-0) - [GitHub Repo] (https://github.com/rashidrao-pk/Object-Detection-and-Classification-A-Joint-Selection-and-Fusion-Strategy-of-Deep-Convolutional-Neu)  
 2. Object Detection and Classification: A Joint Selection and Fusion Strategy of Deep Convolutional Neural Network and SIFT Point Features.
 3. Deep CNN and geometric features-based gastrointestinal tract diseases detection and classification from wireless capsule endoscopy images.
 4. Classification of Gastrointestinal Diseases of Stomach from WCE using the improved Saliency-based method and Color Features.
