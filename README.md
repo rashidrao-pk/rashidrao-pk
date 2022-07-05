@@ -25,14 +25,14 @@ I passed my matriculation, my F.Sc Pre Eng and then I continued my higher educat
 
 # Motivation for my Research Carrier⚡:
 <br>
-In my Master's, I learned the following Courses which motivated me to start my research carrier:
-1. Advanced Algorithm Analysis.
-2. Advanced Topics in Computer Architecture.
-3. Advanced Topics in Operating Systems.
-4. Advanced Topics in Digital Image Processing.
-5. Advanced Topics in Computer Vision.
-6. Advanced Topics in Artificial Intelligence.
-7. Advanced Topics in Neural Networks.
+In my Master's, I learned the following Courses which motivated me to start my research carrier: <br>
+1. Advanced Algorithm Analysis. <br>
+2. Advanced Topics in Computer Architecture. <br>
+3. Advanced Topics in Operating Systems. <br>
+4. Advanced Topics in Digital Image Processing. <br>
+5. Advanced Topics in Computer Vision. <br>
+6. Advanced Topics in Artificial Intelligence. <br>
+7. Advanced Topics in Neural Networks. <br>
 <br>
 Thesis Title:  Object Detection and Classification Based on Feature Fusion and Deep Convolutional Network.
 <br>
