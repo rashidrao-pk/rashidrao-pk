@@ -43,11 +43,12 @@ After getting motivated, i did my research in Computer Vision and Mahcine Learni
 2. Object Detection and Classification: A Joint Selection and Fusion Strategy of Deep Convolutional Neural Network and SIFT Point Features. [Google Scholar Link](https://www.mdpi.com/2071-1050/12/12/5037) | [GitHub Repo](https://github.com/rashidrao-pk/A-sustainable-deep-learning-framework-for-object-recognition-using-multi-layers-deep-features-fusion)
 3. Deep CNN and geometric features-based gastrointestinal tract diseases detection and classification from wireless capsule endoscopy images. [Google Scholar Link](https://www.tandfonline.com/doi/abs/10.1080/0952813X.2019.1572657) | [GitHub Repo](https://github.com/rashidrao-pk/Deep-CNN-and-geometric-features-based-gastrointestinal-tract-diseases-detection-and-classification-f)
 4. Classification of Gastrointestinal Diseases of Stomach from WCE using the improved Saliency-based method and Color Features.  [Google Scholar Link](https://link.springer.com/article/10.1007/s11042-019-07875-9) | [GitHub Repo](https://github.com/rashidrao-pk/Classification-of-Gastrointestinal-Diseases-of-Stomach-from-WCE-using-the-improved-Saliency-based-me)
-5. An integrated framework of skin lesion detection and recognition through saliency method and optimal deep neural network features selection.
-6. An Optimized Approach for Breast Cancer Classification for Histopathological Images Based on Hybrid Feature Set.
-7. Region-based active contour JSEG fusion technique for skin lesion segmentation from dermoscopic images.
+5. An integrated framework of skin lesion detection and recognition through saliency method and optimal deep neural network features selection. [Google Scholar Link](https://link.springer.com/article/10.1007/s00521-019-04514-0) | [GitHub Repo](https://github.com/rashidrao-pk/An-integrated-framework-of-skin-lesion-detection-and-recognition-through-saliency-method-and-optimal)
+6. An Optimized Approach for Breast Cancer Classification for Histopathological Images Based on Hybrid Feature Set. [Google Scholar Link](https://www.ingentaconnect.com/content/ben/cmir/2021/00000017/00000001/art00016)  | [GitHub Repo](https://github.com/rashidrao-pk/An-Optimized-Approach-for-Breast-Cancer-Classification-for-Histopathological-Images-Based-on-Hybrid-)
+7. Region-based active contour JSEG fusion technique for skin lesion segmentation from dermoscopic images. [Paper Link](https://1stdirectory.co.uk/_assets/files_comp/ad6f229c-84db-4857-a481-2f6e9377461d.pdf) |  [GitHub Repo](https://github.com/rashidrao-pk/Region-based-active-contour-JSEG-fusion-technique-for-skin-lesion-segmentation-from-dermoscopic-imag) 
 <br>
-Total Impact Factor: 25.317
+
+Total Impact Factor: 
 
 # R E S E A R C H P R O J E C T S ( Completed as Freelancer) ⚡ :
 1. Heart Vein Blockage Detection. (GUI-Based App).
