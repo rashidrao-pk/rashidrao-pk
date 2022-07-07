@@ -98,7 +98,13 @@ Expert
       PowerPoint) <br>
 
 # Social Links 🔗:
+
+| Platform   |      Link      |
+|----------|:-------------:|------:|
+| Google Scholar |  https://scholar.google.com.pk/citations?user=F5u_Z5MAAAAJ |
+| LinkedIn |    https://www.linkedin.com/in/rashid-rao-cuipakistan/   |
+
 <br>
-Google Scholar : https://scholar.google.com.pk/citations?user=F5u_Z5MAAAAJ <br>
-LinkedIn : https://www.linkedin.com/in/rashid-rao-cuipakistan/ <br>
+ :  <br>
+ :  <br>
 
