@@ -51,40 +51,36 @@ After getting motivated, i did my research in Computer Vision and Mahcine Learni
 Total Impact Factor: 
 
 # R E S E A R C H P R O J E C T S ( Completed as Freelancer) ⚡ :
-1. Heart Vein Blockage Detection. (GUI-Based App).
-2. Bone Cancer Detection using MRI Images. (GUI-Based App).
-3. Driver drowsiness Detection based on Facial Features. (GUI-Based App)
-4. Fruit Classification for Automated Harvesting and Fruits Packing using Neural Networks. (GUI-Based App)
-5. Skin Lesion Detection, Segmentation, and Classification. (GUI-Based App)
-6. Face Detection using Realtime Camera Video. (GUI-Based App)
-7. Brain Tumor Detection and Identification. (GUI-Based App)
-8. CV-based Auto-grading system for welding samples. (GUI-Based App)
-9. Polyp Detection (Specular Reflection Detection, Image Inpainting, and Semantic Segmentation).
-10. Citrus Fruit Diseases Detection using Neural Networks and Feature Optimization.
-11. DOM Creation using Computer Vision and Machine Learning Approach.
-12. Ant Movement Simulator using Genetic Algorithm based approach.
-13. Diabetic Retinopathy Diseases Classification using Deep Learning.
-14. Skin Segmentation from Face Images using DLIB information.
-15. Forgery Detection using Custom Deep Learning Framework.
-16. Image Stitching using SIFT features for Panorama Creation.
-17. Image Denoising Using Contourlet-based Feature Pyramid.
-18. COVID detection using GLCM Features from CT images.
-19. Image Matching using Point Features and Epiploar Lines.
-20. Visual Calibration of Display Media using ESFR Charts.
-21. Document Classification Based on Deep Learning.
-22. Grape Leaf Disease Detection and Classification.
-23. Polynomial Regression based on Deep Learning.
-24. Blood Vessels Extraction from Fundus Images.
-25. Person Re-Identification using Multiple Cams.
-26. Lungs Nodule Detection and Classification.
-27. Face Matching for User Authentication.
-28. Image Fusion based on correlation.
-29. Iris Segmentation and Recognition.
-30. Patch-Based Image Enhancements.
-31. Low Light Image Enhancements.
-32. Pedestrian Behaviour Analysis.
-33. Optical Flow Estimation
-<br>
+
+
+|  Platform | Link  |
+|---|---|
+| Google Scholar  | https://scholar.google.com.pk/citations?user=F5u_Z5MAAAAJ  |
+| LinkedIn  | https://www.linkedin.com/in/rashid-rao-cuipakistan/  |
+
+Date	| Title	|Development Platform	 | Client	 | Client Location |
+| -- | -- | -- | -- | -- |
+Jun-2021 | Bone Cancer Detection using MRI Images | MATLAB GUI	| Fiverr | US |
+Jun-2021 | Driver drowsiness Detection based on Facial Features  MATLAB GUI |	Fiverr |	Malysia |
+Nov-2021 | Fruit Classification for Automated Harvesting and Fruits Packing using Neural Networks | MATLAB GUI	| IIUI Bechelor Student |	Islamabad, Pakistan |
+Feb-2022 | Skin Lesion Detection, Segmentation, and Classification | MATLAB GUI | Fiverr | UK |
+Feb-2022 | Brain Tumor Detection and Identification | MATLAB GUI | Fiverr | Malysia |
+Mar-2022 | DOM Creation using Computer Vision and Machine Learning Approach | MATLAB | Fiverr | Srilanka |
+Jun-2020 | Skin Segmentation from Face Images using DLIB information | MATLAB | Fiverr | US |
+Mar-2022 | Image Stitching using SIFT features for Panorama Creation | MATLAB | Fiverr | US |
+Mar-2021 | Image Denoising Using Contourlet-based Feature Pyramid | MATLAB | Agriculture University | Faisalabad, Pakistan |
+May-2022 | Image Matching using Point Features and Epiploar Lines | MATLAB, PYTON | Fiverr | US |
+Jan-2019 | Document Classification Based on Deep Learning | MATLAB | Comsats University | Wah, Pakistan |
+May-2022 | Polynomial Regression based on Deep Learning | MATLAB, PYTON | Upwork | UK |
+Mar-2019 | Blood Vessels Extraction from Fundus Images | MATLAB | Fiverr | UK |
+Apr-2018 | Person Re-Identification using Multiple Cams | MATLAB | Comsats University | Wah, Pakistan |
+Jun-2022 | Lungs Nodule Detection and Classification | MATLAB GUI | Fiverr | Pakistan |
+Jun-2021 | Image Fusion based on correlation | MATLAB | Agriculture University | Faisalabad, Pakistan |
+May-2020 | Patch-Based Image Enhancements | MATLAB | Fiverr | KSA |
+May-2019 | Low Light Image Enhancements | MATLAB | Fiverr | China |
+
+
+
 #  T E C H N I C A L S K I L L S ⚡ :
 <br> 
 Expert 
