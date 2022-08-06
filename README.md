@@ -48,8 +48,6 @@ After getting motivated, i did my research in Computer Vision and Mahcine Learni
 7. Region-based active contour JSEG fusion technique for skin lesion segmentation from dermoscopic images. [Paper Link](https://1stdirectory.co.uk/_assets/files_comp/ad6f229c-84db-4857-a481-2f6e9377461d.pdf) |  [GitHub Repo](https://github.com/rashidrao-pk/Region-based-active-contour-JSEG-fusion-technique-for-skin-lesion-segmentation-from-dermoscopic-imag) 
 <br>
 
-Total Impact Factor: 
-
 # R E S E A R C H P R O J E C T S ( Completed as Freelancer) ⚡ :
 
 
