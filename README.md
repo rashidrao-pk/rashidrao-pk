@@ -53,6 +53,7 @@ After getting motivated, i did my research in Computer Vision and Mahcine Learni
 
 Date	| Title	|Development Platform	 | Client	 | Client Location |
 | -- | -- | -- | -- | -- |
+July 2022 | <a href="https://github.com/rashidrao-pk/PSO-implementation-and-Ensemble-Learning-Models-to-predict-Heart-Diseases"> PSO-implementation-and-Ensemble-Learning-Models-to-predict-Heart-Diseases </a> | JUPYTER NOTEBOOK<br> PYTHON | FIVERR CLIENT | UK | 
 Jun-2021 | <a href = "https://github.com/rashidrao-pk/Bone-Cancer-Detection-GUI-in-Matlab-using-Image-Processing-Techniques " >Bone Cancer Detection using MRI Images </a>| MATLAB GUI	| Fiverr | US |
 Jun-2021 | <a href = "https://github.com/rashidrao-pk/Driver-Drowsiness-Detection-using-Computer-Vision-in-Matlab " >Driver drowsiness Detection based on Facial Features </a>| MATLAB GUI |	Fiverr |	Malysia |
 Nov-2021 | <a href = "https://github.com/rashidrao-pk/Neural-Network-Based-Automatic-Fruit-Classification/blob/main/README.md " >Fruit Classification for Automated Harvesting and Fruits Packing using Neural Networks </a>| MATLAB GUI	| IIUI Bechelor Student |	Islamabad, Pakistan |
