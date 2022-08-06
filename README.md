@@ -53,31 +53,27 @@ Total Impact Factor:
 # R E S E A R C H P R O J E C T S ( Completed as Freelancer) ⚡ :
 
 
-|  Platform | Link  |
-|---|---|
-| Google Scholar  | https://scholar.google.com.pk/citations?user=F5u_Z5MAAAAJ  |
-| LinkedIn  | https://www.linkedin.com/in/rashid-rao-cuipakistan/  |
-
 Date	| Title	|Development Platform	 | Client	 | Client Location |
 | -- | -- | -- | -- | -- |
-Jun-2021 | Bone Cancer Detection using MRI Images | MATLAB GUI	| Fiverr | US |
-Jun-2021 | Driver drowsiness Detection based on Facial Features  MATLAB GUI |	Fiverr |	Malysia |
-Nov-2021 | Fruit Classification for Automated Harvesting and Fruits Packing using Neural Networks | MATLAB GUI	| IIUI Bechelor Student |	Islamabad, Pakistan |
-Feb-2022 | Skin Lesion Detection, Segmentation, and Classification | MATLAB GUI | Fiverr | UK |
-Feb-2022 | Brain Tumor Detection and Identification | MATLAB GUI | Fiverr | Malysia |
-Mar-2022 | DOM Creation using Computer Vision and Machine Learning Approach | MATLAB | Fiverr | Srilanka |
-Jun-2020 | Skin Segmentation from Face Images using DLIB information | MATLAB | Fiverr | US |
-Mar-2022 | Image Stitching using SIFT features for Panorama Creation | MATLAB | Fiverr | US |
-Mar-2021 | Image Denoising Using Contourlet-based Feature Pyramid | MATLAB | Agriculture University | Faisalabad, Pakistan |
-May-2022 | Image Matching using Point Features and Epiploar Lines | MATLAB, PYTON | Fiverr | US |
-Jan-2019 | Document Classification Based on Deep Learning | MATLAB | Comsats University | Wah, Pakistan |
-May-2022 | Polynomial Regression based on Deep Learning | MATLAB, PYTON | Upwork | UK |
-Mar-2019 | Blood Vessels Extraction from Fundus Images | MATLAB | Fiverr | UK |
-Apr-2018 | Person Re-Identification using Multiple Cams | MATLAB | Comsats University | Wah, Pakistan |
-Jun-2022 | Lungs Nodule Detection and Classification | MATLAB GUI | Fiverr | Pakistan |
-Jun-2021 | Image Fusion based on correlation | MATLAB | Agriculture University | Faisalabad, Pakistan |
-May-2020 | Patch-Based Image Enhancements | MATLAB | Fiverr | KSA |
-May-2019 | Low Light Image Enhancements | MATLAB | Fiverr | China |
+Jun-2021 | <a href = "https://github.com/rashidrao-pk/Bone-Cancer-Detection-GUI-in-Matlab-using-Image-Processing-Techniques " >Bone Cancer Detection using MRI Images </a>| MATLAB GUI	| Fiverr | US |
+Jun-2021 | <a href = "https://github.com/rashidrao-pk/Driver-Drowsiness-Detection-using-Computer-Vision-in-Matlab " >Driver drowsiness Detection based on Facial Features </a>| MATLAB GUI |	Fiverr |	Malysia |
+Nov-2021 | <a href = "https://github.com/rashidrao-pk/Neural-Network-Based-Automatic-Fruit-Classification/blob/main/README.md " >Fruit Classification for Automated Harvesting and Fruits Packing using Neural Networks </a>| MATLAB GUI	| IIUI Bechelor Student |	Islamabad, Pakistan |
+Feb-2022 | <a href = " https://github.com/rashidrao-pk/Computer-Vision-based-system-in-Matlab-for-Benign-and-Malignant-Classification-Skin-Lesion-Detection" >Skin Lesion Detection, Segmentation, and Classification </a> | MATLAB GUI | Fiverr | UK |
+Feb-2022 | <a href = " https://github.com/rashidrao-pk/Brain-Tumor-Detection-and-Classification-GUI-based-App-in-Matlab" >Brain Tumor Detection and Identification </a>| MATLAB GUI | Fiverr | Malysia |
+Mar-2022 | <a href = " https://github.com/rashidrao-pk/DOM-Creation-using-Computer-Vision-and-Machine-Learning-Approach" >DOM Creation using Computer Vision and Machine Learning Approach </a> | MATLAB | Fiverr | Srilanka |
+Dec-2021 | <a href = " https://github.com/rashidrao-pk/Ant-Movement-Simulator-using-Genetic-Algorithm-based-approach"Ant Movement Simulator using Genetic Algorithm based approach </a>| MATLAB | Fiverr | US |
+Jun-2020 | <a href = "https://github.com/rashidrao-pk/Skin-Segmentation-from-Face-Images-using-DLIB-information-in-Matlab " >Skin Segmentation from Face Images using DLIB information </a>| MATLAB | Fiverr | US |
+Mar-2022 | <a href = "https://github.com/rashidrao-pk/Image-Stitching-using-SIFT-features-for-Panorama-Creation-in-Matlab " >Image Stitching using SIFT features for Panorama Creation </a>| MATLAB | Fiverr | US |
+Mar-2021 | <a href = "https://github.com/rashidrao-pk/Image-Denoising-Using-Contourlet-based-Feature-Pyramid " >Image Denoising Using Contourlet-based Feature Pyramid </a>| MATLAB | Agriculture University | Faisalabad, Pakistan |
+May-2022 | <a href = " https://github.com/rashidrao-pk/Image-Matching-using-Point-Features-and-Epiploar-Lines-in-Matlab" >Image Matching using Point Features and Epiploar Lines </a>| MATLAB, PYTON | Fiverr | US |
+Jan-2019 | <a href = "https://github.com/rashidrao-pk/Document-Classification-Based-on-Deep-Learning-in-Matlab " >Document Classification Based on Deep Learning </a>| MATLAB | Comsats University | Wah, Pakistan |
+May-2022 | <a href = " https://github.com/rashidrao-pk/Polynomial-Regression-based-on-Deep-Learning-in-Matlab" >Polynomial Regression based on Deep Learning </a>| MATLAB, PYTON | Upwork | UK |
+Mar-2019 | <a href = " https://github.com/rashidrao-pk/Blood-Vessels-Extraction-from-Fundus-Images-in-Matlab" >Blood Vessels Extraction from Fundus Images </a>| MATLAB | Fiverr | UK |
+Apr-2018 | <a href = "https://github.com/rashidrao-pk/Person-Re-Identification-using-Multiple-Cams-in-Matlab " >Person Re-Identification using Multiple Cams </a>| MATLAB | Comsats University | Wah, Pakistan |
+Jun-2022 | <a href = "https://github.com/rashidrao-pk/Lungs_Nodule_Cancer_Detection_and_Classification_MRI_CT_Images " >Lungs Nodule Detection and Classification </a>| MATLAB GUI | Fiverr | Pakistan |
+Jun-2021 | <a href = " https://github.com/rashidrao-pk/Image-Fusion-based-on-correlation-in-MATLAB" >Image Fusion based on correlation </a>| MATLAB | Agriculture University | Faisalabad, Pakistan |
+May-2020 | <a href = " https://github.com/rashidrao-pk/Patch-Based-Image-Enhancements-in-Matlab-CLAHE" >Patch-Based Image Enhancements </a>| MATLAB | Fiverr | KSA |
+May-2019 | <a href = " https://github.com/rashidrao-pk/Low-Light-Image-Enhancements-using-Matlab" >Low Light Image Enhancements </a>| MATLAB | Fiverr | China |
 
 
 
