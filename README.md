@@ -80,12 +80,18 @@ May-2019 | <a href ="https://github.com/rashidrao-pk/Low-Light-Image-Enhancement
 Expert 
 <br>
   a) Matlab <br>
-  b) Dev C++  <br>
-  c) Edraw  <br>
-  d) Adobe Photoshop  <br>
-  e) Adobe Illustrator  <br>
-  f) Microsoft (Word, Access, Excel,
+  b)Python
+  c) Dev C++  <br>
+  d) Edraw  <br>
+  e) Adobe Photoshop  <br>
+  f) Adobe Illustrator  <br>
+  g) Microsoft (Word, Access, Excel,
       PowerPoint) <br>
+  h) PHP
+  
+      
+#  C E R T I F I C A T I O N S 📝 :
+•	PHP Programming
 
 # Social Links 🔗:
 
