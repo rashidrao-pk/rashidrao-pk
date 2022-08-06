@@ -34,7 +34,7 @@ In my Master's, I learned the following Courses which motivated me to start my r
 6. Advanced Topics in Artificial Intelligence. <br>
 7. Advanced Topics in Neural Networks. <br>
 <br>
-Thesis Title:  Object Detection and Classification Based on Feature Fusion and Deep Convolutional Network.
+Thesis Title: <a href="https://github.com/rashidrao-pk/Master-Thesis-on-Object-Detection-and-Classification-Based-on-Fusion-of-SIFT-and-Deep-CNN-Features"> Object Detection and Classification: A Joint Selection and Fusion Strategy of Deep Convolutional Neural Network and SIFT Point Features </a>
 <br>
 
 # My Research Articles/ Publications 📊📝:
