@@ -111,7 +111,7 @@ I always prefer quality over the quantity and hence i always provided the soluti
 | Sr. No. | Certification Name | Certified By | Dated |
 | :-----: | ------------------ | ------------ | :---: |
 | a) | PHP Programming | Buraq Institute of Science and Technology | 12th-Apr-2014 ~ 1st-Jul-2014 |
-| b) | Diploma in Office Management | o	Elysium Computer College Regd # 673 | 04-Mar-2007 ~ 13-Jun-2007 |
+| b) | Diploma in Office Management |	Elysium Computer College Regd # 673 | 04-Mar-2007 ~ 13-Jun-2007 |
 <br>
 
 # Technical Profile Links 🔗:
