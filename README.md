@@ -34,7 +34,7 @@ Hi 👋, I am Muhammad Rashid from Pakistan.Software Engineer by profession and 
 In my Master's, I learned the following Courses which motivated me to start my research carrier:
 
 | Sr. No. | Subject | Credit Hours | LG | GP |
-| ------- | ------- | ------------ | -- | -- |
+| :-----: | ------- | ------------ | :--: | :--: |
 | 1. | Advanced Algorithm Analysis. | 3 | A+ | 12 |
 | 2. | Advanced Topics in Computer Architecture. | 3 | A | 10.95 |
 | 3. | Advanced Topics in Operating Systems. | 3 | A | 10.50 |
