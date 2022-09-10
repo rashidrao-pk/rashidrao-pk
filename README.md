@@ -108,11 +108,11 @@ I always prefer quality over the quantity and hence i always provided the soluti
       
 #  C E R T I F I C A T I O N S 📝 :
 
-| Sr. No. | Certification Name | Certified By                             | Dated                         | Grade (%)   | Course Length |
-| :-----: | ------------------ | ------------                             | :---:                         | :---:       |   :---:       |
-| a) | AI for Everyone | DeepLearning.AI - Coursera                       | Sep-2022                      | 94.37       |   4 Weeks     |
-| b) | PHP Programming | Buraq Institute of Science and Technology        | 12th-Apr-2014 ~ 1st-Jul-2014  | -           |   3 Months    |
-| c) | Diploma in Office Management |	Elysium Computer College Regd # 673 | 04-Mar-2007 ~ 13-Jun-2007     | 80.4        |   3 Months    |
+| Sr. No. | Certification Name | Certified By                             | Dated                         | Grade (%)   | Course Length | Certificate |
+| :-----: | ------------------ | ------------                             | :---:                         | :---:       |   :---:       |     :---:   |
+| a) | AI for Everyone | DeepLearning.AI - Coursera                       | Sep-2022                      | 94.37       |   4 Weeks     |     <a href = 'https://www.coursera.org/account/accomplishments/verify/XFEK65GWB3MF'> Link </a>    |
+| b) | PHP Programming | Buraq Institute of Science and Technology        | 12th-Apr-2014 ~ 1st-Jul-2014  | -           |   3 Months    |     ---    |
+| c) | Diploma in Office Management |	Elysium Computer College Regd # 673 | 04-Mar-2007 ~ 13-Jun-2007     | 80.4        |   3 Months    |     ---    |
 <br>
 
 # Technical Profile Links 🔗:
