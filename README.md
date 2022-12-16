@@ -123,6 +123,19 @@ I always prefer quality over the quantity and hence i always provided the soluti
 | Google Scholar  | https://scholar.google.com.pk/citations?user=F5u_Z5MAAAAJ  |
 | LinkedIn  | https://www.linkedin.com/in/rashid-rao-cuipakistan/  |
 
+# Recommendations
+
+| Sr. No. | Recommender         | Affiliation                                 | Link |
+| :-----: | ------------------  | ------------                                | :---:|
+| a)      | Dr. Muhammad Sharif |  Department of Computer Science,
+                                    <br> COMSATS University Islamabad, 
+                                    <br>Wah Campus |     <a href = 'http://ijeecs.iaescore.com/'> Link </a>|
+| a)      | Dr. Mudassar Raza  | --                                                                             |     <a href = 'http://ijeecs.iaescore.com/'> Link </a>|
+| a)      | Dr. Muhammad Sharif |  Department of Computer Science,<br> COMSATS University Islamabad, <br>Wah Campus |     <a href = 'http://ijeecs.iaescore.com/'> Link </a>|
+| a)      | Dr. Muhammad Sharif |  Department of Computer Science,<br> COMSATS University Islamabad, <br>Wah Campus |     <a href = 'http://ijeecs.iaescore.com/'> Link </a>|
+| a)      | Dr. Muhammad Sharif |  Department of Computer Science,<br> COMSATS University Islamabad, <br>Wah Campus |     <a href = 'http://ijeecs.iaescore.com/'> Link </a>| 
+<br>
+
 
 <br>
 
