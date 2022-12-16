@@ -127,7 +127,7 @@ I always prefer quality over the quantity and hence i always provided the soluti
 
 | Sr. No. | Recommender         | Affiliation                                 | Link |
 | :-----: | ------------------  | ------------                                | :---:|
-| a)      | Dr. Muhammad Sharif |  Department of Computer Science,<br> COMSATS University Islamabad, <br>Wah Campus |     <a href = '[http://ijeecs.iaescore.com/](https://github.com/rashidrao-pk/Recommendations/blob/main/Recommendation%20Letter%201%20Dr%20Sharif.pdf)'> Link </a>|
+| a)      | Dr. Muhammad Sharif |  Department of Computer Science,<br> COMSATS University Islamabad, <br>Wah Campus |     <a href = 'https://github.com/rashidrao-pk/Recommendations/blob/main/Recommendation%20Letter%201%20Dr%20Sharif.pdf'> Link </a>|
 | b)      | Dr. Mudassar Raza  | Department of Computer Science,<br> COMSATS University Islamabad, <br>Wah Campus |     <a href = 'https://github.com/rashidrao-pk/Recommendations/blob/main/Recommendation%20Letter%202%20Dr%20Mudassar.pdf'> Link </a>|
 | c)      | Dr. Nadir Shah |  Department of Computer Science,<br> COMSATS University Islamabad, <br>Wah Campus |     <a href = 'https://github.com/rashidrao-pk/Recommendations/blob/main/Recommendation%20Letter%203%20Dr%20Nadir%20Shah%20.pdf'> Link </a>|
 | d)      | Dr. Jamal Hussain Shah |  Department of Computer Science,<br> COMSATS University Islamabad, <br>Wah Campus |     <a href = 'https://github.com/rashidrao-pk/Recommendations/blob/main/Recommendation%20Letter%204%20Dr%20Jamal%20.pdf'> Link </a>|
