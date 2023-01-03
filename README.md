@@ -36,7 +36,7 @@ Hi 👋, I am Muhammad Rashid from Pakistan, Software Engineer by profession and
 <br>
 
 # BS(CS) Final Year Project: 
-<a href=""> OVBTP, A Secure AI based Web Application for Venue Booking and Tour Planning</a>
+<a href="https://github.com/rashidrao-pk/Online-Venure-Booking-and-Tour-Planning"> OVBTP, A Secure AI based Web Application for Venue Booking and Tour Planning</a>
 <br>
 
 # My Research Articles/ Publications 📊📝:
