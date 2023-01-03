@@ -29,24 +29,14 @@ Hi 👋, I am Muhammad Rashid from Pakistan, Software Engineer by profession and
 
 <br>
 
-# Motivation for my Research Carrier⚡:
-<br>
-In my Master's, I learned the following Courses which motivated me to start my research carrier:
-
-| Sr. No. | Subject | Credit Hours | LG | GP |
-| :-----: | ------- | :----------: | :--: | :--: |
-| 1. | Advanced Algorithm Analysis. | 3 | A+ | 12 |
-| 2. | Advanced Topics in Computer Architecture. | 3 | A | 10.95 |
-| 3. | Advanced Topics in Operating Systems. | 3 | A | 10.50 |
-| 4. | ****Advanced Topics in Digital Image Processing.**** | 3 | A | 11.70 |
-| 5. | ****Advanced Topics in Computer Vision.**** | 3 | A | 10.0 |
-| 6. | ****Advanced Topics in Artificial Intelligence.**** | 3 | A | 10.50 |
-| 7. | ****Advanced Topics in Neural Networks.**** | 3 | A+ | 12 |
-| 8. | Independent Studies. | 3 | A+ | 12 |
-<br>
+# Education Projects / Research Projects⚡:
 
 # MS(CS) Thesis: 
 <a href="https://github.com/rashidrao-pk/Master-Thesis-on-Object-Detection-and-Classification-Based-on-Fusion-of-SIFT-and-Deep-CNN-Features"> Object Detection and Classification: A Joint Selection and Fusion Strategy of Deep Convolutional Neural Network and SIFT Point Features </a>
+<br>
+
+# BS(CS) Final Year Project: 
+<a href=""> OVBTP, A Secure AI based Web Application for Venue Booking and Tour Planning</a>
 <br>
 
 # My Research Articles/ Publications 📊📝:
