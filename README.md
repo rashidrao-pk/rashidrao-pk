@@ -25,8 +25,6 @@ Hi 👋, I am Muhammad Rashid from Pakistan, Software Engineer by profession and
 |  Ph. D.(CS) | Ongoing | Ongoing | University of Turin, Italy.  | 2022 | 2025 |
 |  MS(CS) | 3.77 | 4.00 | Comsats University Islamabad, Wah Campus, Pakistan.  | 2017 | 2019 |
 |  BS(CS) | 3.19 | 4.00 | Allama Iqbal Open University Islamabad, Pakistan.  | 2010 | 2016 |
-|  F.Sc. (Pre-Engineering) | 63%, 700 | 1100 | Board of Intermediate and Secondary Eduction, DG Khan, Pakistan.  | 2007 | 2009 |
-|  Matric (Science) | 86.3%, 734 | 850 | Board of Intermediate and Secondary Eduction, Multan, Pakistan. | 2005 | 2007 |
 
 <br>
 
