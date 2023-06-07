@@ -20,11 +20,11 @@ Hi 👋, I am Muhammad Rashid from Pakistan, Software Engineer by profession and
 
 # My Qualifications 🎓: 
 
-|  Degree 📘 | Obtained CGPA / % | Total CGPA / % | Institute | From | To |
-|  :-------- | :---------------: | :------------: | :------:  | :--: | :--: |
-|  Ph. D.(CS) | Ongoing | Ongoing | University of Turin, Italy.  | 2022 | 2025 |
-|  MS(CS) | 3.77 | 4.00 | Comsats University Islamabad, Wah Campus, Pakistan.  | 2017 | 2019 |
-|  BS(CS) | 3.19 | 4.00 | Allama Iqbal Open University Islamabad, Pakistan.  | 2010 | 2016 |
+|  Degree 📘 | Institute | From | To |
+|  :-------- | :------:  | :--: | :--: |
+|  Ph. D.(CS) | University of Turin, Italy.  | 2022 | 2025 |
+|  MS(CS) | Comsats University Islamabad, Wah Campus, Pakistan.  | 2017 | 2019 |
+|  BS(CS) | Allama Iqbal Open University Islamabad, Pakistan.  | 2010 | 2016 |
 
 <br>
 
