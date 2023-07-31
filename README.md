@@ -50,6 +50,8 @@ After getting motivated, i did my research in Computer Vision and Mahcine Learni
 | 6 | An Optimized Approach for Breast Cancer Classification for Histopathological Images Based on Hybrid Feature Set. | Current medical imaging | 22 Apr 2020 |[Google Scholar Link](https://www.ingentaconnect.com/content/ben/cmir/2021/00000017/00000001/art00016)  | [GitHub Repo](https://github.com/rashidrao-pk/An-Optimized-Approach-for-Breast-Cancer-Classification-for-Histopathological-Images-Based-on-Hybrid-) |
 | 7 | Region-based active contour JSEG fusion technique for skin lesion segmentation from dermoscopic images. | Biomedical Research | 19 Sep 2019 | [Paper Link](https://1stdirectory.co.uk/_assets/files_comp/ad6f229c-84db-4857-a481-2f6e9377461d.pdf) |  [GitHub Repo](https://github.com/rashidrao-pk/Region-based-active-contour-JSEG-fusion-technique-for-skin-lesion-segmentation-from-dermoscopic-imag) |
 <br>
+| 8 | A Novel Light U-Net Model for Left Ventricle Segmentation Using MRI. | Methematics | 24 July 2023 | [Paper Link]([https://1stdirectory.co.uk/_assets/files_comp/ad6f229c-84db-4857-a481-2f6e9377461d.pdf](https://www.mdpi.com/2227-7390/11/14/3245)) |  [GitHub Repo]([https://github.com/rashidrao-pk/Region-based-active-contour-JSEG-fusion-technique-for-skin-lesion-segmentation-from-dermoscopic-imag](https://github.com/rashidrao-pk/A-Novel-Light-Unet-Model-for-Left-Ventricle-Segmentation-Using-MRI)) |
+<br>
 
 # R E S E A R C H P R O J E C T S ( Completed as Freelancer) ⚡ :
 
