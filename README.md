@@ -115,3 +115,5 @@ I always prefer quality over the quantity and hence i always provided the soluti
 | LinkedIn  | https://www.linkedin.com/in/rashid-rao-cuipakistan/  |
 <br>
 
+
+<a href="https://www.teacheron.com/tutor-profile/50r1?r=50r1" target="_blank" style="display: inline-block;"><img src="https://www.teacheron.com/resources/assets/img/badges/viewMyProfile.png" style="width: 120px !important; height: 52px !important"></a>
