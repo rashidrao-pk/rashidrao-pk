@@ -28,7 +28,7 @@ Hi 👋, I am Muhammad Rashid from Pakistan, Software Engineer by profession and
 
 <br>
 
-# Education Projects / Research Projects 💻:
+# Educational Projects / Research Projects 💻:
 # PhD Work : 
 eXplainable AI, XAI, Computer Vision, Trustworthy AI, Trustworthy ML
 # MS(CS) Thesis (2019): 
