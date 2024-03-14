@@ -28,7 +28,7 @@ Hi 👋, I am Muhammad Rashid from Pakistan, Software Engineer by profession and
 
 <br>
 
-# Education Projects / Research Projects⚡:
+# Education Projects / Research Projects 💻:
 # PhD Work : 
 eXplainable AI, XAI, Computer Vision, Trustworthy AI, Trustworthy ML
 # MS(CS) Thesis (2019): 
@@ -53,7 +53,7 @@ After getting motivated, i did my research in Computer Vision and Mahcine Learni
 | 8 | A Novel Light U-Net Model for Left Ventricle Segmentation Using MRI. | Methematics | 24 July 2023 | [Paper Link](https://www.mdpi.com/2227-7390/11/14/3245) |  [GitHub Repo](https://github.com/rashidrao-pk/A-Novel-Light-Unet-Model-for-Left-Ventricle-Segmentation-Using-MRI) |
 <br>
 
-# R E S E A R C H P R O J E C T S ( Completed as Freelancer) ⚡ :
+# R E S E A R C H P R O J E C T S ( Completed as Freelancer) 🏭 :
 
 | Date | Title | Development Platform	 | Client	 | Client Location |
 | :--: | ----- | :-------------------: | :-----: | :-------------: |
@@ -116,6 +116,10 @@ I always prefer quality over the quantity and hence i always provided the soluti
 | --------- | ----- |
 | Google Scholar  | https://scholar.google.com.pk/citations?user=F5u_Z5MAAAAJ  |
 | LinkedIn  | https://www.linkedin.com/in/rashid-rao-cuipakistan/  |
+| ORCID  | https://orcid.org/0000-0002-2557-6845/  |
+| Sciprofiles  | https://sciprofiles.com/profile/rashidmuhammad  |
+| Loop Frontiersin  | https://loop.frontiersin.org/people/2290013/  |
+
 <br>
 
 
