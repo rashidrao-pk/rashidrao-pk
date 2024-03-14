@@ -29,12 +29,13 @@ Hi 👋, I am Muhammad Rashid from Pakistan, Software Engineer by profession and
 <br>
 
 # Education Projects / Research Projects⚡:
-
-# MS(CS) Thesis: 
+# PhD Work : 
+eXplainable AI, XAI, Computer Vision, Trustworthy AI, Trustworthy ML
+# MS(CS) Thesis (2019): 
 <a href="https://github.com/rashidrao-pk/Master-Thesis-on-Object-Detection-and-Classification-Based-on-Fusion-of-SIFT-and-Deep-CNN-Features"> Object Detection and Classification: A Joint Selection and Fusion Strategy of Deep Convolutional Neural Network and SIFT Point Features </a>
 <br>
 
-# BS(CS) Final Year Project: 
+# BS(CS) Final Year Project (2016): 
 <a href="https://github.com/rashidrao-pk/Online-Venure-Booking-and-Tour-Planning"> OVBTP, A Secure AI based Web Application for Venue Booking and Tour Planning</a>
 <br>
 
