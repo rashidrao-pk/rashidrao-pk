@@ -18,7 +18,7 @@
 
 Hi 👋, I am Muhammad Rashid from Pakistan, Software Engineer by profession and a Tourist 🏕️🏔️ by passion. I love to find solution to real-world problems. I love challenging tasks in my life. As far as my passion is concerned, I love adventures 🚣 in my life and my professional field. 👨🏻‍ 👨🏻‍💻
 
-# My Qualifications 🎓: 
+# Educational Achievements 🎓: 
 
 |  Degree 📘 | Institute | From | To |
 |  :-------- | :------:  | :--: | :--: |
