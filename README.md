@@ -43,7 +43,7 @@ eXplainable AI, XAI, Computer Vision, Trustworthy AI, Trustworthy ML
 After getting motivated, i did my research in Computer Vision and Mahcine Learning Field and published following research articles:
 |  Sr. No. | Title | Journal | Dated | Paper Link | Github Link |
 | :------: | ----- | ------- | :---: | :--------: | :---------: |
-| 1. | Using Stratified Sampling to Improve LIME Image Explanations | AAAI-24 | XXX | [Paper Link]([https](https://aaai.org/aaai-conference/)) |  [Stratified LIME](https://github.com/rashidrao-pk/lime_stratified) [GitHub Repo](https://github.com/rashidrao-pk/lime-stratified-examples) |
+| 1. | Using Stratified Sampling to Improve LIME Image Explanations | AAAI-24 | XXX | [Paper Link]([https](https://aaai.org/aaai-conference/)) |  [Stratified LIME](https://github.com/rashidrao-pk/lime_stratified) |
 
 | 2. | A Novel Light U-Net Model for Left Ventricle Segmentation Using MRI. | Methematics | 24 July 2023 | [Paper Link](https://www.mdpi.com/2227-7390/11/14/3245) |  [GitHub Repo](https://github.com/rashidrao-pk/A-Novel-Light-Unet-Model-for-Left-Ventricle-Segmentation-Using-MRI) |
 | 3. | A sustainable deep learning framework for object recognition using multi-layers deep features fusion and selection | Sustainability | 19 June 2020 | [Google Scholar Link](https://link.springer.com/article/10.1007/s11042-018-7031-0) | [GitHub Repo ](https://github.com/rashidrao-pk/Object-Detection-and-Classification-A-Joint-Selection-and-Fusion-Strategy-of-Deep-Convolutional-Neu). |
