@@ -74,12 +74,12 @@ After getting motivated, i did my research in Computer Vision and Mahcine Learni
 | Sr. No. | Certificate Name   | Issued By                                | Dated                         | Grade (%)   | Course Length | Certificate |
 | :-----: | ------------------ | ------------                             | :---:                         | :---:       |   :---:       |     :---:   |
 | a) | Introduction to Generative AI | Google                            | 25-Mar-2024                   | -----       |   -------     |     <a href='https://www.cloudskillsboost.google/public_profiles/3924a3ad-b31b-42f5-b55b-6753ba136fb0/badges/8435493?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share'> Yes </a>    |
-| a) | Unlocking Grant Success with Funding Institutional | Researcher Academy | 15-Mar-2024                   | -----       |   -------     |    <a href='https://www.linkedin.com/posts/rashid-rao-cuipakistan_unlocking-grant-success-with-funding-institutional-activity-7177617228719112192-CcIc?utm_source=share&utm_medium=member_desktop'> Yes </a>    |
-| a) | How to Protect your Data (ISO 27001 course) | RuleX                            | 08-Jan-2024                   | -----       |   -------     |     Yes    |
-| b) | Reviewer in Scientific Journal | IJEECS                            | 23-Nov-2022                   | -----       |   -------     |     Yes    |
-| c) | AI for Everyone | DeepLearning.AI - Coursera                       | Sep-2022                      | 94.37       |   4 Weeks     |     <a href = 'https://www.coursera.org/account/accomplishments/verify/XFEK65GWB3MF'> Link </a>    |
-| d) | PHP Programming | Buraq Institute of Science and Technology        | 12th-Apr-2014 ~ 1st-Jul-2014  | -           |   3 Months    |     Yes    |
-| e) | Diploma in Office Management |	Elysium Computer College Regd # 673 | 04-Mar-2007 ~ 13-Jun-2007     | 80.4        |   3 Months    |     Yes    |
+| b) | Unlocking Grant Success with Funding Institutional | Researcher Academy | 15-Mar-2024                   | -----       |   -------     |    <a href='https://www.linkedin.com/posts/rashid-rao-cuipakistan_unlocking-grant-success-with-funding-institutional-activity-7177617228719112192-CcIc?utm_source=share&utm_medium=member_desktop'> Yes </a>    |
+| c) | How to Protect your Data (ISO 27001 course) | RuleX                            | 08-Jan-2024                   | -----       |   -------     |     Yes    |
+| d) | Reviewer in Scientific Journal | IJEECS                            | 23-Nov-2022                   | -----       |   -------     |     Yes    |
+| e) | AI for Everyone | DeepLearning.AI - Coursera                       | Sep-2022                      | 94.37       |   4 Weeks     |     <a href = 'https://www.coursera.org/account/accomplishments/verify/XFEK65GWB3MF'> Link </a>    |
+| f) | PHP Programming | Buraq Institute of Science and Technology        | 12th-Apr-2014 ~ 1st-Jul-2014  | -           |   3 Months    |     Yes    |
+| g) | Diploma in Office Management |	Elysium Computer College Regd # 673 | 04-Mar-2007 ~ 13-Jun-2007     | 80.4        |   3 Months    |     Yes    |
 
 <br>
 
