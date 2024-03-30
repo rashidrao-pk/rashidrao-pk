@@ -74,13 +74,13 @@ After getting motivated, i did my research in Computer Vision and Mahcine Learni
 | Sr. No. | Certificate Name   | Issued By                                | Dated                         | Grade (%)   | Course Length | Certificate |
 | :-----: | ------------------ | ------------                             | :---:                         | :---:       |   :---:       |     :---:   |
 | a) | Introduction to Generative AI | Google                            | 25-Mar-2024                   | -----       |   -------     |     <a href='https://www.cloudskillsboost.google/public_profiles/3924a3ad-b31b-42f5-b55b-6753ba136fb0/badges/8435493?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share'> Yes </a>    |
-| b) | Unlocking Grant Success with Funding Institutional | Researcher Academy | 15-Mar-2024                   | -----       |   -------     |    <a href='https://www.linkedin.com/posts/rashid-rao-cuipakistan_unlocking-grant-success-with-funding-institutional-activity-7177617228719112192-CcIc?utm_source=share&utm_medium=member_desktop'> Yes </a>    |
-| c) | How to Protect your Data (ISO 27001 course) | RuleX                            | 08-Jan-2024                   | -----       |   -------     |     <a href='https://drive.google.com/file/d/1FwmLfBSHWwRJdBjBv_khjoyEgVHhD-gO/view?usp=sharing'> Yes </a> |
-| d) | Reviewer in Scientific Journal | IJEECS                            | 23-Nov-2022                   | -----       |   -------     |     <a href='https://drive.google.com/file/d/1r9EEOnvTWt6H2K-SmyowuiUtaBIWh7xU/view?usp=sharing'> Yes </a>   |
-| e) | AI for Everyone | DeepLearning.AI - Coursera                       | Sep-2022                      | 94.37       |   4 Weeks     |     <a href = 'https://www.coursera.org/account/accomplishments/verify/XFEK65GWB3MF'> Link </a>    |
-| f) | PHP Programming | Buraq Institute of Science and Technology        | 12th-Apr-2014 ~ 1st-Jul-2014  | -           |   3 Months    |     <a href='https://drive.google.com/file/d/1K686f8rWsElKnx3g8lmmIc5j7OqL6bZI/view?usp=sharing'> Yes </a>    |
-| g) | Diploma in Office Management |	Elysium Computer College Regd # 673 | 04-Mar-2007 ~ 13-Jun-2007     | 80.4        |   3 Months    |     <a href='https://drive.google.com/file/d/1IfCuG-ywbuwYRiZ4v05L9ukfWLmlx7Dp/view?usp=sharing'>Yes </a>   |
-
+| b) | Introduction to Generative AI | Google                            | 25-Mar-2024                   | -----       |   -------     |     <a href='https://www.cloudskillsboost.google/public_profiles/3924a3ad-b31b-42f5-b55b-6753ba136fb0/badges/8435493?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share'> Yes </a>    |
+| c) | Unlocking Grant Success with Funding Institutional | Researcher Academy | 15-Mar-2024                   | -----       |   -------     |    <a href='https://www.linkedin.com/posts/rashid-rao-cuipakistan_unlocking-grant-success-with-funding-institutional-activity-7177617228719112192-CcIc?utm_source=share&utm_medium=member_desktop'> Yes </a>    |
+| d) | How to Protect your Data (ISO 27001 course) | RuleX                            | 08-Jan-2024                   | -----       |   -------     |     <a href='https://drive.google.com/file/d/1FwmLfBSHWwRJdBjBv_khjoyEgVHhD-gO/view?usp=sharing'> Yes </a> |
+| e) | Reviewer in Scientific Journal | IJEECS                            | 23-Nov-2022                   | -----       |   -------     |     <a href='https://drive.google.com/file/d/1r9EEOnvTWt6H2K-SmyowuiUtaBIWh7xU/view?usp=sharing'> Yes </a>   |
+| f) | AI for Everyone | DeepLearning.AI - Coursera                       | Sep-2022                      | 94.37       |   4 Weeks     |     <a href = 'https://www.coursera.org/account/accomplishments/verify/XFEK65GWB3MF'> Link </a>    |
+| g) | PHP Programming | Buraq Institute of Science and Technology        | 12th-Apr-2014 ~ 1st-Jul-2014  | -           |   3 Months    |     <a href='https://drive.google.com/file/d/1K686f8rWsElKnx3g8lmmIc5j7OqL6bZI/view?usp=sharing'> Yes </a>    |
+| h) | Diploma in Office Management |	Elysium Computer College Regd # 673 | 04-Mar-2007 ~ 13-Jun-2007     | 80.4        |   3 Months    |     <a href='https://drive.google.com/file/d/1IfCuG-ywbuwYRiZ4v05L9ukfWLmlx7Dp/view?usp=sharing'>Yes </a>   |
 <br>
 
 # 📫 Profile Links :
@@ -89,6 +89,7 @@ After getting motivated, i did my research in Computer Vision and Mahcine Learni
 | --------- | ----- |
 | Google Scholar  | https://scholar.google.com.pk/citations?user=F5u_Z5MAAAAJ  |
 | LinkedIn  | https://www.linkedin.com/in/rashid-rao-cuipakistan/  |
+| ResearchGate  | [https://www.linkedin.com/in/rashid-rao-cuipakistan/](https://www.researchgate.net/profile/Muhammad-Rashid-65)  |
 | ORCID  | https://orcid.org/0000-0002-2557-6845/  |
 | Sciprofiles  | https://sciprofiles.com/profile/rashidmuhammad  |
 | Loop Frontiersin  | https://loop.frontiersin.org/people/2290013/  |
