@@ -92,6 +92,8 @@ After getting motivated, i did my research in Computer Vision and Mahcine Learni
 | ORCID  | https://orcid.org/0000-0002-2557-6845/  |
 | Sciprofiles  | https://sciprofiles.com/profile/rashidmuhammad  |
 | Loop Frontiersin  | https://loop.frontiersin.org/people/2290013/  |
+| Cousera  | [https://loop.frontiersin.org/people/2290013/](https://www.coursera.org/learner/rashidrao-pk)  |
+
 
 <br>
 
