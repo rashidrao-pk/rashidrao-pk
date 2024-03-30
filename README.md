@@ -78,8 +78,8 @@ After getting motivated, i did my research in Computer Vision and Mahcine Learni
 | c) | How to Protect your Data (ISO 27001 course) | RuleX                            | 08-Jan-2024                   | -----       |   -------     |     Yes    |
 | d) | Reviewer in Scientific Journal | IJEECS                            | 23-Nov-2022                   | -----       |   -------     |     Yes    |
 | e) | AI for Everyone | DeepLearning.AI - Coursera                       | Sep-2022                      | 94.37       |   4 Weeks     |     <a href = 'https://www.coursera.org/account/accomplishments/verify/XFEK65GWB3MF'> Link </a>    |
-| f) | PHP Programming | Buraq Institute of Science and Technology        | 12th-Apr-2014 ~ 1st-Jul-2014  | -           |   3 Months    |     Yes    |
-| g) | Diploma in Office Management |	Elysium Computer College Regd # 673 | 04-Mar-2007 ~ 13-Jun-2007     | 80.4        |   3 Months    |     Yes    |
+| f) | PHP Programming | Buraq Institute of Science and Technology        | 12th-Apr-2014 ~ 1st-Jul-2014  | -           |   3 Months    |     <a href='https://drive.google.com/file/d/1K686f8rWsElKnx3g8lmmIc5j7OqL6bZI/view?usp=sharing'> Yes </a>    |
+| g) | Diploma in Office Management |	Elysium Computer College Regd # 673 | 04-Mar-2007 ~ 13-Jun-2007     | 80.4        |   3 Months    |     <a href='https://drive.google.com/file/d/1IfCuG-ywbuwYRiZ4v05L9ukfWLmlx7Dp/view?usp=sharing'>Yes </a>   |
 
 <br>
 
