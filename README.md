@@ -39,7 +39,7 @@ eXplainable AI, XAI, Computer Vision, Trustworthy AI, Trustworthy ML
 <a href="https://github.com/rashidrao-pk/Online-Venure-Booking-and-Tour-Planning"> OVBTP, A Secure AI based Web Application for Venue Booking and Tour Planning</a>
 <br>
 
-# My Research Articles/ Publications 📊📝:
+# Research Articles / Publications 📊📝:
 After getting motivated, i did my research in Computer Vision and Mahcine Learning Field and published following research articles:
 |  Sr. No. | Title | Journal | Dated | Paper Link | Github Link |
 | :------: | ----- | ------- | :---: | :--------: | :---------: |
@@ -53,7 +53,6 @@ After getting motivated, i did my research in Computer Vision and Mahcine Learni
 | 8. | Region-based active contour JSEG fusion technique for skin lesion segmentation from dermoscopic images. | Biomedical Research | 19 Sep 2019 | [Paper Link](https://1stdirectory.co.uk/_assets/files_comp/ad6f229c-84db-4857-a481-2f6e9377461d.pdf) |  [GitHub Repo](https://github.com/rashidrao-pk/Region-based-active-contour-JSEG-fusion-technique-for-skin-lesion-segmentation-from-dermoscopic-imag) |
 | 9. | Object Detection and Classification: A Joint Selection and Fusion Strategy of Deep Convolutional Neural Network and SIFT Point Features. | Multimedia Tools and Applications | 08 Dec 2018 | [Google Scholar Link](https://www.mdpi.com/2071-1050/12/12/5037) | [GitHub Repo](https://github.com/rashidrao-pk/A-sustainable-deep-learning-framework-for-object-recognition-using-multi-layers-deep-features-fusion) |
 <br>
-
 
 
 #  T E C H N I C A L - S K I L L S ⚡ :
@@ -74,6 +73,8 @@ After getting motivated, i did my research in Computer Vision and Mahcine Learni
 
 | Sr. No. | Certificate Name   | Issued By                                | Dated                         | Grade (%)   | Course Length | Certificate |
 | :-----: | ------------------ | ------------                             | :---:                         | :---:       |   :---:       |     :---:   |
+| a) | Introduction to Generative AI | Google                            | 25-Mar-2024                   | -----       |   -------     |     <a href='https://www.cloudskillsboost.google/public_profiles/3924a3ad-b31b-42f5-b55b-6753ba136fb0/badges/8435493?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share'> Yes </a>    |
+| a) | Unlocking Grant Success with Funding Institutional | Researcher Academy | 15-Mar-2024                   | -----       |   -------     |    <a href='https://www.linkedin.com/posts/rashid-rao-cuipakistan_unlocking-grant-success-with-funding-institutional-activity-7177617228719112192-CcIc?utm_source=share&utm_medium=member_desktop'> Yes </a>    |
 | a) | How to Protect your Data (ISO 27001 course) | RuleX                            | 08-Jan-2024                   | -----       |   -------     |     Yes    |
 | b) | Reviewer in Scientific Journal | IJEECS                            | 23-Nov-2022                   | -----       |   -------     |     Yes    |
 | c) | AI for Everyone | DeepLearning.AI - Coursera                       | Sep-2022                      | 94.37       |   4 Weeks     |     <a href = 'https://www.coursera.org/account/accomplishments/verify/XFEK65GWB3MF'> Link </a>    |
@@ -82,7 +83,7 @@ After getting motivated, i did my research in Computer Vision and Mahcine Learni
 
 <br>
 
-# Technical Profile Links 🔗:
+# 📫 Profile Links :
 
 |  Platform | Link  |
 | --------- | ----- |
@@ -93,6 +94,5 @@ After getting motivated, i did my research in Computer Vision and Mahcine Learni
 | Loop Frontiersin  | https://loop.frontiersin.org/people/2290013/  |
 
 <br>
-
 
 <a href="https://www.teacheron.com/tutor-profile/50r1?r=50r1" target="_blank" style="display: inline-block;"><img src="https://www.teacheron.com/resources/assets/img/badges/viewMyProfile.png" style="width: 120px !important; height: 52px !important"></a>
