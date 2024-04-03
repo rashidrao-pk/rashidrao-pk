@@ -89,12 +89,13 @@ After getting motivated, i did my research in Computer Vision and Mahcine Learni
 | --------- | ----- |
 | Google Scholar  | https://scholar.google.com.pk/citations?user=F5u_Z5MAAAAJ  |
 | LinkedIn  | https://www.linkedin.com/in/rashid-rao-cuipakistan/  |
-| ResearchGate  | [https://www.researchgate.net/profile/Muhammad-Rashid-65](https://www.researchgate.net/profile/Muhammad-Rashid-65)  |
+| ResearchGate  | https://www.researchgate.net/profile/Muhammad-Rashid-65  |
+| SementicScholor  | https://www.semanticscholar.org/author/Muhammad-Rashid/2293444837  |
 | ORCID  | https://orcid.org/0000-0002-2557-6845/  |
-| UnderLine  | [https://underline.io/speakers/254136-muhammad-rashid](https://underline.io/speakers/254136-muhammad-rashid)  |
+| UnderLine  | https://underline.io/speakers/254136-muhammad-rashid  |
 | Sciprofiles  | https://sciprofiles.com/profile/rashidmuhammad  |
 | Loop Frontiersin  | https://loop.frontiersin.org/people/2290013/  |
-| Cousera  | [https://loop.frontiersin.org/people/2290013/](https://www.coursera.org/learner/rashidrao-pk)  |
+| Cousera  | https://www.coursera.org/learner/rashidrao-pk  |
 
 
 <br>
