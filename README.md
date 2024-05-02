@@ -47,8 +47,8 @@ eXplainable AI, XAI, Computer Vision, Trustworthy AI, Trustworthy ML
 Keywords: Object Detection, Object Localization, Computer Vision, Deep Learning, Feature Engineering, Caltech-101, Caltech-256
 |  Sr. No. | Title | Journal | Publication Date | Paper Link | DOI | Codes |
 | :------: | ----- | ------- | :---: | :--------: | :--------: | :---------: |
-| 1. | A sustainable deep learning framework for object recognition using multi-layers deep features fusion and selection. |  Sustainability | 19 June 2020 | [Google Scholar Link](https://www.mdpi.com/2071-1050/12/12/5037) | --- | [GitHub Repo](https://github.com/rashidrao-pk/A-sustainable-deep-learning-framework-for-object-recognition-using-multi-layers-deep-features-fusion) |
-| 2. | Object Detection and Classification: A Joint Selection and Fusion Strategy of Deep Convolutional Neural Network and SIFT Point Features. |  Multimedia Tools and Applications | 08 Dec 2018 | [Google Scholar Link](https://link.springer.com/article/10.1007/s11042-018-7031-0) | --- | [GitHub Repo ](https://github.com/rashidrao-pk/Object-Detection-and-Classification-A-Joint-Selection-and-Fusion-Strategy-of-Deep-Convolutional-Neu) |
+| 1. | A sustainable deep learning framework for object recognition using multi-layers deep features fusion and selection. |  Sustainability | 19 June 2020 | [Google Scholar Link](https://www.mdpi.com/2071-1050/12/12/5037) | [DOI LINK] (https://doi.org/10.3390/su12125037) | [GitHub Repo](https://github.com/rashidrao-pk/A-sustainable-deep-learning-framework-for-object-recognition-using-multi-layers-deep-features-fusion) |
+| 2. | Object Detection and Classification: A Joint Selection and Fusion Strategy of Deep Convolutional Neural Network and SIFT Point Features. |  Multimedia Tools and Applications | 08 Dec 2018 | [Google Scholar Link](https://link.springer.com/article/10.1007/s11042-018-7031-0) | DOI LINK](https://doi.org/10.1007/s11042-018-7031-0) | [GitHub Repo ](https://github.com/rashidrao-pk/Object-Detection-and-Classification-A-Joint-Selection-and-Fusion-Strategy-of-Deep-Convolutional-Neu) |
 
 <br>
 
