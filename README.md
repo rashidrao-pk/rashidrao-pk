@@ -38,9 +38,16 @@ eXplainable AI, XAI, Computer Vision, Trustworthy AI, Trustworthy ML
 
 
 
-# MS(CS) Thesis (2019): 
+# MS(CS) Work (2019): 
+### Thesis
 <a href="https://github.com/rashidrao-pk/Master-Thesis-on-Object-Detection-and-Classification-Based-on-Fusion-of-SIFT-and-Deep-CNN-Features"> Object Detection and Classification: A Joint Selection and Fusion Strategy of Deep Convolutional Neural Network and SIFT Point Features </a>
 <br>
+
+### Publications : 
+Keywords: Object Detection, Object Localization, Computer Vision, Deep Learning, Feature Engineering, Caltech-101, Caltech-256
+|  Sr. No. | Title | Journal | Publication Date | Paper Link | DOI | Codes |
+| :------: | ----- | ------- | :---: | :--------: | :--------: | :---------: |
+| 1. | XXX. |  --- | --- | --- | --- | --- |
 
 # BS(CS) Final Year Project (2016): 
 <a href="https://github.com/rashidrao-pk/Online-Venure-Booking-and-Tour-Planning"> OVBTP, A Secure AI based Web Application for Venue Booking and Tour Planning</a>
