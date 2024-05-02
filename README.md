@@ -30,19 +30,13 @@ Hi 👋, I am Muhammad Rashid from Pakistan, Software Engineer by profession and
 
 # Educational Projects / Research Projects 💻:
 ## 1. PhD(CS) 2022-Present : 
-Industrial PhD funded by PNRR-CINECA Italy
-Under : 
- <ul>
-         Academic Supervisor
-         <li> [Elvio Gilberto Amparore](https://informatica.unito.it/do/docenti.pl/Alias?elviogilberto.amparore#tab-profilo), University of Turin, Italy </li> 
-         Industrial Supervisors:
-         <li>
-                 Enrico Ferrari, HEAD OF R&D PROJECTS, Rulex Innovation Labs, Italy.
-         </li>
-         <li>
-                 [Damiano Verda](https://www.rulex.ai/about-us/), HEAD OF DATA SCIENCE, Rulex Innovation Labs, Italy.
-         </li>
- </ul>
+Industrial PhD funded by PNRR-CINECA Italy 
+#### Academic Supervisor
+ - [Elvio Gilberto Amparore](https://informatica.unito.it/do/docenti.pl/Alias?elviogilberto.amparore) , University of Turin, Italy </li>
+#### Industrial Supervisors: <br>
+ - [Enrico Ferrari](https://www.rulex.ai/about-us), HEAD OF R&D PROJECTS, Rulex Innovation Labs, Italy.
+ - [Damiano Verda](https://www.rulex.ai/about-us), HEAD OF DATA SCIENCE, Rulex Innovation Labs, Italy. <br>
+
  <br>
  
 Keywords: eXplainable AI, XAI, Computer Vision, Trustworthy AI, Trustworthy ML
