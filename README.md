@@ -29,7 +29,7 @@ Hi 👋, I am Muhammad Rashid from Pakistan, Software Engineer by profession and
 <br>
 
 # Educational Projects / Research Projects 💻:
-# PhD Work : 
+### PhD Work : 
 eXplainable AI, XAI, Computer Vision, Trustworthy AI, Trustworthy ML
 |  Sr. No. | Title | Journal / Conference | Venue Dates | Location | Publication Date | Paper Link | Codes |
 | :------: | ----- | ------- | :---: | :--------: | :--------: | :---------: | :---------: |
@@ -38,7 +38,7 @@ eXplainable AI, XAI, Computer Vision, Trustworthy AI, Trustworthy ML
 
 
 
-# MS(CS) Work (2019): 
+## MS(CS) Work (2019): 
 ### Thesis
 <a href="https://github.com/rashidrao-pk/Master-Thesis-on-Object-Detection-and-Classification-Based-on-Fusion-of-SIFT-and-Deep-CNN-Features"> Object Detection and Classification: A Joint Selection and Fusion Strategy of Deep Convolutional Neural Network and SIFT Point Features </a>
 <br>
@@ -48,12 +48,15 @@ Keywords: Object Detection, Object Localization, Computer Vision, Deep Learning,
 |  Sr. No. | Title | Journal | Publication Date | Paper Link | DOI | Codes |
 | :------: | ----- | ------- | :---: | :--------: | :--------: | :---------: |
 | 1. | A sustainable deep learning framework for object recognition using multi-layers deep features fusion and selection. |  Sustainability | 19 June 2020 | [Google Scholar Link](https://link.springer.com/article/10.1007/s11042-018-7031-0) | --- | [GitHub Repo ](https://github.com/rashidrao-pk/Object-Detection-and-Classification-A-Joint-Selection-and-Fusion-Strategy-of-Deep-Convolutional-Neu) |
+| 2. | Object Detection and Classification: A Joint Selection and Fusion Strategy of Deep Convolutional Neural Network and SIFT Point Features. |  Multimedia Tools and Applications | 08 Dec 2018 | [Google Scholar Link](https://www.mdpi.com/2071-1050/12/12/5037) | --- | [GitHub Repo](https://github.com/rashidrao-pk/A-sustainable-deep-learning-framework-for-object-recognition-using-multi-layers-deep-features-fusion) |
 
-# BS(CS) Final Year Project (2016): 
+<br>
+
+## BS(CS) Final Year Project (2016): 
 <a href="https://github.com/rashidrao-pk/Online-Venure-Booking-and-Tour-Planning"> OVBTP, A Secure AI based Web Application for Venue Booking and Tour Planning</a>
 <br>
 
-# Research Articles / Publications 📊📝:
+# All Research Articles / Publications 📊📝:
 After getting motivated, i did my research in Computer Vision and Mahcine Learning Field and published following research articles:
 |  Sr. No. | Title | Journal | Dated | Paper Link | Github Link |
 | :------: | ----- | ------- | :---: | :--------: | :---------: |
