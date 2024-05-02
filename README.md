@@ -29,8 +29,8 @@ Hi 👋, I am Muhammad Rashid from Pakistan, Software Engineer by profession and
 <br>
 
 # Educational Projects / Research Projects 💻:
-### PhD Work : 
-eXplainable AI, XAI, Computer Vision, Trustworthy AI, Trustworthy ML
+## PhD(CS) 2022-Present : 
+Keywords: eXplainable AI, XAI, Computer Vision, Trustworthy AI, Trustworthy ML
 |  Sr. No. | Title | Journal / Conference | Venue Dates | Location | Publication Date | Paper | Codes |
 | :------: | ----- | ------- | :---: | :--------: | :--------: | :---------: | :---------: |
 | 1. | Can I trust my anomaly detection system? A case study. |  [XAI-World](https://xaiworldconference.com/2024/) | 17-19 July 2024 | Malta, Valletta | XXX | To Appear | XYZ |
@@ -40,7 +40,6 @@ eXplainable AI, XAI, Computer Vision, Trustworthy AI, Trustworthy ML
 
 ## MS(CS) (2019): 
 
-### Work : 
 Keywords: Object Detection, Object Localization, Computer Vision, Deep Learning, Feature Engineering, Caltech-101, Caltech-256
 |  Sr. No. | Type    | Title  | Journal  | Publication Date | Paper      |    DOI     |    Codes    |
 | :------: | :-----: | :----- | :------- |      :---:       | :--------: | :--------: | :---------: |
