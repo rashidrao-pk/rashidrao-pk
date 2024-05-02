@@ -42,6 +42,9 @@ Under :
          <li>
                  [Damiano Verda](https://www.rulex.ai/about-us/), HEAD OF DATA SCIENCE, Rulex Innovation Labs, Italy.
          </li>
+ </ul>
+ <br>
+ 
 Keywords: eXplainable AI, XAI, Computer Vision, Trustworthy AI, Trustworthy ML
 |  Sr. No. | Title | Journal / Conference | Venue Dates | Location | Publication Date | Paper | Codes |
 | :------: | ----- | ------- | :---: | :--------: | :--------: | :---------: | :---------: |
