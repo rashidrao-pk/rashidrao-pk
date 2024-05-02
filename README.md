@@ -20,16 +20,16 @@ Hi 👋, I am Muhammad Rashid from Pakistan, Software Engineer by profession and
 
 # Educational Achievements 🎓: 
 
-|  Degree 📘 | Institute | From | To |
-|  :-------- | :------:  | :--: | :--: |
-|  Ph. D.(CS) | University of Turin, Italy.  | 2022 | 2025 |
-|  MS(CS) | Comsats University Islamabad, Wah Campus, Pakistan.  | 2017 | 2019 |
-|  BS(CS) | Allama Iqbal Open University Islamabad, Pakistan.  | 2010 | 2016 |
+|  Sr. No. | Degree 📘  | Institute                                             | From |  To  |
+|  :---:   | :--------   | :------                                              | :--:  | :--: |
+| 1.       | Ph. D.(CS)  | University of Turin, Italy.                          | 2022  | 2025 |
+| 2.       | MS(CS)      | Comsats University Islamabad, Wah Campus, Pakistan.  | 2017  | 2019 |
+| 3.       | BS(CS)      | Allama Iqbal Open University Islamabad, Pakistan.    | 2010  | 2016 |
 
 <br>
 
 # Educational Projects / Research Projects 💻:
-## PhD(CS) 2022-Present : 
+## 1. PhD(CS) 2022-Present : 
 Keywords: eXplainable AI, XAI, Computer Vision, Trustworthy AI, Trustworthy ML
 |  Sr. No. | Title | Journal / Conference | Venue Dates | Location | Publication Date | Paper | Codes |
 | :------: | ----- | ------- | :---: | :--------: | :--------: | :---------: | :---------: |
@@ -38,7 +38,7 @@ Keywords: eXplainable AI, XAI, Computer Vision, Trustworthy AI, Trustworthy ML
 
 
 
-## MS(CS) (2019): 
+## 2. MS(CS) (2019): 
 
 Keywords: Object Detection, Object Localization, Computer Vision, Deep Learning, Feature Engineering, Caltech-101, Caltech-256
 |  Sr. No. | Type    | Title  | Journal  | Publication Date | Paper      |    DOI     |    Codes    |
@@ -49,7 +49,7 @@ Keywords: Object Detection, Object Localization, Computer Vision, Deep Learning,
 
 <br>
 
-## BS(CS)  (2016):
+## 3. BS(CS)  (2016):
 |  Sr. No. | Title | Codes | Application Link |
 |  :---    | :---  | :---: | :--- |
 |  1.      |  OVBTP, A Secure AI based Web Application for Venue Booking and Tour Planning  | <a href="https://github.com/rashidrao-pk/Online-Venure-Booking-and-Tour-Planning"> GITHUB </a> | <a href="http://www.ovbtp.com">  OVBTP Website </a> |
