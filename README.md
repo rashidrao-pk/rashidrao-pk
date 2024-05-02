@@ -91,6 +91,7 @@ After getting motivated, i did my research in Computer Vision and Mahcine Learni
 |  Platform | Link  |
 | --------- | ----- |
 | Google Scholar  | https://scholar.google.com.pk/citations?user=F5u_Z5MAAAAJ  |
+| Scopus  | https://www.scopus.com/authid/detail.uri?authorId=57417085200  |
 | LinkedIn  | https://www.linkedin.com/in/rashid-rao-cuipakistan/  |
 | ResearchGate  | https://www.researchgate.net/profile/Muhammad-Rashid-65  |
 | SementicScholor  | https://www.semanticscholar.org/author/Muhammad-Rashid/2293444837  |
