@@ -52,7 +52,13 @@ Keywords: Object Detection, Object Localization, Computer Vision, Deep Learning,
 
 <br>
 
-## BS(CS) Final Year Project (2016): 
+## BS(CS)  (2016):
+|  Sr. No. | Title | Codes | Application Link |
+|  :---    | :---  | :---: | :--- |
+|  1.      |  OVBTP, A Secure AI based Web Application for Venue Booking and Tour Planning  | <a href="https://github.com/rashidrao-pk/Online-Venure-Booking-and-Tour-Planning"> | <a href="http://www.ovbtp.com">  OVBTP </a> |
+
+
+
 <a href="https://github.com/rashidrao-pk/Online-Venure-Booking-and-Tour-Planning"> OVBTP, A Secure AI based Web Application for Venue Booking and Tour Planning</a>
 <br>
 
