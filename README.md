@@ -67,7 +67,7 @@ Keywords: Object Detection, Object Localization, Computer Vision, Deep Learning,
 
 # 3. All Research Articles / Publications 📊📝:
 After getting motivated, i did my research in Computer Vision and Mahcine Learning Field and published following research articles:
-|  Sr. No. | Title | Journal | Dated | Paper | Github Link |
+|  Sr. No. | Title | Journal /<br> Conferencce | Dated | Paper | Github Link |
 | :------: | ----- | ------- | :---: | :--------: | :---------: |
 | 1. | Can I trust my anomaly detection system? A case study based on XAI. | XAI-World | XX-XX-XXXX | Accepted, To Present | XYZ |
 | 2. | Using Stratified Sampling to Improve LIME Image Explanations. | AAAI-24 | 24-03-2024 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/29397) |  [Stratified LIME](https://github.com/rashidrao-pk/lime_stratified)<br><br> [Examples](https://github.com/rashidrao-pk/lime-stratified-examples)|
