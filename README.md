@@ -81,7 +81,7 @@ After getting motivated, i did my research in Computer Vision and Mahcine Learni
 <br>
         
 #  4. Certificates 📝:
-#  a. Certificates of Skills:
+##  a. Certificates of Skills:
 | Sr. No. | Certificate Name   | Issued By                                | Dated                         | Grade (%)   | Course Length | Certificate |
 | :-----: | ------------------ | ------------                             | :---:                         | :---:       |   :---:       |     :---:   |
 | a) | Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning | DeepLearning.AI                            | 12-Jun-2024                   |  100%       |   17 hours     |     <a href='https://coursera.org/share/c92c13ff02cf8e09592af5bf8fcb0d0e'> Yes </a>    |
@@ -94,7 +94,7 @@ After getting motivated, i did my research in Computer Vision and Mahcine Learni
 | h) | Diploma in Office Management |	Elysium Computer College Regd # 673 | 04-Mar-2007 ~ 13-Jun-2007     | 80.4        |   3 Months    |     <a href='https://drive.google.com/file/d/1IfCuG-ywbuwYRiZ4v05L9ukfWLmlx7Dp/view?usp=sharing'>Yes </a>   |
 <br>
 
-#  b. Certificates of Attendance:
+##  b. Certificates of Attendance:
 | Sr. No. | Certificate Name   | Issued By                                           | Dated       | Location   | From-To | Certificate |
 | :-----: | ------------------ | ------------                                        | :---:       |     :---:       |  :---:       |     :---:   |
 | 1 | AAAI24 | Association for the Advancement of Artificial Intelligence (AAAI)     | Feb 2024    |     Vancouver, Canada       | 22-27 Feb 2024   |     https://www.linkedin.com/in/rashid-rao-cuipakistan/details/certifications/1711816183817/single-media-viewer/?profileId=ACoAABD65c0BtQYsWVhZVXZ4PcZV9G1-CKFA7XE   |
