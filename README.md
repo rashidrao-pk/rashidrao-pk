@@ -28,8 +28,8 @@ Hi 👋, I am Muhammad Rashid from Pakistan, Software Engineer by profession and
 
 <br>
 
-# Educational Projects / Research Projects 💻:
-## 1. PhD(CS) 2022-Present : 
+# 1. Educational Projects / Research Projects 💻:
+## a. PhD(CS) 2022-Present : 
 Industrial PhD funded by PNRR-CINECA Italy 
 #### Academic Supervisor
  - [Elvio Gilberto Amparore](https://informatica.unito.it/do/docenti.pl/Alias?elviogilberto.amparore) , University of Turin, Italy </li>
@@ -47,7 +47,7 @@ Keywords: eXplainable AI, XAI, Computer Vision, Trustworthy AI, Trustworthy ML
 
 
 
-## 2. MS(CS) (2019): 
+## b. MS(CS) (2019): 
 
 Keywords: Object Detection, Object Localization, Computer Vision, Deep Learning, Feature Engineering, Caltech-101, Caltech-256
 |  Sr. No. | Type    | Title  | Journal  | Publication Date | Paper      |    DOI     |    Codes    |
@@ -58,7 +58,7 @@ Keywords: Object Detection, Object Localization, Computer Vision, Deep Learning,
 
 <br>
 
-## 3. BS(CS)  (2016):
+## c. BS(CS)  (2016):
 |  Sr. No. | Title | Codes | Application Link |
 |  :---    | :---  | :---: | :--- |
 |  1.      |  OVBTP, A Secure AI based Web Application for Venue Booking and Tour Planning  | <a href="https://github.com/rashidrao-pk/Online-Venure-Booking-and-Tour-Planning"> GITHUB </a> | <a href="http://www.ovbtp.com">  OVBTP Website </a> |
@@ -66,7 +66,7 @@ Keywords: Object Detection, Object Localization, Computer Vision, Deep Learning,
 
 <br>
 
-# All Research Articles / Publications 📊📝:
+# 2. All Research Articles / Publications 📊📝:
 After getting motivated, i did my research in Computer Vision and Mahcine Learning Field and published following research articles:
 |  Sr. No. | Title | Journal | Dated | Paper | Github Link |
 | :------: | ----- | ------- | :---: | :--------: | :---------: |
@@ -82,7 +82,7 @@ After getting motivated, i did my research in Computer Vision and Mahcine Learni
 <br>
 
 
-#  Technical Skills ⚡ :
+#  3. Technical Skills ⚡ :
 
 | Sr. No. | Skill | Level |
 | :-----: | ----- | :---: | 
@@ -92,8 +92,8 @@ After getting motivated, i did my research in Computer Vision and Mahcine Learni
 | d) | Edraw | Expert |  
 | h) | PHP | Expert | 
         
-#  Certificates of Skills 📝 :
-
+#  4. Certificates 📝:
+#  a. Certificates of Skills:
 | Sr. No. | Certificate Name   | Issued By                                | Dated                         | Grade (%)   | Course Length | Certificate |
 | :-----: | ------------------ | ------------                             | :---:                         | :---:       |   :---:       |     :---:   |
 | a) | Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning | DeepLearning.AI                            | 12-Jun-2024                   |  100%       |   17 hours     |     <a href='https://coursera.org/share/c92c13ff02cf8e09592af5bf8fcb0d0e'> Yes </a>    |
@@ -106,13 +106,12 @@ After getting motivated, i did my research in Computer Vision and Mahcine Learni
 | h) | Diploma in Office Management |	Elysium Computer College Regd # 673 | 04-Mar-2007 ~ 13-Jun-2007     | 80.4        |   3 Months    |     <a href='https://drive.google.com/file/d/1IfCuG-ywbuwYRiZ4v05L9ukfWLmlx7Dp/view?usp=sharing'>Yes </a>   |
 <br>
 
-#  Certificates of Attendance 📝 :
+#  b. Certificates of Attendance:
 | Sr. No. | Certificate Name   | Issued By                                           | Dated       | Location   | From-To | Certificate |
 | :-----: | ------------------ | ------------                                        | :---:       |     :---:       |  :---:       |     :---:   |
 | 1 | AAAI24 | Association for the Advancement of Artificial Intelligence (AAAI)     | Feb 2024    |     Vancouver, Canada       | 22-27 Feb 2024   |     https://www.linkedin.com/in/rashid-rao-cuipakistan/details/certifications/1711816183817/single-media-viewer/?profileId=ACoAABD65c0BtQYsWVhZVXZ4PcZV9G1-CKFA7XE   |
 
-
-# 📫 Profile Links :
+# 5. Profile Links 📫:
 
 |  Platform | Link  |
 | --------- | ----- |
