@@ -34,8 +34,8 @@ Industrial PhD funded by PNRR-CINECA Italy
 #### Academic Supervisor
  - [Elvio Gilberto Amparore](https://informatica.unito.it/do/docenti.pl/Alias?elviogilberto.amparore) , University of Turin, Italy </li>
 #### Industrial Supervisors: <br>
- - [Enrico Ferrari](https://www.rulex.ai/about-us), HEAD OF R&D PROJECTS, Rulex Innovation Labs, Italy.
- - [Damiano Verda](https://www.rulex.ai/about-us), HEAD OF DATA SCIENCE, Rulex Innovation Labs, Italy. <br>
+ - [Enrico Ferrari](https://www.rulex.ai/about-us), HEAD OF R&D PROJECTS, [Rulex Innovation Labs, Italy](https://www.rulex.ai/).
+ - [Damiano Verda](https://www.rulex.ai/about-us), HEAD OF DATA SCIENCE, [Rulex Innovation Labs, Italy](https://www.rulex.ai/). <br>
 
  <br>
  
