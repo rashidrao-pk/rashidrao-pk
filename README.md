@@ -82,7 +82,7 @@ After getting motivated, i did my research in Computer Vision and Mahcine Learni
 <br>
 
 
-#  T E C H N I C A L - S K I L L S ⚡ :
+#  Technical Skills ⚡ :
 
 | Sr. No. | Skill | Level |
 | :-----: | ----- | :---: | 
@@ -92,7 +92,7 @@ After getting motivated, i did my research in Computer Vision and Mahcine Learni
 | d) | Edraw | Expert |  
 | h) | PHP | Expert | 
         
-#  C E R T I F I C A T E S 📝 :
+#  Certificates of Skills 📝 :
 
 | Sr. No. | Certificate Name   | Issued By                                | Dated                         | Grade (%)   | Course Length | Certificate |
 | :-----: | ------------------ | ------------                             | :---:                         | :---:       |   :---:       |     :---:   |
@@ -105,6 +105,12 @@ After getting motivated, i did my research in Computer Vision and Mahcine Learni
 | g) | PHP Programming | Buraq Institute of Science and Technology        | 12th-Apr-2014 ~ 1st-Jul-2014  | -           |   3 Months    |     <a href='https://drive.google.com/file/d/1K686f8rWsElKnx3g8lmmIc5j7OqL6bZI/view?usp=sharing'> Yes </a>    |
 | h) | Diploma in Office Management |	Elysium Computer College Regd # 673 | 04-Mar-2007 ~ 13-Jun-2007     | 80.4        |   3 Months    |     <a href='https://drive.google.com/file/d/1IfCuG-ywbuwYRiZ4v05L9ukfWLmlx7Dp/view?usp=sharing'>Yes </a>   |
 <br>
+
+#  Certificates of Attendance 📝 :
+| Sr. No. | Certificate Name   | Issued By                                           | Dated       | Location   | From-To | Certificate |
+| :-----: | ------------------ | ------------                                        | :---:       |     :---:       |  :---:       |     :---:   |
+| 1 | AAAI24 | Association for the Advancement of Artificial Intelligence (AAAI)     | Feb 2024    |     Vancouver, Canada       | 22-27 Feb 2024   |     https://www.linkedin.com/in/rashid-rao-cuipakistan/details/certifications/1711816183817/single-media-viewer/?profileId=ACoAABD65c0BtQYsWVhZVXZ4PcZV9G1-CKFA7XE   |
+
 
 # 📫 Profile Links :
 
