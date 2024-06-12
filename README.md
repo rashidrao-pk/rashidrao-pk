@@ -79,19 +79,8 @@ After getting motivated, i did my research in Computer Vision and Mahcine Learni
 | 8. | An integrated framework of skin lesion detection and recognition through saliency method and optimal deep neural network features selection. | Neural Computing and Applications | 08 Nov 2019 | [Link](https://link.springer.com/article/10.1007/s00521-019-04514-0) | [GitHub Repo](https://github.com/rashidrao-pk/An-integrated-framework-of-skin-lesion-detection-and-recognition-through-saliency-method-and-optimal) |
 | 9. | Object Detection and Classification: A Joint Selection and Fusion Strategy of Deep Convolutional Neural Network and SIFT Point Features. | Multimedia Tools and Applications | 08 Dec 2018 | [Link](https://www.mdpi.com/2071-1050/12/12/5037) | [GitHub Repo](https://github.com/rashidrao-pk/A-sustainable-deep-learning-framework-for-object-recognition-using-multi-layers-deep-features-fusion) |
 <br>
-
-
-#  4. Technical Skills ⚡ :
-
-| Sr. No. | Skill | Level |
-| :-----: | ----- | :---: | 
-| a) | Matlab | Professional |
-| b) | Python | Professional |
-| c) | C++ | Expert | 
-| d) | Edraw | Expert |  
-| h) | PHP | Expert | 
         
-#  5. Certificates 📝:
+#  4. Certificates 📝:
 #  a. Certificates of Skills:
 | Sr. No. | Certificate Name   | Issued By                                | Dated                         | Grade (%)   | Course Length | Certificate |
 | :-----: | ------------------ | ------------                             | :---:                         | :---:       |   :---:       |     :---:   |
@@ -110,7 +99,7 @@ After getting motivated, i did my research in Computer Vision and Mahcine Learni
 | :-----: | ------------------ | ------------                                        | :---:       |     :---:       |  :---:       |     :---:   |
 | 1 | AAAI24 | Association for the Advancement of Artificial Intelligence (AAAI)     | Feb 2024    |     Vancouver, Canada       | 22-27 Feb 2024   |     https://www.linkedin.com/in/rashid-rao-cuipakistan/details/certifications/1711816183817/single-media-viewer/?profileId=ACoAABD65c0BtQYsWVhZVXZ4PcZV9G1-CKFA7XE   |
 
-# 6. Profile Links 📫:
+# 5. Profile Links 📫:
 
 |  Platform | Link  |
 | --------- | ----- |
