@@ -43,7 +43,7 @@ Keywords: eXplainable AI, XAI, Computer Vision, Trustworthy AI, Trustworthy ML
 |  Sr. No. | Title | Journal / Conference | Venue Dates | Location | Publication Date | Paper | Codes |
 | :------: | ----- | ------- | :---: | :--------: | :--------: | :---------: | :---------: |
 | 1. | Can I trust my anomaly detection system? A case study based on XAI. |  [XAI-World](https://xaiworldconference.com/2024/) | 17-19 July 2024 | Malta, Valletta | XXX | To Appear | XYZ |
-| 2. | [Using Stratified Sampling to Improve LIME Image Explanations](https://ojs.aaai.org/index.php/AAAI/article/view/29397). | [38th Annual AAAI Conference on Artificial Intelligence - AAAI-24](https://aaai.org/aaai-conference) |  22-27 feb 2024 | Vancouver, Canada. | 24-03-2024 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/29397) |  [Stratified LIME](https://github.com/rashidrao-pk/lime_stratified)<br>,<br>[Examples](https://github.com/rashidrao-pk/lime-stratified-examples)|
+| 2. | Using Stratified Sampling to Improve LIME Image Explanations | [38th Annual AAAI Conference on Artificial Intelligence - AAAI-24](https://aaai.org/aaai-conference) |  22-27 feb 2024 | Vancouver, Canada. | 24-03-2024 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/29397) |  [Stratified LIME](https://github.com/rashidrao-pk/lime_stratified)<br>,<br>[Examples](https://github.com/rashidrao-pk/lime-stratified-examples)|
 
 
 ## b. MS(CS) (2019): 
@@ -70,7 +70,7 @@ After getting motivated, i did my research in Computer Vision and Mahcine Learni
 |  Sr. No. | Title | Journal | Dated | Paper | Github Link |
 | :------: | ----- | ------- | :---: | :--------: | :---------: |
 | 1. | Can I trust my anomaly detection system? A case study based on XAI. | XAI-World | XX-XX-XXXX | Accepted, To Present | XYZ |
-| 2. | [Using Stratified Sampling to Improve LIME Image Explanations](<br>). | AAAI-24 | 24-03-2024 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/29397) |  [Stratified LIME](https://github.com/rashidrao-pk/lime_stratified)<br><br> [Examples](https://github.com/rashidrao-pk/lime-stratified-examples)|
+| 2. | Using Stratified Sampling to Improve LIME Image Explanations. | AAAI-24 | 24-03-2024 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/29397) |  [Stratified LIME](https://github.com/rashidrao-pk/lime_stratified)<br><br> [Examples](https://github.com/rashidrao-pk/lime-stratified-examples)|
 | 3. | A Novel Light U-Net Model for Left Ventricle Segmentation Using MRI. | Methematics | 24 July 2023 | [Paper Link](https://www.mdpi.com/2227-7390/11/14/3245) |  [GitHub Repo](https://github.com/rashidrao-pk/A-Novel-Light-Unet-Model-for-Left-Ventricle-Segmentation-Using-MRI) |
 | 4. | A sustainable deep learning framework for object recognition using multi-layers deep features fusion and selection | Sustainability | 19 June 2020 | [Google Scholar Link](https://link.springer.com/article/10.1007/s11042-018-7031-0) | [GitHub Repo ](https://github.com/rashidrao-pk/Object-Detection-and-Classification-A-Joint-Selection-and-Fusion-Strategy-of-Deep-Convolutional-Neu). |
 | 5. | An Optimized Approach for Breast Cancer Classification for Histopathological Images Based on Hybrid Feature Set. | Current medical imaging | 22 Apr 2020 |[Link](https://www.ingentaconnect.com/content/ben/cmir/2021/00000017/00000001/art00016)  | [GitHub Repo](https://github.com/rashidrao-pk/An-Optimized-Approach-for-Breast-Cancer-Classification-for-Histopathological-Images-Based-on-Hybrid-) |
