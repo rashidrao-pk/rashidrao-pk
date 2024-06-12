@@ -18,7 +18,7 @@
 
 Hi 👋, I am Muhammad Rashid from Pakistan, Software Engineer by profession and a Tourist 🏕️🏔️ by passion. I love to find solution to real-world problems. I love challenging tasks in my life. As far as my passion is concerned, I love adventures 🚣 in my life and my professional field. 👨🏻‍ 👨🏻‍💻
 
-# Educational Achievements 🎓: 
+# 1. Educational Achievements 🎓: 
 
 |  Sr. No. | Degree 📘  | Institute                                             | From |  To  |
 |  :---:   | :--------   | :------                                              | :--:  | :--: |
@@ -28,7 +28,7 @@ Hi 👋, I am Muhammad Rashid from Pakistan, Software Engineer by profession and
 
 <br>
 
-# 1. Educational Projects / Research Projects 💻:
+# 2. Educational Projects / Research Projects 💻:
 ## a. PhD(CS) 2022-Present : 
 Industrial PhD funded by PNRR-CINECA Italy 
 #### Academic Supervisor
@@ -66,7 +66,7 @@ Keywords: Object Detection, Object Localization, Computer Vision, Deep Learning,
 
 <br>
 
-# 2. All Research Articles / Publications 📊📝:
+# 3. All Research Articles / Publications 📊📝:
 After getting motivated, i did my research in Computer Vision and Mahcine Learning Field and published following research articles:
 |  Sr. No. | Title | Journal | Dated | Paper | Github Link |
 | :------: | ----- | ------- | :---: | :--------: | :---------: |
@@ -82,7 +82,7 @@ After getting motivated, i did my research in Computer Vision and Mahcine Learni
 <br>
 
 
-#  3. Technical Skills ⚡ :
+#  4. Technical Skills ⚡ :
 
 | Sr. No. | Skill | Level |
 | :-----: | ----- | :---: | 
@@ -92,7 +92,7 @@ After getting motivated, i did my research in Computer Vision and Mahcine Learni
 | d) | Edraw | Expert |  
 | h) | PHP | Expert | 
         
-#  4. Certificates 📝:
+#  5. Certificates 📝:
 #  a. Certificates of Skills:
 | Sr. No. | Certificate Name   | Issued By                                | Dated                         | Grade (%)   | Course Length | Certificate |
 | :-----: | ------------------ | ------------                             | :---:                         | :---:       |   :---:       |     :---:   |
@@ -111,7 +111,7 @@ After getting motivated, i did my research in Computer Vision and Mahcine Learni
 | :-----: | ------------------ | ------------                                        | :---:       |     :---:       |  :---:       |     :---:   |
 | 1 | AAAI24 | Association for the Advancement of Artificial Intelligence (AAAI)     | Feb 2024    |     Vancouver, Canada       | 22-27 Feb 2024   |     https://www.linkedin.com/in/rashid-rao-cuipakistan/details/certifications/1711816183817/single-media-viewer/?profileId=ACoAABD65c0BtQYsWVhZVXZ4PcZV9G1-CKFA7XE   |
 
-# 5. Profile Links 📫:
+# 6. Profile Links 📫:
 
 |  Platform | Link  |
 | --------- | ----- |
