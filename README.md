@@ -42,7 +42,7 @@ Industrial PhD funded by PNRR-CINECA Italy
 Keywords: eXplainable AI, XAI, Computer Vision, Trustworthy AI, Trustworthy ML
 |  Sr. No. | Title | Journal / Conference | Venue Dates | Location | Publication Date | Paper | Codes |
 | :------: | ----- | ------- | :---: | :--------: | :--------: | :---------: | :---------: |
-| 1. | Can I trust my anomaly detection system? A case study based on XAI. |  [XAI-World](https://xaiworldconference.com/2024/) | 17-19 July 2024 | Malta, Valletta | XXX | To Appear | XYZ |
+| 1. | Can I trust my anomaly detection system? A case study based on XAI. |  [XAI-World](https://xaiworldconference.com/2024/) | 17-19 July 2024 | Valletta, Malta. | XXX | To Appear | XYZ |
 | 2. | Using Stratified Sampling to Improve LIME Image Explanations | [38th Annual AAAI Conference on Artificial Intelligence - AAAI-24](https://aaai.org/aaai-conference) |  22-27 feb 2024 | Vancouver, Canada. | 24-03-2024 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/29397) |  [Stratified LIME](https://github.com/rashidrao-pk/lime_stratified)<br>,<br>[Examples](https://github.com/rashidrao-pk/lime-stratified-examples)|
 
 
