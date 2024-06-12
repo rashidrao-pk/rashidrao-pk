@@ -70,7 +70,7 @@ Keywords: Object Detection, Object Localization, Computer Vision, Deep Learning,
 After getting motivated, i did my research in Computer Vision and Mahcine Learning Field and published following research articles:
 |  Sr. No. | Title | Journal | Dated | Paper | Github Link |
 | :------: | ----- | ------- | :---: | :--------: | :---------: |
-| 1. | Can I trust my anomaly detection system? A case study. | XAI-World | XX-XX-XXXX | To Appear | XYZ |
+| 1. | Can I trust my anomaly detection system? A case study. | XAI-World | XX-XX-XXXX | Accepted, To Present | XYZ |
 | 2. | Using Stratified Sampling to Improve LIME Image Explanations. | AAAI-24 | 24-03-2024 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/29397) |  [Stratified LIME](https://github.com/rashidrao-pk/lime_stratified)<br> [Examples](https://github.com/rashidrao-pk/lime-stratified-examples)|
 | 3. | A Novel Light U-Net Model for Left Ventricle Segmentation Using MRI. | Methematics | 24 July 2023 | [Paper Link](https://www.mdpi.com/2227-7390/11/14/3245) |  [GitHub Repo](https://github.com/rashidrao-pk/A-Novel-Light-Unet-Model-for-Left-Ventricle-Segmentation-Using-MRI) |
 | 4. | A sustainable deep learning framework for object recognition using multi-layers deep features fusion and selection | Sustainability | 19 June 2020 | [Google Scholar Link](https://link.springer.com/article/10.1007/s11042-018-7031-0) | [GitHub Repo ](https://github.com/rashidrao-pk/Object-Detection-and-Classification-A-Joint-Selection-and-Fusion-Strategy-of-Deep-Convolutional-Neu). |
