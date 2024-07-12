@@ -42,7 +42,7 @@ Industrial PhD funded by PNRR-CINECA Italy
 Keywords: eXplainable AI, XAI, Computer Vision, Trustworthy AI, Trustworthy ML
 |  Sr. No. | Title | Journal / Conference | Venue Dates | Location | Publication Date | Paper | Codes |
 | :------: | ----- | ------- | :---: | :--------: | :--------: | :---------: | :---------: |
-| 1. | Can I trust my anomaly detection system? A case study. |  [XAI-World](https://xaiworldconference.com/2024/) | 17-19 July 2024 | Malta, Valletta | XXX | To Appear | XYZ |
+| 1. | Can I trust my anomaly detection system? A case study. |  [XAI-World](https://xaiworldconference.com/2024/) | 17-19 July 2024 | Malta, Valletta | 10 July 2024 | [Link](https://link.springer.com/chapter/10.1007/978-3-031-63803-9_13) | [XAD Codes](https://github.com/rashidrao-pk/anomaly_detection_trust_case_study) |
 | 2. | Using Stratified Sampling to Improve LIME Image Explanations. | [38th Annual AAAI Conference on Artificial Intelligence - AAAI-24](https://aaai.org/aaai-conference) |  22-27 feb 2024 | Vancouver, Canada. | 24-03-2024 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/29397) |  [Stratified LIME](https://github.com/rashidrao-pk/lime_stratified)<br> ,[Examples](https://github.com/rashidrao-pk/lime-stratified-examples)|
 
 
@@ -70,7 +70,7 @@ Keywords: Object Detection, Object Localization, Computer Vision, Deep Learning,
 After getting motivated, i did my research in Computer Vision and Mahcine Learning Field and published following research articles:
 |  Sr. No. | Title | Journal | Dated | Paper | Github Link |
 | :------: | ----- | ------- | :---: | :--------: | :---------: |
-| 1. | Can I trust my anomaly detection system? A case study. | XAI-World | XX-XX-XXXX | To Appear | XYZ |
+| 1. | Can I trust my anomaly detection system? A case study. | XAI-World | 10 July 2024 | [PDF LINK](https://link.springer.com/chapter/10.1007/978-3-031-63803-9_13) | [Anomaly detection system](https://github.com/rashidrao-pk/anomaly_detection_trust_case_study) |
 | 2. | Using Stratified Sampling to Improve LIME Image Explanations. | AAAI-24 | 24-03-2024 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/29397) |  [Stratified LIME](https://github.com/rashidrao-pk/lime_stratified)<br> [Examples](https://github.com/rashidrao-pk/lime-stratified-examples)|
 | 3. | A Novel Light U-Net Model for Left Ventricle Segmentation Using MRI. | Methematics | 24 July 2023 | [Paper Link](https://www.mdpi.com/2227-7390/11/14/3245) |  [GitHub Repo](https://github.com/rashidrao-pk/A-Novel-Light-Unet-Model-for-Left-Ventricle-Segmentation-Using-MRI) |
 | 4. | A sustainable deep learning framework for object recognition using multi-layers deep features fusion and selection | Sustainability | 19 June 2020 | [Google Scholar Link](https://link.springer.com/article/10.1007/s11042-018-7031-0) | [GitHub Repo ](https://github.com/rashidrao-pk/Object-Detection-and-Classification-A-Joint-Selection-and-Fusion-Strategy-of-Deep-Convolutional-Neu). |
@@ -96,14 +96,20 @@ After getting motivated, i did my research in Computer Vision and Mahcine Learni
 
 | Sr. No. | Certificate Name   | Issued By                                | Dated                         | Grade (%)   | Course Length | Certificate |
 | :-----: | ------------------ | ------------                             | :---:                         | :---:       |   :---:       |     :---:   |
-| a) | Tensorflow | Google                            | XX-XX-XXXX                   | -----       |   -------     |     <a href='#'> Yes </a>    |
+| a) | Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning | DeepLearning.AI    | June 12, 2024    | ---       |   ~17 hours     |    [LINK](https://www.coursera.org/account/accomplishments/verify/VSP339XM4VEH?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course)   |
 | b) | Introduction to Generative AI | Google                            | 25-Mar-2024                   | -----       |   -------     |     <a href='https://www.cloudskillsboost.google/public_profiles/3924a3ad-b31b-42f5-b55b-6753ba136fb0/badges/8435493?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share'> Yes </a>    |
 | c) | Unlocking Grant Success with Funding Institutional | Researcher Academy | 15-Mar-2024                   | -----       |   -------     |    <a href='https://www.linkedin.com/posts/rashid-rao-cuipakistan_unlocking-grant-success-with-funding-institutional-activity-7177617228719112192-CcIc?utm_source=share&utm_medium=member_desktop'> Yes </a>    |
 | d) | How to Protect your Data (ISO 27001 course) | RuleX                            | 08-Jan-2024                   | -----       |   -------     |     <a href='https://drive.google.com/file/d/1FwmLfBSHWwRJdBjBv_khjoyEgVHhD-gO/view?usp=sharing'> Yes </a> |
 | e) | Reviewer in Scientific Journal | IJEECS                            | 23-Nov-2022                   | -----       |   -------     |     <a href='https://drive.google.com/file/d/1r9EEOnvTWt6H2K-SmyowuiUtaBIWh7xU/view?usp=sharing'> Yes </a>   |
-| f) | AI for Everyone | DeepLearning.AI - Coursera                       | Sep-2022                      | 94.37       |   4 Weeks     |     <a href = 'https://www.coursera.org/account/accomplishments/verify/XFEK65GWB3MF'> Link </a>    |
-| g) | PHP Programming | Buraq Institute of Science and Technology        | 12th-Apr-2014 ~ 1st-Jul-2014  | -           |   3 Months    |     <a href='https://drive.google.com/file/d/1K686f8rWsElKnx3g8lmmIc5j7OqL6bZI/view?usp=sharing'> Yes </a>    |
-| h) | Diploma in Office Management |	Elysium Computer College Regd # 673 | 04-Mar-2007 ~ 13-Jun-2007     | 80.4        |   3 Months    |     <a href='https://drive.google.com/file/d/1IfCuG-ywbuwYRiZ4v05L9ukfWLmlx7Dp/view?usp=sharing'>Yes </a>   |
+
+| f) | Hybrid Quantum Computing | Bertinoro Internation Spring School, BISS(2023)        | XXXXXXX ~ XXXXXXX  | -           |   3 Months    |     <a href='https://drive.google.com/file/d/1K686f8rWsElKnx3g8lmmIc5j7OqL6bZI/view?usp=sharing'> Yes </a>    |
+
+| g) | AI for Health | Bertinoro Internation Spring School, BISS(2023)        | 12th-Apr-2014 ~ 1st-Jul-2014  | -           |   3 Months    |     <a href='https://drive.google.com/file/d/1K686f8rWsElKnx3g8lmmIc5j7OqL6bZI/view?usp=sharing'> Yes </a>    |
+| h) | AI for Everyone | DeepLearning.AI - Coursera                       | Sep-2022                      | 94.37       |   4 Weeks     |     <a href = 'https://www.coursera.org/account/accomplishments/verify/XFEK65GWB3MF'> Link </a>    |
+
+
+| i) | PHP Programming | Buraq Institute of Science and Technology        | 12th-Apr-2014 ~ 1st-Jul-2014  | -           |   3 Months    |     <a href='https://drive.google.com/file/d/1K686f8rWsElKnx3g8lmmIc5j7OqL6bZI/view?usp=sharing'> Yes </a>    |
+| j) | Diploma in Office Management |	Elysium Computer College Regd # 673 | 04-Mar-2007 ~ 13-Jun-2007     | 80.4        |   3 Months    |     <a href='https://drive.google.com/file/d/1IfCuG-ywbuwYRiZ4v05L9ukfWLmlx7Dp/view?usp=sharing'>Yes </a>   |
 <br>
 
 # 📫 Profile Links :
