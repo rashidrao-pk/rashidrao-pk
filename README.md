@@ -97,9 +97,16 @@ After getting motivated, i did my research in Computer Vision and Mahcine Learni
 <br>
 
 ##  b. Certificates of Attendance:
-| Sr. No. | Certificate Name   | Issued By                                           | Dated       | Location   | From-To | Certificate |
-| :-----: | ------------------ | ------------                                        | :---:       |     :---:       |  :---:       |     :---:   |
-| I. | AAAI24 | Association for the Advancement of Artificial Intelligence (AAAI)     | Feb 2024    |     Vancouver, Canada       | 22-27 Feb 2024   |     https://www.linkedin.com/in/rashid-rao-cuipakistan/details/certifications/1711816183817/single-media-viewer/?profileId=ACoAABD65c0BtQYsWVhZVXZ4PcZV9G1-CKFA7XE   |
+| Sr. No. | Certificate Name   | Issued By                                         |    Dated  |   Location          |      From-To      |        Certificate |
+| :-----: | ------------------ | ------------                                      |    :---:  |   :---:             |      :---:        |        :---:   |
+| I.  | XAI-World | World Conference on eXplainable Artificial Intelligence        | July 2024 |  Valletta,Malta     | 17-19 July 2024   |  [LINK](https://xaiworldconference.com/2024/)   |
+| II. | OxML Generative AI & Representation Learning | Oxford University,UK        | July 2024 |  Oxford,UK          | 11-14 July 2024   |  [LINK](https://www.oxfordml.school/replearning)   |
+| III.| OxML Health & Bio | Oxford University,UK                                   | July 2024 |  Oxford,UK          | 6-9 July 2024     |  [LINK](https://www.oxfordml.school/health)   |
+| IV. | AAAI24 | Association for the Advancement of Artificial Intelligence (AAAI) | Feb 2024  |  Vancouver, Canada  | 22-27 Feb 2024   |     https://www.linkedin.com/in/rashid-rao-cuipakistan/details/certifications/1711816183817/single-media-viewer/?profileId=ACoAABD65c0BtQYsWVhZVXZ4PcZV9G1-CKFA7XE   |
+| V. | ECML-PKDD | European Conference on Machine Learning-PKDD                    | Sep 2023  |     Turin,Italy     | Sep 2023   |   18-22 Sep 2023   | [LINK](#) |
+| VI. | AI for Health | Bertinoro International Spring School (BISS-23)            | Mar 2023  |     Bologna,Italy   | XX-XX Mar 2023   |     [LINK](#)   |
+| VII. | Quantum Computing | Bertinoro International Spring School (BISS-23)       | Mar 2023  |     Bologna,Italy   | XX-XX Mar 2023   |     [LINK](#)   |
+
 
 # 5. Profile Links 📫:
 
