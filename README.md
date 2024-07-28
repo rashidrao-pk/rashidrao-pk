@@ -16,7 +16,7 @@
 # Muhammad Rashid
 <br>
 
-Hi 👋, I am Muhammad Rashid from Pakistan, Software Engineer by profession and a Tourist 🏕️🏔️ by passion. I love to find solution to real-world problems. I love challenging tasks in my life. As far as my passion is concerned, I love adventures 🚣 in my life and in my professional field. 👨🏻‍ 👨🏻‍💻
+Hi 👋, I am Muhammad Rashid, Software Engineer by profession and a Tourist 🏕️🏔️ by passion. I love to find solution to real-world problems. As far as my passion is concerned, I love adventures 🚣 in my life and in my professional field.  👨🏻‍💻
 
 # 1. Educational Achievements 🎓: 
 
@@ -42,8 +42,8 @@ Industrial PhD funded by PNRR-CINECA Italy
 Keywords: eXplainable AI, XAI, Computer Vision, Trustworthy AI, Trustworthy ML
 |  Sr. No. | Title | Journal / Conference | Venue Dates | Location | Publication Date | Paper | Codes |
 | :------: | ----- | ------- | :---: | :--------: | :--------: | :---------: | :---------: |
-| 1. | Can I trust my anomaly detection system? A case study. |  [XAI-World](https://xaiworldconference.com/2024/) | 17-19 July 2024 | Malta, Valletta | 10 July 2024 | [Link](https://link.springer.com/chapter/10.1007/978-3-031-63803-9_13) | [XAD Codes](https://github.com/rashidrao-pk/anomaly_detection_trust_case_study) |
-| 2. | Using Stratified Sampling to Improve LIME Image Explanations. | [38th Annual AAAI Conference on Artificial Intelligence - AAAI-24](https://aaai.org/aaai-conference) |  22-27 feb 2024 | Vancouver, Canada. | 24-03-2024 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/29397) |  [Stratified LIME](https://github.com/rashidrao-pk/lime_stratified)<br> ,[Examples](https://github.com/rashidrao-pk/lime-stratified-examples)|
+| 1. | Can I trust my anomaly detection system? A case study. |  [XAI-World ( World Conference on eXplainable Artifitial Intelligence)](https://xaiworldconference.com/2024/) | 17-19 July 2024 | Malta, Valletta | 10 July 2024 | [Link](https://link.springer.com/chapter/10.1007/978-3-031-63803-9_13) | [XAD Codes](https://github.com/rashidrao-pk/anomaly_detection_trust_case_study) |
+| 2. | Using Stratified Sampling to Improve LIME Image Explanations. | [AAAI-24 (38th Annual AAAI Conference on Artificial Intelligence)](https://aaai.org/aaai-conference) |  22-27 feb 2024 | Vancouver, Canada. | 24-03-2024 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/29397) |  [Stratified LIME](https://github.com/rashidrao-pk/lime_stratified)<br> ,[Examples](https://github.com/rashidrao-pk/lime-stratified-examples)|
 
 
 ## b. MS(CS) (2019): 
