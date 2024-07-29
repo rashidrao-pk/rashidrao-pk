@@ -126,4 +126,12 @@ After getting motivated, i did my research in Computer Vision and Mahcine Learni
 
 <br>
 
-<a href="https://www.teacheron.com/tutor-profile/50r1?r=50r1" target="_blank" style="display: inline-block;"><img src="https://www.teacheron.com/resources/assets/img/badges/viewMyProfile.png" style="width: 120px !important; height: 52px !important"></a>
+# Github Repositries Stats
+
+<a href="https://github.com/rashidrao-pk/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rashidrao-pk" />
+</a>
+<a href="https://github.com/rashidrao-pk/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashidrao-pk&layout=compact&langs_count=8&card_width=320" />
+</a>
+
