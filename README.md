@@ -40,7 +40,7 @@ Industrial PhD funded by PNRR-CINECA Italy
  <br>
  
 Keywords: eXplainable AI, XAI, Computer Vision, Trustworthy AI, Trustworthy ML
-|  Sr. No. | Title | Journal / Conference | Venue Dates | Location | Publication Date | Paper | Codes |
+|  Sr. No. | Title | Journal / Conference | Venue Dates | Location | Publication Date | Paper | Codes <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" /> |
 | :------: | ----- | ------- | :---: | :--------: | :--------: | :---------: | :---------: |
 | 1. | Can I trust my anomaly detection system? A case study. |  [XAI-World ( World Conference on eXplainable Artifitial Intelligence)](https://xaiworldconference.com/2024/) | 17-19 July 2024 | Valletta, Malta  | 10 July 2024 | [Link](https://link.springer.com/chapter/10.1007/978-3-031-63803-9_13) | [XAD Codes](https://github.com/rashidrao-pk/anomaly_detection_trust_case_study) |
 | 2. | Using Stratified Sampling to Improve LIME Image Explanations. | [AAAI-24 (38th Annual AAAI Conference on Artificial Intelligence)](https://aaai.org/aaai-conference) |  22-27 feb 2024 | Vancouver, Canada. | 24-03-2024 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/29397) |  [Stratified LIME](https://github.com/rashidrao-pk/lime_stratified)<br> ,[Examples](https://github.com/rashidrao-pk/lime-stratified-examples)|
@@ -49,7 +49,7 @@ Keywords: eXplainable AI, XAI, Computer Vision, Trustworthy AI, Trustworthy ML
 ## b. MS(CS) (2019): 
 
 Keywords: Object Detection, Object Localization, Computer Vision, Deep Learning, Feature Engineering, Caltech-101, Caltech-256
-|  Sr. No. | Type    | Title  | Journal  | Publication Date | Paper      |    DOI     |    Codes    |
+|  Sr. No. | Type    | Title  | Journal  | Publication Date | Paper      |    DOI     |    Codes <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" />    |
 | :------: | :-----: | :----- | :------- |      :---:       | :--------: | :--------: | :---------: |
 | 1. | Thesis | Object Detection and Classification based on Feature Fusion and Deep Convolutional Networks.  | --- | --- | --- | --- | [GitHub Repo](https://github.com/rashidrao-pk/Object-detection-and-classification-based-on-feature-fusion-and-deep-convolutional-networks) |
 | 2. | Published Article | A sustainable deep learning framework for object recognition using multi-layers deep features fusion and selection.  | Sustainability | 19 June 2020 | [Link](https://www.mdpi.com/2071-1050/12/12/5037) | [PDF Link](https://doi.org/10.3390/su12125037) | [GitHub Repo](https://github.com/rashidrao-pk/A-sustainable-deep-learning-framework-for-object-recognition-using-multi-layers-deep-features-fusion) |
@@ -58,7 +58,7 @@ Keywords: Object Detection, Object Localization, Computer Vision, Deep Learning,
 <br>
 
 ## c. BS(CS)  (2016):
-|  Sr. No. | Title | Codes | Application Link |
+|  Sr. No. | Title | Codes <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" /> | Application Link |
 |  :---    | :---  | :---: | :--- |
 |  1.      |  OVBTP, A Secure AI based Web Application for Venue Booking and Tour Planning  | <a href="https://github.com/rashidrao-pk/Online-Venure-Booking-and-Tour-Planning"> GITHUB </a> | <a href="http://www.ovbtp.com">  OVBTP Website </a> |
 
@@ -67,7 +67,7 @@ Keywords: Object Detection, Object Localization, Computer Vision, Deep Learning,
 
 # All Research Articles / Publications 📊📝:
 After getting motivated, i did my research in Computer Vision and Mahcine Learning Field and published following research articles:
-|  Sr. No. | Title | Journal /<br> Conferencce | Dated | Paper | Github Link |
+|  Sr. No. | Title | Journal /<br> Conferencce | Dated | Paper | Codes <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" />  |
 | :------: | ----- | ------- | :---: | :--------: | :---------: |
 | 1. | Can I trust my anomaly detection system? A case study. | XAI-World | 10 July 2024 | [PDF Link](https://link.springer.com/chapter/10.1007/978-3-031-63803-9_13) | [Anomaly detection system](https://github.com/rashidrao-pk/anomaly_detection_trust_case_study) |
 | 2. | Using Stratified Sampling to Improve LIME Image Explanations. | AAAI-24 | 24-03-2024 | [PDF Link](https://ojs.aaai.org/index.php/AAAI/article/view/29397) |  [Stratified LIME](https://github.com/rashidrao-pk/lime_stratified)<br> [Examples](https://github.com/rashidrao-pk/lime-stratified-examples)|
