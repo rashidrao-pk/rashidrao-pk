@@ -18,7 +18,7 @@
 
 Hi 👋, I am Muhammad Rashid, Software Engineer by profession and a Tourist 🏕️🏔️ by passion. I love to find solution to real-world problems. As far as my passion is concerned, I love adventures 🚣 in my life and in my professional field.  👨🏻‍💻
 
-# 1. Educational Achievements 🎓: 
+# Educational Achievements 🎓: 
 
 |  Sr. No. | Degree 📘  | Institute                                             | From |  To  |
 |  :---:   | :--------   | :------                                              | :--:  | :--: |
@@ -28,7 +28,7 @@ Hi 👋, I am Muhammad Rashid, Software Engineer by profession and a Tourist �
 
 <br>
 
-# 2. Educational Projects / Research Projects 💻:
+# Educational Projects / Research Projects 💻:
 ## a. PhD(CS) 2022-Present : 
 Industrial PhD funded by PNRR-CINECA Italy 
 #### Academic Supervisor
@@ -51,21 +51,21 @@ Keywords: eXplainable AI, XAI, Computer Vision, Trustworthy AI, Trustworthy ML
 Keywords: Object Detection, Object Localization, Computer Vision, Deep Learning, Feature Engineering, Caltech-101, Caltech-256
 |  Sr. No. | Type    | Title  | Journal  | Publication Date | Paper      |    DOI     |    Codes    |
 | :------: | :-----: | :----- | :------- |      :---:       | :--------: | :--------: | :---------: |
-| I. | Thesis | Object Detection and Classification based on Feature Fusion and Deep Convolutional Networks.  | --- | --- | --- | --- | [GitHub Repo](https://github.com/rashidrao-pk/Object-detection-and-classification-based-on-feature-fusion-and-deep-convolutional-networks) |
-| II. | Published Article | A sustainable deep learning framework for object recognition using multi-layers deep features fusion and selection.  | Sustainability | 19 June 2020 | [Link](https://www.mdpi.com/2071-1050/12/12/5037) | [LINK](https://doi.org/10.3390/su12125037) | [GitHub Repo](https://github.com/rashidrao-pk/A-sustainable-deep-learning-framework-for-object-recognition-using-multi-layers-deep-features-fusion) |
-| III. | Published Article | Object Detection and Classification: A Joint Selection and Fusion Strategy of Deep Convolutional Neural Network and SIFT Point Features. |  Multimedia Tools and Applications | 08 Dec 2018 | [Link](https://link.springer.com/article/10.1007/s11042-018-7031-0) | [LINK](https://doi.org/10.1007/s11042-018-7031-0) | [GitHub Repo ](https://github.com/rashidrao-pk/Object-Detection-and-Classification-A-Joint-Selection-and-Fusion-Strategy-of-Deep-Convolutional-Neu) |
+| 1. | Thesis | Object Detection and Classification based on Feature Fusion and Deep Convolutional Networks.  | --- | --- | --- | --- | [GitHub Repo](https://github.com/rashidrao-pk/Object-detection-and-classification-based-on-feature-fusion-and-deep-convolutional-networks) |
+| 2. | Published Article | A sustainable deep learning framework for object recognition using multi-layers deep features fusion and selection.  | Sustainability | 19 June 2020 | [Link](https://www.mdpi.com/2071-1050/12/12/5037) | [LINK](https://doi.org/10.3390/su12125037) | [GitHub Repo](https://github.com/rashidrao-pk/A-sustainable-deep-learning-framework-for-object-recognition-using-multi-layers-deep-features-fusion) |
+| 3. | Published Article | Object Detection and Classification: A Joint Selection and Fusion Strategy of Deep Convolutional Neural Network and SIFT Point Features. |  Multimedia Tools and Applications | 08 Dec 2018 | [Link](https://link.springer.com/article/10.1007/s11042-018-7031-0) | [LINK](https://doi.org/10.1007/s11042-018-7031-0) | [GitHub Repo ](https://github.com/rashidrao-pk/Object-Detection-and-Classification-A-Joint-Selection-and-Fusion-Strategy-of-Deep-Convolutional-Neu) |
 
 <br>
 
 ## c. BS(CS)  (2016):
 |  Sr. No. | Title | Codes | Application Link |
 |  :---    | :---  | :---: | :--- |
-|  I.      |  OVBTP, A Secure AI based Web Application for Venue Booking and Tour Planning  | <a href="https://github.com/rashidrao-pk/Online-Venure-Booking-and-Tour-Planning"> GITHUB </a> | <a href="http://www.ovbtp.com">  OVBTP Website </a> |
+|  1.      |  OVBTP, A Secure AI based Web Application for Venue Booking and Tour Planning  | <a href="https://github.com/rashidrao-pk/Online-Venure-Booking-and-Tour-Planning"> GITHUB </a> | <a href="http://www.ovbtp.com">  OVBTP Website </a> |
 
 
 <br>
 
-# 3. All Research Articles / Publications 📊📝:
+# All Research Articles / Publications 📊📝:
 After getting motivated, i did my research in Computer Vision and Mahcine Learning Field and published following research articles:
 |  Sr. No. | Title | Journal /<br> Conferencce | Dated | Paper | Github Link |
 | :------: | ----- | ------- | :---: | :--------: | :---------: |
@@ -82,33 +82,34 @@ After getting motivated, i did my research in Computer Vision and Mahcine Learni
 
 <br>
         
-#  4. Certificates 📝:
+#  Certificates 📝:
 ##  a. Certificates of Skills:
 | Sr. No. | Certificate Name                           | Issued By            |   Dated         | Grade (%) | Course Length | Certificate |
 | :---: | ------------------                           | ------------         |   :---:         |   :---:   |   :---:       |     :---:   |
-| I.    | OxML Generative AI & Representation Learning | Oxford University,UK |  July 2024 |    ---    | 11-14 July 2024   |  [LINK](https://www.oxfordml.school/replearning)   |
-| II.   | OxML Health & Bio                            | Oxford University,UK | July 2024 |  ---       | 6-9 July 2024     |  [LINK](https://www.oxfordml.school/health)   |
-| III. | Introduction to TensorFlow for Artificial Intelligence,Machine Learning, and Deep Learning | DeepLearning.AI  | 12-Jun-2024                   |  100%       |   17 hours     |     <a href='https://coursera.org/share/c92c13ff02cf8e09592af5bf8fcb0d0e'> Yes </a>    |
-| IV. | Introduction to Generative AI | Google                            | 25-Mar-2024                   | -----       |   -------     |     <a href='https://www.cloudskillsboost.google/public_profiles/3924a3ad-b31b-42f5-b55b-6753ba136fb0/badges/8435493?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share'> Yes </a>    |
-| V. | Unlocking Grant Success with Funding Institutional | Researcher Academy | 15-Mar-2024                   | -----       |   -------     |    <a href='https://www.linkedin.com/posts/rashid-rao-cuipakistan_unlocking-grant-success-with-funding-institutional-activity-7177617228719112192-CcIc?utm_source=share&utm_medium=member_desktop'> Yes </a>    |
-| VI. | How to Protect your Data (ISO 27001 course) | RuleX                            | 08-Jan-2024                   | -----       |   -------     |     <a href='https://drive.google.com/file/d/1FwmLfBSHWwRJdBjBv_khjoyEgVHhD-gO/view?usp=sharing'> Yes </a> |
-| VII. | Reviewer in Scientific Journal | IJEECS                            | 23-Nov-2022                   | -----       |   -------     |     <a href='https://drive.google.com/file/d/1r9EEOnvTWt6H2K-SmyowuiUtaBIWh7xU/view?usp=sharing'> Yes </a>   |
-| IX. | AI for Everyone | DeepLearning.AI - Coursera                       | Sep-2022                      | 94.37       |   4 Weeks     |     <a href = 'https://www.coursera.org/account/accomplishments/verify/XFEK65GWB3MF'> Link </a>    |
-| X. | PHP Programming (Web Development) | Buraq Institute of Science and Technology        | 12th-Apr-2014 ~ 1st-Jul-2014  | -           |   3 Months    |     <a href='https://drive.google.com/file/d/1K686f8rWsElKnx3g8lmmIc5j7OqL6bZI/view?usp=sharing'> Yes </a>    |
+| 1.    | OxML Generative AI & Representation Learning | Oxford University,UK |  July 2024 |    ---    | 11-14 July 2024   |  [LINK](https://www.oxfordml.school/replearning)   |
+| 2.   | OxML Health & Bio                            | Oxford University,UK | July 2024 |  ---       | 6-9 July 2024     |  [LINK](https://www.oxfordml.school/health)   |
+| 3. | Introduction to TensorFlow for Artificial Intelligence,Machine Learning, and Deep Learning | DeepLearning.AI  | 12-Jun-2024                   |  100%       |   17 hours     |     <a href='https://coursera.org/share/c92c13ff02cf8e09592af5bf8fcb0d0e'> Yes </a>    |
+| 4. | Introduction to Generative AI | Google                            | 25-Mar-2024                   | -----       |   -------     |     <a href='https://www.cloudskillsboost.google/public_profiles/3924a3ad-b31b-42f5-b55b-6753ba136fb0/badges/8435493?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share'> Yes </a>    |
+| 5. | Unlocking Grant Success with Funding Institutional | Researcher Academy | 15-Mar-2024                   | -----       |   -------     |    <a href='https://www.linkedin.com/posts/rashid-rao-cuipakistan_unlocking-grant-success-with-funding-institutional-activity-7177617228719112192-CcIc?utm_source=share&utm_medium=member_desktop'> Yes </a>    |
+| 6. | How to Protect your Data <br> 
+               (ISO 27001 course)        | RuleX                            | 08-Jan-2024                   | -----       |   -------     |     <a href='https://drive.google.com/file/d/1FwmLfBSHWwRJdBjBv_khjoyEgVHhD-gO/view?usp=sharing'> Yes </a> |
+| 7. | Reviewer in Scientific Journal    | IJEECS                            | 23-Nov-2022                   | -----       |   -------     |     <a href='https://drive.google.com/file/d/1r9EEOnvTWt6H2K-SmyowuiUtaBIWh7xU/view?usp=sharing'> Yes </a>   |
+| 8. | AI for Everyone                   | DeepLearning.AI - Coursera                       | Sep-2022                      | 94.37       |   4 Weeks     |     <a href = 'https://www.coursera.org/account/accomplishments/verify/XFEK65GWB3MF'> Link </a>    |
+| 9. | PHP Programming (Web Development) | Buraq Institute of Science and Technology        | 12th-Apr-2014 ~ 1st-Jul-2014  | -           |   3 Months    |     <a href='https://drive.google.com/file/d/1K686f8rWsElKnx3g8lmmIc5j7OqL6bZI/view?usp=sharing'> Yes </a>    |
 
 <br>
 
 ##  b. Certificates of Attendance:
 | Sr. No. | Certificate Name   | Issued By                                         |    Dated  |   Location          |      From-To      |        Certificate |
 | :-----: | ------------------ | ------------                                      |    :---:  |   :---:             |      :---:        |        :---:   |
-| I.  | XAI-World (Conference) | World Conference on eXplainable Artificial Intelligence        | July 2024 |  Valletta,Malta     | 17-19 July 2024   |  [LINK](https://xaiworldconference.com/2024/)   |
-| II. | AAAI24 (Conference) | Association for the Advancement of Artificial Intelligence (AAAI) | Feb 2024  |  Vancouver, Canada  | 22-27 Feb 2024   |     https://www.linkedin.com/in/rashid-rao-cuipakistan/details/certifications/1711816183817/single-media-viewer/?profileId=ACoAABD65c0BtQYsWVhZVXZ4PcZV9G1-CKFA7XE   |
-| III. | ECML-PKDD (Conference) | European Conference on Machine Learning-PKDD                    | Sep 2023  |     Turin,Italy     | Sep 2023   |   18-22 Sep 2023   | [LINK](#) |
-| IV. | AI for Health (Subject from School) | Bertinoro International Spring School (BISS-23)            | Mar 2023  |     Bologna,Italy   | XX-XX Mar 2023   |     [LINK](#)   |
-| V. | Hybrid Quantum Computing (Subject from School) | Bertinoro International Spring School (BISS-23)       | Mar 2023  |     Bologna,Italy   | XX-XX Mar 2023   |     [LINK](#)   |
+| 1.  | XAI-World (Conference) | World Conference on eXplainable Artificial Intelligence        | July 2024 |  Valletta,Malta     | 17-19 July 2024   |  [LINK](https://xaiworldconference.com/2024/)   |
+| 2. | AAAI24 (Conference) | Association for the Advancement of Artificial Intelligence (AAAI) | Feb 2024  |  Vancouver, Canada  | 22-27 Feb 2024   |     https://www.linkedin.com/in/rashid-rao-cuipakistan/details/certifications/1711816183817/single-media-viewer/?profileId=ACoAABD65c0BtQYsWVhZVXZ4PcZV9G1-CKFA7XE   |
+| 3. | ECML-PKDD (Conference) | European Conference on Machine Learning-PKDD                    | Sep 2023  |     Turin,Italy     | Sep 2023   |   18-22 Sep 2023   | [LINK](#) |
+| 4. | AI for Health (Subject from School) | Bertinoro International Spring School (BISS-23)            | Mar 2023  |     Bologna,Italy   | XX-XX Mar 2023   |     [LINK](#)   |
+| 5. | Hybrid Quantum Computing (Subject from School) | Bertinoro International Spring School (BISS-23)       | Mar 2023  |     Bologna,Italy   | XX-XX Mar 2023   |     [LINK](#)   |
 
 
-# 5. Profile Links 📫:
+# Profile Links 📫:
 
 |  Platform | Link  |
 | --------- | ----- |
