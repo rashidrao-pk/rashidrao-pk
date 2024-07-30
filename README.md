@@ -134,9 +134,8 @@ After getting motivated, i did my research in Computer Vision and Mahcine Learni
 # Github Repositries Stats
 
 <a href="https://github.com/rashidrao-pk/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rashidrao-pk" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rashidrao-pk&rank_icon=percentile" />
 </a>
 <a href="https://github.com/rashidrao-pk/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashidrao-pk&layout=compact&langs_count=8&card_width=320" />
 </a>
-
