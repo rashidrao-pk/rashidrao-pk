@@ -31,13 +31,10 @@ Apr<br>2018 | [Heart-Vein-Blockage-Detection](Heart-Vein-Blockage-Detection/READ
 --<br>-- | [Region-based-active-contour-JSEG-fusion-technique-for-skin-lesion-segmentation-from-dermoscopic-imag](/Region-based-active-contour-JSEG-fusion-technique-for-skin-lesion-segmentation-from-dermoscopic-imag/README.md) | Matlab | -- | --,<br>-- |
 
 
-
-
 <br>
 
 ## CLIENTS - FEEDBACK ⚡ :
 
-I always prefer quality over the quantity and hence i always provided the solutions with quality and the result is satisfied clients. Here are few of examples -> <br>
-What Clients said about me? can be found at [`This Link`](/feedbacks.md)
+I always preferred quality over the quantity and hence I always provided quality solutions resulting in satisfied clients. Here are few of examples what clients said about me? can be found at [`This Link`](/feedbacks.md)
 
 
