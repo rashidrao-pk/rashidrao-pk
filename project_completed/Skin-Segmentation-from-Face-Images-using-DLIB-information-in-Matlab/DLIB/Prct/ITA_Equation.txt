@@ -1,0 +1,7 @@
+%ITA Equation
+L = labImage(:,:,1);
+a = labImage(:,:,2);
+b = labImage(:,:,3);
+y = atan((L-50)/b);
+ITA = y * (180/3.14159);
+disp(ITA);

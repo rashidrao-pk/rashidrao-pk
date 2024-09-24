@@ -1,0 +1,10 @@
+# Libraty Requirmnets for Code 2
+# Python 3.6.5
+#How to install 
+# cd ...\
+# pip install -r requirements_code2.txt
+tensorflow_gpu==2.0.0
+numpy 
+matplotlib
+scikit-learn
+

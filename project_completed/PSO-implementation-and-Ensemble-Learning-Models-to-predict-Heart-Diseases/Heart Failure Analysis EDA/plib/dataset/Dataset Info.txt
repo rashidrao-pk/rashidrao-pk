@@ -1,0 +1,3 @@
+https://www.kaggle.com/code/muhammadanas0716/heart-failure-analysis-eda/notebook
+
+https://raw.githubusercontent.com/muhammadanas365/Data-Science-Projects---EDA/main/1.%20Heart%20Failure%20-%20Analysis/heart_failure_clinical_records_dataset.csv
