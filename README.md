@@ -79,39 +79,31 @@ After getting motivated, i did my research in Computer Vision and Mahcine Learni
 | 8. | An integrated framework of skin lesion detection and recognition through saliency method and optimal deep neural network features selection. | Neural Computing and Applications | 08 Nov 2019 | [PDF Link](https://link.springer.com/article/10.1007/s00521-019-04514-0) | [GitHub Repo](https://github.com/rashidrao-pk/An-integrated-framework-of-skin-lesion-detection-and-recognition-through-saliency-method-and-optimal) |
 | 9. | Object Detection and Classification: A Joint Selection and Fusion Strategy of Deep Convolutional Neural Network and SIFT Point Features. | Multimedia Tools and Applications | 08 Dec 2018 | [PDF Link](https://www.mdpi.com/2071-1050/12/12/5037) | [GitHub Repo](https://github.com/rashidrao-pk/A-sustainable-deep-learning-framework-for-object-recognition-using-multi-layers-deep-features-fusion) |
 
-
-<br>
-        
+---      
 #  Certificates 📝:
-##  a. Certificates of Skills:
+
+##  a. Conferences:
+
+| Sr. No. | Conference          | Role     |   Location   |  From-To  |  Presentation/Paper/Certificate Links |
+| :-----: | ------------------  |:---:     |   :---:      |  :---:    |                :---:                  |
+| 1.      | `XAI-World` (World Conference on eXplainable Artificial Intelligence) |   `Oral Presenter in Main Track` & Attendee  |  Valletta,Malta     | 17-19 July 2024   | [`Presentation Link`](https://xaiworldconference.com/2024/timetable/event/s-17-a-1/), [Attendance Certificate](https://www.linkedin.com/in/rashid-rao-cuipakistan/overlay/1722326914836/single-media-viewer/?type=DOCUMENT&profileId=ACoAABD65c0BtQYsWVhZVXZ4PcZV9G1-CKFA7XE)   |
+| 2. | `AAAI-24` (Association for the Advancement of Artificial Intelligence (AAAI)) | `Oral Presenter in Main Track` & Attendee  |  Vancouver, Canada  | 22-27 Feb 2024   |     [`Presentation Link`](https://underline.io/speakers/254136-muhammad-rashid), [Attendance Certificate](https://www.linkedin.com/in/rashid-rao-cuipakistan/details/certifications/1711816183817/single-media-viewer/?type=IMAGE&profileId=ACoAABD65c0BtQYsWVhZVXZ4PcZV9G1-CKFA7XE)   |
+| 3. | `ECML-PKDD-23` (European Conference on Machine Learning-PKDD) |    Attendee                 | Turin,Italy     | 18-22, Sep 2023    | [Attendance Certificate](https://www.linkedin.com/in/rashid-rao-cuipakistan/details/certifications/1727179427030/single-media-viewer/?profileId=ACoAABD65c0BtQYsWVhZVXZ4PcZV9G1-CKFA7XE) |
+
+---
+##  b. Certificates of Courses:
 | Sr. No. | Certificate Name                           | Issued By            |   Dated         | Grade (%) | Course Length | Certificate |
 | :---: | ------------------                           | ------------         |   :---:         |   :---:   |   :---:       |     :---:   |
-| 1.    | OxML Generative AI & Representation Learning | Oxford University,UK |  July 2024 |    ---    | 11-14 July 2024   |  [LINK](https://www.oxfordml.school/replearning)   |
-| 2.   | OxML Health & Bio                             | Oxford University,UK | July 2024 |  ---       | 6-9 July 2024     |  [LINK](https://www.oxfordml.school/health)   |
+| 1.    | OxML Generative AI & Representation Learning | Oxford University,UK |  July 2024 |    ---    | 11-14 July 2024   |  [LINK](https://www.linkedin.com/in/rashid-rao-cuipakistan/overlay/1723042628724/single-media-viewer/?type=DOCUMENT&profileId=ACoAABD65c0BtQYsWVhZVXZ4PcZV9G1-CKFA7XE)   |
+| 2.   | OxML Health & Bio                             | Oxford University,UK | July 2024 |  ---       | 6-9 July 2024     |  [LINK](https://www.linkedin.com/in/rashid-rao-cuipakistan/overlay/1723042628724/single-media-viewer/?type=DOCUMENT&profileId=ACoAABD65c0BtQYsWVhZVXZ4PcZV9G1-CKFA7XE)   |
 | 3. | Introduction to TensorFlow for Artificial Intelligence,Machine Learning, and Deep Learning | DeepLearning.AI  | 12-Jun-2024                   |  100%       |   17 hours     |     <a href='https://coursera.org/share/c92c13ff02cf8e09592af5bf8fcb0d0e'> Yes </a>    |
 | 4. | Introduction to Generative AI | Google                            | 25-Mar-2024                   | -----       |   -------     |     <a href='https://www.cloudskillsboost.google/public_profiles/3924a3ad-b31b-42f5-b55b-6753ba136fb0/badges/8435493?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share'> Yes </a>    |
 | 5. | Unlocking Grant Success with Funding Institutional | Researcher Academy | 15-Mar-2024                   | -----       |   -------     |    <a href='https://www.linkedin.com/posts/rashid-rao-cuipakistan_unlocking-grant-success-with-funding-institutional-activity-7177617228719112192-CcIc?utm_source=share&utm_medium=member_desktop'> Yes </a>    |
 | 6. | How to Protect your Data          | RuleX                            | 08-Jan-2024                   | -----       |   -------     |     <a href='https://drive.google.com/file/d/1FwmLfBSHWwRJdBjBv_khjoyEgVHhD-gO/view?usp=sharing'> Yes </a> |
-| 7. | Reviewer in Scientific Journal    | IJEECS                            | 23-Nov-2022                   | -----       |   -------     |     <a href='https://drive.google.com/file/d/1r9EEOnvTWt6H2K-SmyowuiUtaBIWh7xU/view?usp=sharing'> Yes </a>   |
-| 8. | AI for Everyone                   | DeepLearning.AI - Coursera                       | Sep-2022                      | 94.37       |   4 Weeks     |     <a href = 'https://www.coursera.org/account/accomplishments/verify/XFEK65GWB3MF'> Link </a>    |
-| 9. | PHP Programming (Web Development) | Buraq Institute of Science and Technology        | 12th-Apr-2014 ~ 1st-Jul-2014  | -           |   3 Months    |     <a href='https://drive.google.com/file/d/1K686f8rWsElKnx3g8lmmIc5j7OqL6bZI/view?usp=sharing'> Yes </a>    |
-
-<br>
-
-##  b. Certificates of Attendance:
-| Sr. No. | Certificate Name   | Issued By                                         |    Dated  |   Location          |      From-To      |        Certificate |
-| :-----: | ------------------ | ------------                                      |    :---:  |   :---:             |      :---:        |        :---:   |
-| 1.  | XAI-World (Conference) | World Conference on eXplainable Artificial Intelligence        | July 2024 |  Valletta,Malta     | 17-19 July 2024   |  [LINK](https://xaiworldconference.com/2024/)   |
-| 2. | AAAI24 (Conference) | Association for the Advancement of Artificial Intelligence (AAAI) | Feb 2024  |  Vancouver, Canada  | 22-27 Feb 2024   |     [LINK](/files/AAAI-24_Certificate.jpeg)   |
-| 3. | ECML-PKDD (Conference) | European Conference on Machine Learning-PKDD                    | Sep 2023  |     Turin,Italy     | Sep 2023   |   18-22 Sep 2023   | [LINK](#) |
-| 4. | AI for Health (Subject from School) | Bertinoro International Spring School (BISS-23)            | Mar 2023  |     Bologna,Italy   | XX-XX Mar 2023   |     [LINK](#)   |
-| 5. | Hybrid Quantum Computing (Subject from School) | Bertinoro International Spring School (BISS-23)       | Mar 2023  |     Bologna,Italy   | XX-XX Mar 2023   |     [LINK](#)   |
-
-
-
-
-
-
+| 7. | AI for Health (Subject from School)          | Bertinoro International Spring School (BISS-23)                  | 12-19 Mar 2023                   | -----       |   -------     |     [LINK](https://tempesta.cs.unibo.it/projects/BISS/2023/courses/#ai-for-health) |
+| 8. | Hybrid Quantum Computing (Subject from School)          | Bertinoro International Spring School (BISS-23)                  | 12-19 Mar 2023                   | -----       |   -------     |     [LINK](https://tempesta.cs.unibo.it/projects/BISS/2023/courses/#hybrid-quantum-computing) |
+| 9. | AI for Everyone          | Bertinoro International Spring School (BISS-23)                  | 12-19 Mar 2023                   | -----       |   -------     |     [LINK](https://www.coursera.org/account/accomplishments/verify/XFEK65GWB3MF) |
+| 10. | PHP Programming (Web Development)          | Buraq Institute of Science and Technology                  | 12th-Apr-2014 ~ 1st-Jul-2014                   |    --    |   3 Months     |     [LINK](https://drive.google.com/file/d/1K686f8rWsElKnx3g8lmmIc5j7OqL6bZI/view?usp=sharing) |
 
 # Profile Links 📫:
 
