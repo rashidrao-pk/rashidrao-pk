@@ -15,12 +15,12 @@
 # Few Lines about Muhammad Rashid
 <br>
 
-Hi 👋, I am Muhammad Rashid, a young **researcher** working in **Artificial Intellegence**.
+Hi 👋, I am Muhammad Rashid, a young **researcher** working in **Artificial Intelligence**.
 - I am working on European industrial projects [***`DistriMuSe`***](https://distrimuse.eu/about-the-project/) and [***`NextPerception`***](https://www.nextperception.eu/about-project/) where my role is to improve, develop and utilize the eXplainable AI (`XAI`) algorithms to add transparency and trust in the complex AI Models. 
 - My past experiences spans building various Computer Vision & Machine Learning Solutions [***`click here to check`***](project_completed/README.md). 👨🏻‍💻
 
 # 1. Summary of Research Projects 🤖🧠🇦🇮👾
-Completed projects realted to ***Computer Vision*** and ***Machine Learning*** are described in [***this link***](project_completed/README.md).
+Completed projects related  to ***Computer Vision*** and ***Machine Learning*** are described in [***this link***](project_completed/README.md).
 
 # 2. Summary of Educational Achievements 🎓
 
@@ -39,7 +39,7 @@ Completed projects realted to ***Computer Vision*** and ***Machine Learning*** a
 - ***University & Industry***: [***University of Turin***](https://www.unito.it/), [***Rulex Innovation Labs***, *_Italy_*](https://www.rulex.ai/)
 - ***Duration***: Oct 2022 - ~ Dec 2025 
 - ***Objectives***: Automatic extraction of high-level semantic features, Object Localization, Anomaly Detection and Visual explanations for Anomalies.
-- ***Training Activites & Courses***: Check [**Courses Details Here**](courses.md#a-courses-taken-in-phd-degree) and other [***Training Activites Here***](courses.md#seminar--workshops).
+- ***Training Activities & Courses***: Check [**Courses Details Here**](courses.md#a-courses-taken-in-phd-degree) and other [***Training Activities Here***](courses.md#seminar--workshops).
 - ***Keywords***: eXplainable AI, XAI, Computer Vision, Trustworthy AI, Trustworthy ML
 - ***Image Datasets Used***: ImageNet, ImageNet-S, MVTec, MS-COCO.
 
@@ -51,11 +51,11 @@ Completed projects realted to ***Computer Vision*** and ***Machine Learning*** a
 ***Contributions to European Project***:
   - [***DistriMuSe Website***](https://distrimuse.eu/about-the-project/): My task here is to implement ***Anomaly Detection(AD)*** in robotics use case for human safety.
 
- **Acheivments:**
+ **Achievements:**
 |  Sr. No. | Title | Journal / Conference | Dates | Location | Publication Date | LINKS <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" /> |
 | :------: | ----- | ------- | :---: | :--------: | :--------: | :---------: |
 | 1. | XYZ. |  [***A+*** Ranked Conference]() | - | -  | `Under Review` | [Codes]() |
-| 2. | Can I trust my anomaly detection system? A case study. |  [***XAI-World*** ( World Conference on eXplainable Artifitial Intelligence)](https://xaiworldconference.com/2024/) | 17-19 July 2024 | Valletta, Malta  | 10 July 2024 | [**Paper PDF Link**](https://link.springer.com/chapter/10.1007/978-3-031-63803-9_13), [**Codes**](https://github.com/rashidrao-pk/anomaly_detection_trust_case_study) |
+| 2. | Can I trust my anomaly detection system? A case study. |  [***XAI-World*** ( World Conference on eXplainable Artificial Intelligence)](https://xaiworldconference.com/2024/) | 17-19 July 2024 | Valletta, Malta  | 10 July 2024 | [**Paper PDF Link**](https://link.springer.com/chapter/10.1007/978-3-031-63803-9_13), [**Codes**](https://github.com/rashidrao-pk/anomaly_detection_trust_case_study) |
 | 3. | Using Stratified Sampling to Improve LIME Image Explanations. | [***AAAI-24*** (38th Annual AAAI Conference on Artificial Intelligence)](https://aaai.org/aaai-conference) |  22-27 feb 2024 | Vancouver, Canada. | 24-03-2024 |  [***Paper PDF Link***](https://ojs.aaai.org/index.php/AAAI/article/view/29397), [***Stratified LIME***](https://github.com/rashidrao-pk/lime_stratified)<br>, [***Examples***](https://github.com/rashidrao-pk/lime-stratified-examples)|
 
 ## b. Master Degree 
@@ -69,7 +69,7 @@ Completed projects realted to ***Computer Vision*** and ***Machine Learning*** a
 - ***Keywords***: Object Detection, Object Localization, Computer Vision, Deep Learning, Feature Engineering, Feature Selection and Optimization.
 </details>
 
-**Acheivments:**
+**Achievements:**
 
 |  Sr. No. | Type    | Title  | Journal  | Publication Date | Paper      |    DOI     |    Codes <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" />    |
 | :------: | :-----: | :----- | :------- |      :---:       | :--------: | :--------: | :---------: |
@@ -80,18 +80,18 @@ Completed projects realted to ***Computer Vision*** and ***Machine Learning*** a
 ***NOTE:*** Few of the research activities/publication was a collaboration work with other members of the research group. [See](README.md#all-research-articles--publications) 
 <br>
 
-## c. Becholor Degree
+## c. Bachelor Degree
 <details> 
 
   <summary>Click Here to see details</summary>
 
 **Degree Details**: 
-- ***Title***: Bechelor of Science (Computer Science - Web Development) (2016)
+- ***Title***: Bachelor of Science (Computer Science - Web Development) (2016)
 - ***Keywords***: Software Engineering, Web development, Web Applications, Web Security, Information Security. 
 
 </details>
 
-**Acheivments**: 
+**Achievements**: 
 
 |  Sr. No. | Title |
 |  :---    | :---  |
@@ -110,7 +110,7 @@ Completed projects realted to ***Computer Vision*** and ***Machine Learning*** a
 | :------: | ----- | ------- | :---: | :--------: | :---------: |
 | 1. | Can I trust my anomaly detection system? A case study. | XAI-World <img src="https://xaiworldconference.com/2024/wp-content/uploads/2023/10/cropped-xai_2024_250x250-2.png" width="30" alt="" /> | 10 July 2024 | [PDF Link](https://link.springer.com/chapter/10.1007/978-3-031-63803-9_13) | [Anomaly detection system](https://github.com/rashidrao-pk/anomaly_detection_trust_case_study) |
 | 2. | Using Stratified Sampling to Improve LIME Image Explanations. | AAAI-24   | 24-03-2024 | [PDF Link](https://ojs.aaai.org/index.php/AAAI/article/view/29397) |  [Stratified LIME](https://github.com/rashidrao-pk/lime_stratified)<br> [Examples](https://github.com/rashidrao-pk/lime-stratified-examples) |
-| 3. | A Novel Light U-Net Model for Left Ventricle Segmentation Using MRI. | Methematics | 24 July 2023 | [PDF Link](https://www.mdpi.com/2227-7390/11/14/3245) |  [GitHub Repo](https://github.com/rashidrao-pk/A-Novel-Light-Unet-Model-for-Left-Ventricle-Segmentation-Using-MRI) |
+| 3. | A Novel Light U-Net Model for Left Ventricle Segmentation Using MRI. | Mathematics | 24 July 2023 | [PDF Link](https://www.mdpi.com/2227-7390/11/14/3245) |  [GitHub Repo](https://github.com/rashidrao-pk/A-Novel-Light-Unet-Model-for-Left-Ventricle-Segmentation-Using-MRI) |
 | 4. | A sustainable deep learning framework for object recognition using multi-layers deep features fusion and selection | Sustainability | 19 June 2020 | [PDF Link](https://link.springer.com/article/10.1007/s11042-018-7031-0) | [GitHub Repo ](https://github.com/rashidrao-pk/Object-Detection-and-Classification-A-Joint-Selection-and-Fusion-Strategy-of-Deep-Convolutional-Neu). |
 | 5. | An Optimized Approach for Breast Cancer Classification for Histopathological Images Based on Hybrid Feature Set. | Current medical imaging | 22 Apr 2020 |[PDF Link](https://www.ingentaconnect.com/content/ben/cmir/2021/00000017/00000001/art00016)  | [GitHub Repo](https://github.com/rashidrao-pk/An-Optimized-Approach-for-Breast-Cancer-Classification-for-Histopathological-Images-Based-on-Hybrid-) |
 | 6. | Deep CNN and geometric features-based gastrointestinal tract diseases detection and classification from wireless capsule endoscopy images. | Journal of Experimental & Theoretical Artificial Intelligence | 02 Feb 2019 | [PDF Link](https://www.tandfonline.com/doi/abs/10.1080/0952813X.2019.1572657) | [GitHub Repo](https://github.com/rashidrao-pk/Deep-CNN-and-geometric-features-based-gastrointestinal-tract-diseases-detection-and-classification-f) |
@@ -165,13 +165,13 @@ Completed projects realted to ***Computer Vision*** and ***Machine Learning*** a
 
 # 6. Profile Links 📧:
 
-## a. Coding Plateforms 💻:
+## a. Coding Platforms 💻:
 |  Platform | Link  |
 | --------- | ----- |
 |  GitHub  | [https://github.com/rashidrao-pk](https://github.com/rashidrao-pk)  |
 |  Kaggle  | [https://www.kaggle.com/rashidrao](https://www.kaggle.com/rashidrao)  |
 
-## b. Research Plateforms 🌐:
+## b. Research Platforms 🌐:
 |  Platform | Link  |
 | --------- | ----- |
 |  Google Scholar  | [https://scholar.google.com.pk/citations?user=F5u_Z5MAAAAJ](https://scholar.google.com.pk/citations?user=F5u_Z5MAAAAJ)  |
@@ -190,7 +190,7 @@ Completed projects realted to ***Computer Vision*** and ***Machine Learning*** a
 
 <br>
 
-# 7. Github Repositries Stats
+# 7. Github Repositories Stats
 
 <a href="https://github.com/rashidrao-pk/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rashidrao-pk&rank_icon=percentile" />
