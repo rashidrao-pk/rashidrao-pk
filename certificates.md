@@ -1,4 +1,8 @@
+
 #  Certificates 📝:
+This file contains the acheived certification including Certificate of **Publication**, Certificate of **Attendance**, Certificate of **Course Completion** and Certificate of **Reviewer**. ✨
+
+
 ##  a. Certificates of Skills:
 | Sr. No. | Certificate Name                           | Issued By            |   Dated         | Grade (%) | Course Length | Certificate |
 | :---: | ------------------                           | ------------         |   :---:         |   :---:   |   :---:       |     :---:   |
@@ -18,7 +22,33 @@
 | Sr. No. | Certificate Name   | Issued By                                         |    Dated  |   Location          |      From-To      |        Certificate |
 | :-----: | ------------------ | ------------                                      |    :---:  |   :---:             |      :---:        |        :---:   |
 | 1.  | XAI-World (Conference) | World Conference on eXplainable Artificial Intelligence        | July 2024 |  Valletta,Malta     | 17-19 July 2024   |  [LINK](https://xaiworldconference.com/2024/)   |
-| 2. | AAAI24 (Conference) | Association for the Advancement of Artificial Intelligence (AAAI) | Feb 2024  |  Vancouver, Canada  | 22-27 Feb 2024   |     [LINK](/files/AAAI-24_Certificate.jpeg)   |
+| 2. | AAAI24 (Conference) | Association for the Advancement of Artificial Intelligence (AAAI) | Feb 2024  |  Vancouver, Canada  | 22-27 Feb 2024   |     [LINK](files/AAAI-24_Certificate.jpeg)   |
 | 3. | ECML-PKDD (Conference) | European Conference on Machine Learning-PKDD                    | Sep 2023  |     Turin,Italy     | Sep 2023   |   18-22 Sep 2023   | [LINK](#) |
 | 4. | AI for Health (Subject from School) | Bertinoro International Spring School (BISS-23)            | Mar 2023  |     Bologna,Italy   | XX-XX Mar 2023   |     [LINK](#)   |
 | 5. | Hybrid Quantum Computing (Subject from School) | Bertinoro International Spring School (BISS-23)       | Mar 2023  |     Bologna,Italy   | XX-XX Mar 2023   |     [LINK](#)   |
+
+
+
+
+# Profile Links 📫:
+
+## Coding Plateforms:
+|  Platform | Link  |
+| --------- | ----- |
+|  GitHub  | [https://github.com/rashidrao-pk](https://github.com/rashidrao-pk)  |
+|  Kaggle  | [https://www.kaggle.com/rashidrao](https://www.kaggle.com/rashidrao)  |
+
+## Research Plateforms:
+|  Platform | Link  |
+| --------- | ----- |
+|  Google Scholar  | [https://scholar.google.com.pk/citations?user=F5u_Z5MAAAAJ](https://scholar.google.com.pk/citations?user=F5u_Z5MAAAAJ)  |
+| Scopus  | [https://www.scopus.com/authid/detail.uri?authorId=57417085200](https://www.scopus.com/authid/detail.uri?authorId=57417085200)  |
+| LinkedIn  | [https://www.linkedin.com/in/rashid-rao-cuipakistan/](https://www.linkedin.com/in/rashid-rao-cuipakistan/)  |
+| ResearchGate  | [https://www.researchgate.net/profile/Muhammad-Rashid-65](https://www.researchgate.net/profile/Muhammad-Rashid-65)  |
+| SementicScholor  | [https://www.semanticscholar.org/author/Muhammad-Rashid/2293444837](https://www.semanticscholar.org/author/Muhammad-Rashid/2293444837)  |
+| Web of Science  | [https://www.webofscience.com/wos/author/record/KSM-3480-2024](https://www.webofscience.com/wos/author/record/KSM-3480-2024)  |
+| ORCID  | [https://orcid.org/0000-0002-2557-6845](https://orcid.org/0000-0002-2557-6845/)  |
+| UnderLine  | [https://underline.io/speakers/254136-muhammad-rashid](https://underline.io/speakers/254136-muhammad-rashid)  |
+| Sciprofiles  | [https://sciprofiles.com/profile/rashidmuhammad](https://sciprofiles.com/profile/rashidmuhammad)  |
+| Loop Frontiersin  | [https://loop.frontiersin.org/people/2290013](https://loop.frontiersin.org/people/2290013)  |
+| Cousera  | [https://www.coursera.org/learner/rashidrao-pk](https://www.coursera.org/learner/rashidrao-pk)  |
