@@ -34,27 +34,22 @@ Completed projects realted to ***Computer Vision*** and ***Machine Learning*** a
 
 # Educational Projects / Research Projects 💻
 ## a. PhD(CS): 
-**Degree Details**: 
+**Details about PhD work**: 
 - ***Title, & Type***: Industrial PhD funded by PNRR-CINECA Italy for European Projects
-- ***Projects***: ***DistriMuSe***, ***NextPerception***
-  - UniTo: [***DistriMuSe Website***] (https://distrimuse.eu/about-the-project/), [***UniTo-DistriMuSe***]() 
-  - RuleX: [***RuleX-DistriMuSe***](https://www.rulex.ai/project/distrimuse/)  |  [***RuleX-NextPerception***](https://www.rulex.ai/project/nextperception/)
-
-
- [**NextPerception**]() and [**DistriMuSe**]()
+- ***University & Industry***: [***University of Turin***](https://www.unito.it/), [***Rulex Innovation Labs***, *_Italy_*](https://www.rulex.ai/)
 - ***Duration***: Oct 2022 - ~ Dec 2025 
-- ***Goal***: Automatic extraction of high-level semantic features, Object Localization, Anomaly Detection and Visual explanations for Anomalies.
-- ***Training Activites & Courses***: Check [Courses Details Here](courses.md#a-courses-taken-in-phd-degree) and other [Training Activites Here](courses.md#seminar--workshops).
+- ***Objectives***: Automatic extraction of high-level semantic features, Object Localization, Anomaly Detection and Visual explanations for Anomalies.
+- ***Training Activites & Courses***: Check [**Courses Details Here**](courses.md#a-courses-taken-in-phd-degree) and other [***Training Activites Here***](courses.md#seminar--workshops).
 - ***Keywords***: eXplainable AI, XAI, Computer Vision, Trustworthy AI, Trustworthy ML
 - ***Image Datasets Used***: ImageNet, ImageNet-S, MVTec, MS-COCO.
 
 **Proudly Supervised by**
- - *_Academic_*: [*_Elvio Gilberto Amparore_*](https://informatica.unito.it/do/docenti.pl/Alias?elviogilberto.amparore) , [*_University of Turin_*](), Italy. </li>
- - *_Industrial_*: [*_Enrico Ferrari_*](https://www.rulex.ai/about-us), HEAD OF R&D PROJECTS, [*_Rulex Innovation Labs, Italy_*](https://www.rulex.ai/).
- - *_Industrial_*: [*_Damiano Verda_*](https://www.rulex.ai/about-us), HEAD OF DATA SCIENCE, [*_Rulex Innovation Labs, Italy_*](https://www.rulex.ai/).
+ - *_Academic_*: [*_Elvio Gilberto Amparore_*](https://informatica.unito.it/do/docenti.pl/Alias?elviogilberto.amparore) , [***Dept. of Computer Science, University of Turin***](http://www.di.unito.it/do/home.pl), Italy. </li>
+ - *_Industrial_*: [*_Enrico Ferrari_*](https://www.rulex.ai/about-us), HEAD OF R&D PROJECTS, [***Rulex Innovation Labs***, *_Italy_*](https://www.rulex.ai/).
+ - *_Industrial_*: [*_Damiano Verda_*](https://www.rulex.ai/about-us), HEAD OF DATA SCIENCE, [***Rulex Innovation Labs***, *_Italy_*](https://www.rulex.ai/).
 
- 
-
+***Contributions to European Project***:
+  - [***DistriMuSe Website***](https://distrimuse.eu/about-the-project/): My task here is to implement ***Anomaly Detection(AD)*** in robotics use case for human safety.
 
  **Acheivments:**
 |  Sr. No. | Title | Journal / Conference | Dates | Location | Publication Date | LINKS <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" /> |
