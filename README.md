@@ -16,7 +16,7 @@
 <br>
 
 Hi 👋, I am Muhammad Rashid, a young **researcher** working in **Artificial Intelligence**.
-- I am working on European industrial projects [***`DistriMuSe`***](https://distrimuse.eu/about-the-project/) and [***`NextPerception`***](https://www.nextperception.eu/about-project/) where my role is to improve, develop and utilize the eXplainable AI (`XAI`) algorithms to add transparency and trust in the complex AI Models. 
+- I am working on European industrial projects [***`DistriMuSe`***](https://distrimuse.eu/about-the-project/) and [***`NextPerception`***](https://www.nextperception.eu/about-project/) where my role is to improve, develop and utilize the e***X***plainable ***AI*** (***`XAI`***) algorithms to add transparency and trust in the complex AI Models. 
 - My past experiences spans building various Computer Vision & Machine Learning Solutions [***`click here to check`***](project_completed/README.md). 👨🏻‍💻
 
 # 1. Summary of Research Projects 🤖🧠🇦🇮👾
@@ -54,9 +54,9 @@ Completed projects related  to ***Computer Vision*** and ***Machine Learning*** 
  **Achievements:**
 |  Sr. No. | Title | Journal / Conference | Dates | Location | Publication Date | LINKS <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" /> |
 | :------: | ----- | ------- | :---: | :--------: | :--------: | :---------: |
-| 1. | XYZ. |  [***A+*** Ranked Conference]() | - | -  | `Under Review` | [Codes]() |
-| 2. | Can I trust my anomaly detection system? A case study. |  [***XAI-World*** ( World Conference on eXplainable Artificial Intelligence)](https://xaiworldconference.com/2024/) | 17-19 July 2024 | Valletta, Malta  | 10 July 2024 | [**Paper PDF Link**](https://link.springer.com/chapter/10.1007/978-3-031-63803-9_13), [**Codes**](https://github.com/rashidrao-pk/anomaly_detection_trust_case_study) |
-| 3. | Using Stratified Sampling to Improve LIME Image Explanations. | [***AAAI-24*** (38th Annual AAAI Conference on Artificial Intelligence)](https://aaai.org/aaai-conference) |  22-27 feb 2024 | Vancouver, Canada. | 24-03-2024 |  [***Paper PDF Link***](https://ojs.aaai.org/index.php/AAAI/article/view/29397), [***Stratified LIME***](https://github.com/rashidrao-pk/lime_stratified)<br>, [***Examples***](https://github.com/rashidrao-pk/lime-stratified-examples)|
+| 1. | Anonumous Submission. |  [***A+*** Ranked Conference]() | - | -  | `Under Review` | [Codes]() |
+| 2. | ***Can I trust my anomaly detection system? A case study.*** |  [***XAI-World*** ( World Conference on eXplainable Artificial Intelligence)](https://xaiworldconference.com/2024/) | 17-19 July 2024 | Valletta, Malta  | 10 July 2024 | [**Paper PDF Link**](https://link.springer.com/chapter/10.1007/978-3-031-63803-9_13) -:- [**Codes**](https://github.com/rashidrao-pk/anomaly_detection_trust_case_study) -:- [***Medium Blog***](https://muhammad-rashid.medium.com/explainable-anomaly-detection-in-images-using-self-supervised-learning-with-generative-ai-vae-gan-40a34af50dd4)|
+| 3. | ***Using Stratified Sampling to Improve LIME Image Explanations.*** | [***AAAI-24*** (38th Annual AAAI Conference on Artificial Intelligence)](https://aaai.org/aaai-conference) |  22-27 feb 2024 | Vancouver, Canada. | 24-03-2024 |  [***Paper PDF Link***](https://ojs.aaai.org/index.php/AAAI/article/view/29397) -:- [***Stratified LIME***](https://github.com/rashidrao-pk/lime_stratified)<br> -:- [***Examples***](https://github.com/rashidrao-pk/lime-stratified-examples) -:- [***Medium Blog***](https://muhammad-rashid.medium.com/stratified-lime-to-generate-image-explanation-an-improved-version-of-lime-image-6b9668f03f1f)|
 
 ## b. Master Degree 
 <details> 
@@ -74,8 +74,8 @@ Completed projects related  to ***Computer Vision*** and ***Machine Learning*** 
 |  Sr. No. | Type    | Title  | Journal  | Publication Date | Paper      |    DOI     |    Codes <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" />    |
 | :------: | :-----: | :----- | :------- |      :---:       | :--------: | :--------: | :---------: |
 | 1. | Research Thesis | Object Detection and Classification based on Feature Fusion and Deep Convolutional Networks.  | --- | --- | --- | --- | [GitHub Repo](https://github.com/rashidrao-pk/Object-detection-and-classification-based-on-feature-fusion-and-deep-convolutional-networks) |
-| 2. | Published Research Article | A sustainable deep learning framework for object recognition using multi-layers deep features fusion and selection.  | Sustainability | 19 June 2020 | [Link](https://www.mdpi.com/2071-1050/12/12/5037) | [PDF Link](https://doi.org/10.3390/su12125037) | [GitHub Repo](https://github.com/rashidrao-pk/A-sustainable-deep-learning-framework-for-object-recognition-using-multi-layers-deep-features-fusion) |
-| 3. | Published Research Article | Object Detection and Classification: A Joint Selection and Fusion Strategy of Deep Convolutional Neural Network and SIFT Point Features. |  Multimedia Tools and Applications | 08 Dec 2018 | [PDF Link](https://link.springer.com/article/10.1007/s11042-018-7031-0) | [LINK](https://doi.org/10.1007/s11042-018-7031-0) | [GitHub Repo ](https://github.com/rashidrao-pk/Object-Detection-and-Classification-A-Joint-Selection-and-Fusion-Strategy-of-Deep-Convolutional-Neu) |
+| 2. | Published Research Article | A sustainable deep learning framework for object recognition using multi-layers deep features fusion and selection.  | Sustainability | 19 June 2020 | [Link](https://www.mdpi.com/2071-1050/12/12/5037) | [PDF Link](https://doi.org/10.3390/su12125037) | [GitHub Repo](https://github.com/rashidrao-pk/A-sustainable-deep-learning-framework-for-object-recognition-using-multi-layers-deep-features-fusion), [Mathworks](https://ch.mathworks.com/matlabcentral/fileexchange/70979-object_detection_-_classification?s_tid=prof_contriblnk)|
+| 3. | Published Research Article | Object Detection and Classification: A Joint Selection and Fusion Strategy of Deep Convolutional Neural Network and SIFT Point Features. |  Multimedia Tools and Applications | 08 Dec 2018 | [PDF Link](https://link.springer.com/article/10.1007/s11042-018-7031-0) | [LINK](https://doi.org/10.1007/s11042-018-7031-0) | [GitHub Repo ](https://github.com/rashidrao-pk/Object-Detection-and-Classification-A-Joint-Selection-and-Fusion-Strategy-of-Deep-Convolutional-Neu), [Mathworks](https://ch.mathworks.com/matlabcentral/fileexchange/70981-object-detection-classification?s_tid=prof_contriblnk)|
 
 ***NOTE:*** Few of the research activities/publication was a collaboration work with other members of the research group. [See](README.md#all-research-articles--publications) 
 <br>
@@ -106,17 +106,17 @@ Completed projects related  to ***Computer Vision*** and ***Machine Learning*** 
 
 # 3. All Research Articles / Publications 📊📝:
 
-|  Sr. No. | Title | Journal /<br> Conferencce | Dated | Paper <img src="https://w7.pngwing.com/pngs/784/212/png-transparent-google-scholar-hd-logo.png" width="27" alt="" /> | Codes <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" />  |
-| :------: | ----- | ------- | :---: | :--------: | :---------: |
-| 1. | Can I trust my anomaly detection system? A case study. | XAI-World <img src="https://xaiworldconference.com/2024/wp-content/uploads/2023/10/cropped-xai_2024_250x250-2.png" width="30" alt="" /> | 10 July 2024 | [PDF Link](https://link.springer.com/chapter/10.1007/978-3-031-63803-9_13) | [Anomaly detection system](https://github.com/rashidrao-pk/anomaly_detection_trust_case_study) |
-| 2. | Using Stratified Sampling to Improve LIME Image Explanations. | AAAI-24   | 24-03-2024 | [PDF Link](https://ojs.aaai.org/index.php/AAAI/article/view/29397) |  [Stratified LIME](https://github.com/rashidrao-pk/lime_stratified)<br> [Examples](https://github.com/rashidrao-pk/lime-stratified-examples) |
-| 3. | A Novel Light U-Net Model for Left Ventricle Segmentation Using MRI. | Mathematics | 24 July 2023 | [PDF Link](https://www.mdpi.com/2227-7390/11/14/3245) |  [GitHub Repo](https://github.com/rashidrao-pk/A-Novel-Light-Unet-Model-for-Left-Ventricle-Segmentation-Using-MRI) |
-| 4. | A sustainable deep learning framework for object recognition using multi-layers deep features fusion and selection | Sustainability | 19 June 2020 | [PDF Link](https://link.springer.com/article/10.1007/s11042-018-7031-0) | [GitHub Repo ](https://github.com/rashidrao-pk/Object-Detection-and-Classification-A-Joint-Selection-and-Fusion-Strategy-of-Deep-Convolutional-Neu). |
-| 5. | An Optimized Approach for Breast Cancer Classification for Histopathological Images Based on Hybrid Feature Set. | Current medical imaging | 22 Apr 2020 |[PDF Link](https://www.ingentaconnect.com/content/ben/cmir/2021/00000017/00000001/art00016)  | [GitHub Repo](https://github.com/rashidrao-pk/An-Optimized-Approach-for-Breast-Cancer-Classification-for-Histopathological-Images-Based-on-Hybrid-) |
-| 6. | Deep CNN and geometric features-based gastrointestinal tract diseases detection and classification from wireless capsule endoscopy images. | Journal of Experimental & Theoretical Artificial Intelligence | 02 Feb 2019 | [PDF Link](https://www.tandfonline.com/doi/abs/10.1080/0952813X.2019.1572657) | [GitHub Repo](https://github.com/rashidrao-pk/Deep-CNN-and-geometric-features-based-gastrointestinal-tract-diseases-detection-and-classification-f) |
-| 7. | Classification of Gastrointestinal Diseases of Stomach from WCE using the improved Saliency-based method and Color Features. | Multimedia Tools and Applications | 06 Jun 2019 | [PDF Link](https://link.springer.com/article/10.1007/s11042-019-07875-9) | [GitHub Repo](https://github.com/rashidrao-pk/Classification-of-Gastrointestinal-Diseases-of-Stomach-from-WCE-using-the-improved-Saliency-based-me) |
-| 8. | An integrated framework of skin lesion detection and recognition through saliency method and optimal deep neural network features selection. | Neural Computing and Applications | 08 Nov 2019 | [PDF Link](https://link.springer.com/article/10.1007/s00521-019-04514-0) | [GitHub Repo](https://github.com/rashidrao-pk/An-integrated-framework-of-skin-lesion-detection-and-recognition-through-saliency-method-and-optimal) |
-| 9. | Object Detection and Classification: A Joint Selection and Fusion Strategy of Deep Convolutional Neural Network and SIFT Point Features. | Multimedia Tools and Applications | 08 Dec 2018 | [PDF Link](https://www.mdpi.com/2071-1050/12/12/5037) | [GitHub Repo](https://github.com/rashidrao-pk/A-sustainable-deep-learning-framework-for-object-recognition-using-multi-layers-deep-features-fusion) |
+|  Sr. No. | Title | Role | Journal /<br> Conferencce | Dated | Paper <img src="https://w7.pngwing.com/pngs/784/212/png-transparent-google-scholar-hd-logo.png" width="27" alt="" /> | Codes <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" />  |
+| :------: | ----- | ------- | --- | :---: | :--------: | :---------: |
+| 1. | Can I trust my anomaly detection system? A case study. | Main Author | XAI-World <img src="https://xaiworldconference.com/2024/wp-content/uploads/2023/10/cropped-xai_2024_250x250-2.png" width="30" alt="" /> | 10 July 2024 | [PDF Link](https://link.springer.com/chapter/10.1007/978-3-031-63803-9_13) | [Anomaly detection system](https://github.com/rashidrao-pk/anomaly_detection_trust_case_study) |
+| 2. | Using Stratified Sampling to Improve LIME Image Explanations. |Main Author | AAAI-24   | 24-03-2024 | [PDF Link](https://ojs.aaai.org/index.php/AAAI/article/view/29397) |  [Stratified LIME](https://github.com/rashidrao-pk/lime_stratified)<br> [Examples](https://github.com/rashidrao-pk/lime-stratified-examples) |
+| 3. | A Novel Light U-Net Model for Left Ventricle Segmentation Using MRI. | Contributor | Mathematics | 24 July 2023 | [PDF Link](https://www.mdpi.com/2227-7390/11/14/3245) |  [GitHub Repo](https://github.com/rashidrao-pk/A-Novel-Light-Unet-Model-for-Left-Ventricle-Segmentation-Using-MRI) |
+| 4. | A sustainable deep learning framework for object recognition using multi-layers deep features fusion and selection | Main Author | Sustainability | 19 June 2020 | [PDF Link](https://link.springer.com/article/10.1007/s11042-018-7031-0) | [GitHub Repo ](https://github.com/rashidrao-pk/Object-Detection-and-Classification-A-Joint-Selection-and-Fusion-Strategy-of-Deep-Convolutional-Neu). |
+| 5. | An Optimized Approach for Breast Cancer Classification for Histopathological Images Based on Hybrid Feature Set. | Contributor | Current medical imaging | 22 Apr 2020 |[PDF Link](https://www.ingentaconnect.com/content/ben/cmir/2021/00000017/00000001/art00016)  | [GitHub Repo](https://github.com/rashidrao-pk/An-Optimized-Approach-for-Breast-Cancer-Classification-for-Histopathological-Images-Based-on-Hybrid-) |
+| 6. | Deep CNN and geometric features-based gastrointestinal tract diseases detection and classification from wireless capsule endoscopy images. | Contributor | Journal of Experimental & Theoretical Artificial Intelligence | 02 Feb 2019 | [PDF Link](https://www.tandfonline.com/doi/abs/10.1080/0952813X.2019.1572657) | [GitHub Repo](https://github.com/rashidrao-pk/Deep-CNN-and-geometric-features-based-gastrointestinal-tract-diseases-detection-and-classification-f) |
+| 7. | Classification of Gastrointestinal Diseases of Stomach from WCE using the improved Saliency-based method and Color Features. | Contributor | Multimedia Tools and Applications | 06 Jun 2019 | [PDF Link](https://link.springer.com/article/10.1007/s11042-019-07875-9) | [GitHub Repo](https://github.com/rashidrao-pk/Classification-of-Gastrointestinal-Diseases-of-Stomach-from-WCE-using-the-improved-Saliency-based-me) :-: [Mathworks](https://ch.mathworks.com/matlabcentral/fileexchange/113080-classification-of-gastrointestinal-diseases-of-stomach?s_tid=prof_contriblnk) |
+| 8. | An integrated framework of skin lesion detection and recognition through saliency method and optimal deep neural network features selection. | Contributor | Neural Computing and Applications | 08 Nov 2019 | [PDF Link](https://link.springer.com/article/10.1007/s00521-019-04514-0) | [GitHub Repo](https://github.com/rashidrao-pk/An-integrated-framework-of-skin-lesion-detection-and-recognition-through-saliency-method-and-optimal) |
+| 9. | Object Detection and Classification: A Joint Selection and Fusion Strategy of Deep Convolutional Neural Network and SIFT Point Features. | Main Author | Multimedia Tools and Applications | 08 Dec 2018 | [PDF Link](https://www.mdpi.com/2071-1050/12/12/5037) | [GitHub Repo](https://github.com/rashidrao-pk/A-sustainable-deep-learning-framework-for-object-recognition-using-multi-layers-deep-features-fusion) |
 
 ---      
 # 4. Certificates 📝:
@@ -170,6 +170,7 @@ Completed projects related  to ***Computer Vision*** and ***Machine Learning*** 
 | --------- | ----- |
 |  GitHub  | [https://github.com/rashidrao-pk](https://github.com/rashidrao-pk)  |
 |  Kaggle  | [https://www.kaggle.com/rashidrao](https://www.kaggle.com/rashidrao)  |
+| Mathworks | [https://www.mathworks.com/matlabcentral/profile/authors/14907465](https://www.mathworks.com/matlabcentral/profile/authors/14907465)
 
 ## b. Research Platforms 🌐:
 |  Platform | Link  |
@@ -186,7 +187,10 @@ Completed projects related  to ***Computer Vision*** and ***Machine Learning*** 
 | Loop Frontiersin  | [https://loop.frontiersin.org/people/2290013](https://loop.frontiersin.org/people/2290013)  |
 | Cousera  | [https://www.coursera.org/learner/rashidrao-pk](https://www.coursera.org/learner/rashidrao-pk)  |
 
-
+## c. Blog Posts 🌐:
+|  Platform | Link  |
+| --------- | ----- |
+|  Medium  | [https://medium.com/@muhammad-rashid](https://medium.com/@muhammad-rashid)  |
 
 <br>
 

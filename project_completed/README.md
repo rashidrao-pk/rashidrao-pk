@@ -1,5 +1,7 @@
 
-# R E S E A R C H P R O J E C T S ( Completed as Freelancer) 🏭 :
+# RESEARCH PROJECTS (Completed as Freelancer) 🏭 :
+I have completed various ***Computer Vision*** and ***Machine Learning*** projects on different freelance plateform.
+Some of my contributions are publicaly available as open source on [***Mathworks website***](https://ch.mathworks.com/matlabcentral/fileexchange/113080-classification-of-gastrointestinal-diseases-of-stomach?s_tid=prof_contriblnk). Below is the breif summary of completed projects so far.
 
 | Date | Title | Development Platform	 | Client	 | Client Location |
 | :--: | ----- | :-------------------: | :-----: | :-------------: |
@@ -33,7 +35,7 @@ Apr<br>2018 | [Heart-Vein-Blockage-Detection](Heart-Vein-Blockage-Detection/READ
 
 <br>
 
-## CLIENTS - FEEDBACK ⚡ :
+## CLIENT FEEDBACKS ⚡ :
 
 I always preferred quality over the quantity and hence I always provided quality solutions resulting in satisfied clients. Here are few of examples what clients said about me? can be found at [`This Link`](/feedbacks.md)
 
