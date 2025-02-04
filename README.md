@@ -12,17 +12,19 @@
 - ⚡ Fun fact: ...
 -->
 
+
 # Few Lines about Muhammad Rashid
 <br>
 
-Hi 👋, I am Muhammad Rashid, a young **researcher** working in **Artificial Intelligence**.
-- I am working on European industrial projects [***`DistriMuSe`***](https://distrimuse.eu/about-the-project/) and [***`NextPerception`***](https://www.nextperception.eu/about-project/) where my role is to improve, develop and utilize the e***X***plainable ***AI*** (***`XAI`***) algorithms to add transparency and trust in the complex AI Models. 
-- My past experiences spans building various Computer Vision & Machine Learning Solutions [***`click here to check`***](project_completed/README.md). 👨🏻‍💻
+Hi 👋, I am Muhammad Rashid, an early career **researcher** working in **Artificial Intelligence**, **Computer Vision** and **eXplainable AI**.
+- **Present**: I have joined [**_Valeria-Lab_**](https://valeria.ugr.es), [_Dept. of Computer Engineering, Automation and Robotics Department_](https://icar.ugr.es), [_University of Granada_](https://www.ugr.es), Spain as a **_visiting researcher_**, to work on the generation of synthetic data for a use case of EU project [***`DistriMuSe`***](https://distrimuse.eu/about-the-project/).
+- **Present**:  I am working on European industrial projects [***`DistriMuSe`***](https://distrimuse.eu/about-the-project/) and [***`NextPerception`***](https://www.nextperception.eu/about-project/) where my role is to improve, develop and utilize the e***X***plainable ***AI*** (***`XAI`***) algorithms to add transparency and trust in the complex AI Models. 
+- **Previous**: My past experiences spans building various Computer Vision & Machine Learning Solutions which can be checked by [***`visiting project_completed/README.md`***](project_completed/README.md). 👨🏻‍💻
 
-# 1. Summary of Research Projects 🤖🧠🇦🇮👾
+# 1. Research Projects 🤖🧠👾
 Completed projects related  to ***Computer Vision*** and ***Machine Learning*** are described in [***this link***](project_completed/README.md).
 
-# 2. Summary of Educational Achievements 🎓
+# 2. Educational Achievements Summary 🎓
 
 |  Sr. No. | Degree 📘  | Institute                                             | From |  To  |
 |  :---:   | :--------   | :------                                              | :--:  | :--: |
@@ -32,7 +34,7 @@ Completed projects related  to ***Computer Vision*** and ***Machine Learning*** 
 
 <br>
 
-# Educational Projects / Research Projects 💻
+# Educational Achievements 💻
 ## a. PhD(CS): 
 **Details about PhD work**: 
 - ***Title, & Type***: Industrial PhD funded by PNRR-CINECA Italy for European Projects
@@ -49,9 +51,11 @@ Completed projects related  to ***Computer Vision*** and ***Machine Learning*** 
  - *_Industrial_*: [*_Damiano Verda_*](https://www.rulex.ai/about-us), HEAD OF DATA SCIENCE, [***Rulex Innovation Labs***, *_Italy_*](https://www.rulex.ai/).
 
 ***Contributions to European Project***:
-  - [***DistriMuSe Website***](https://distrimuse.eu/about-the-project/): My task here is to implement ***Anomaly Detection(AD)*** in robotics use case for human safety.
+  - ***DistriMuSe Website***: My task here is to implement ***Anomaly Detection(AD)*** in robotics use case for human safety, read more details here at [***DistriMuSe Website***](https://distrimuse.eu/about-the-project/).
 
  **Achievements:**
+
+Acheivements in this study are the following Publications made and also available at [***UniTo portal***](https://iris.unito.it/cris/rp/rp203241).
 |  Sr. No. | Title | Journal / Conference | Dates | Location | Publication Date | LINKS <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" /> |
 | :------: | ----- | ------- | :---: | :--------: | :--------: | :---------: |
 | 1. | Anonumous Submission. |  [***A+*** Ranked Conference]() | - | -  | `Under Review` | [Codes]() |
@@ -59,15 +63,12 @@ Completed projects related  to ***Computer Vision*** and ***Machine Learning*** 
 | 3. | ***Using Stratified Sampling to Improve LIME Image Explanations.*** | [***AAAI-24*** (38th Annual AAAI Conference on Artificial Intelligence)](https://aaai.org/aaai-conference) |  22-27 feb 2024 | Vancouver, Canada. | 24-03-2024 |  [***Paper PDF Link***](https://ojs.aaai.org/index.php/AAAI/article/view/29397) -:- [***Stratified LIME***](https://github.com/rashidrao-pk/lime_stratified)<br> -:- [***Examples***](https://github.com/rashidrao-pk/lime-stratified-examples) -:- [***Medium Blog***](https://muhammad-rashid.medium.com/stratified-lime-to-generate-image-explanation-an-improved-version-of-lime-image-6b9668f03f1f)|
 
 ## b. Master Degree 
-<details> 
-  <summary>Click Here to see details about Title & Duration, Courses Taken and Dataset Used</summary>
 
 **Degree Details**: 
 - ***Title & Duration***: Master of Science (Computer Vision and Graphics), 2017-2019
 - ***Courses Taken***: [`Here`](courses.md#b-courses-taken-in-master-degree) is the summary of Courses and other Training Activities.   
 - ***Dataset Used***: Caltech-101, Caltech-256, PascalVOC-3D, Flower, Butterfly
 - ***Keywords***: Object Detection, Object Localization, Computer Vision, Deep Learning, Feature Engineering, Feature Selection and Optimization.
-</details>
 
 **Achievements:**
 
@@ -77,19 +78,20 @@ Completed projects related  to ***Computer Vision*** and ***Machine Learning*** 
 | 2. | Published Research Article | A sustainable deep learning framework for object recognition using multi-layers deep features fusion and selection.  | Sustainability | 19 June 2020 | [Link](https://www.mdpi.com/2071-1050/12/12/5037) | [PDF Link](https://doi.org/10.3390/su12125037) | [GitHub Repo](https://github.com/rashidrao-pk/A-sustainable-deep-learning-framework-for-object-recognition-using-multi-layers-deep-features-fusion), [Mathworks](https://ch.mathworks.com/matlabcentral/fileexchange/70979-object_detection_-_classification?s_tid=prof_contriblnk)|
 | 3. | Published Research Article | Object Detection and Classification: A Joint Selection and Fusion Strategy of Deep Convolutional Neural Network and SIFT Point Features. |  Multimedia Tools and Applications | 08 Dec 2018 | [PDF Link](https://link.springer.com/article/10.1007/s11042-018-7031-0) | [LINK](https://doi.org/10.1007/s11042-018-7031-0) | [GitHub Repo ](https://github.com/rashidrao-pk/Object-Detection-and-Classification-A-Joint-Selection-and-Fusion-Strategy-of-Deep-Convolutional-Neu), [Mathworks](https://ch.mathworks.com/matlabcentral/fileexchange/70981-object-detection-classification?s_tid=prof_contriblnk)|
 
-***NOTE:*** Few of the research activities/publication was a collaboration work with other members of the research group. [See](README.md#all-research-articles--publications) 
+***NOTE:*** Few of the research activities/publications were outcome of collaboration work with other members of the research group. [See](README.md#all-research-articles--publications) 
 <br>
 
 ## c. Bachelor Degree
-<details> 
 
-  <summary>Click Here to see details</summary>
+
+ Bachelor of Science (Computer Science - **_Web Development_**) 
 
 **Degree Details**: 
 - ***Title***: Bachelor of Science (Computer Science - Web Development) (2016)
 - ***Keywords***: Software Engineering, Web development, Web Applications, Web Security, Information Security. 
+<details> 
+<summary> Click Here to check full project details  to see details</summary>
 
-</details>
 
 **Achievements**: 
 
@@ -98,28 +100,80 @@ Completed projects related  to ***Computer Vision*** and ***Machine Learning*** 
 |  Product      |  Developed A secure Web Application using MVC architecture and CodeIgnitor Framework  |
 |  Name      |  ***OVBTP***, A Secure AI based Web Application for Venue Booking and Tour Planning  |
 | Website      | [http://www.ovbtp.com](http://www.ovbtp.com) |
-| CODES      | [GITHUB](https://github.com/rashidrao-pk/Online-Venure-Booking-and-Tour-Planning)<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" />
+| CODES      | [GITHUB](https://github.com/rashidrao-pk/Online-Venure-Booking-and-Tour-Planning)<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" /> - [![autollm stars](https://img.shields.io/github/stars/rashidrao-pk/Online-Venue-Booking-and-Tour-Planning?color=blueviolet)](https://github.com/rashidrao-pk/Online-Venue-Booking-and-Tour-Planning)  - ![Published Date](https://img.shields.io/badge/published_Date-2023--01--03-brightgreen)
 |  Tools Used      |  MVC, MS-SQL, CodeIgnitor, PhP, Javascript, HTML, CSS  |
+</details>
 
 <hr><hr>
 <br>
 
-# 3. All Research Articles / Publications 📊📝:
+##  3. Awards/Honors 🏆:
 
-|  Sr. No. | Title | Role | Journal /<br> Conferencce | Dated | Paper <img src="https://w7.pngwing.com/pngs/784/212/png-transparent-google-scholar-hd-logo.png" width="27" alt="" /> | Codes <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" />  |
+| Sr. No.| Award Type    | Awarded By        |   Dated   | Reason | Link |
+| :---:  | ------------------  | ------------     |   :---:   | :---:   |   :---:    |     
+| 1.  | Erasmus Traineeship  | [Erasmus+](https://erasmus-plus.ec.europa.eu) |   Dec, 2024   |   **Erasmus Scholarship** for **Research Activities** in **Spain**    | **_LINK_** |
+| 2.  | Italian Industrial Scholarship for PhD Position  | National Recovery and Resilience Plan([NRRP](https://www.italiadomani.gov.it/content/sogei-ng/it/it/home.html)) & Ministry of Universities and Research [MUR](https://www.cineca.it/it) |   Nov, 2022   |   **Fully Funded Scholarship** for **PhD**    | **_LINK_** |
+| 3.  | National Laptop  | [Prime Minister Laptop Award]() |   Jan, 2019   |   National **Laptop Winner** in **Prime Minister Laptop Scheme**    | **_LINK_** |
+
+<div style="text-align: right;">
+  <a href="#" 
+     style="
+        display: inline-block; 
+        padding: 5px 10px; 
+        background-color: #469B60; 
+        color: white; 
+        text-decoration: none; 
+        border-radius: 5px; 
+        font-weight: bold; 
+        font-size: 14px; 
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
+    Go to TOP
+  </a>
+</div>
+
+
+
+
+  
+
+  
+
+
+
+---
+# 4. All Research Articles / Publications 📊📝:
+
+|  Sr. No. | Title | Role | Journal /<br> Conferencce | Dated | Paper <img src="assets/google scholar.png" width="27" alt="" /> | Codes <img src="assets/github.png" width="27" alt="" />  |
 | :------: | ----- | ------- | --- | :---: | :--------: | :---------: |
-| 1. | Can I trust my anomaly detection system? A case study. | Main Author | XAI-World <img src="https://xaiworldconference.com/2024/wp-content/uploads/2023/10/cropped-xai_2024_250x250-2.png" width="30" alt="" /> | 10 July 2024 | [PDF Link](https://link.springer.com/chapter/10.1007/978-3-031-63803-9_13) | [Anomaly detection system](https://github.com/rashidrao-pk/anomaly_detection_trust_case_study) |
-| 2. | Using Stratified Sampling to Improve LIME Image Explanations. |Main Author | AAAI-24   | 24-03-2024 | [PDF Link](https://ojs.aaai.org/index.php/AAAI/article/view/29397) |  [Stratified LIME](https://github.com/rashidrao-pk/lime_stratified)<br> [Examples](https://github.com/rashidrao-pk/lime-stratified-examples) |
+| 1. | Can I trust my anomaly detection system? A case study. | Main Author | **XAI**-World | 10 July 2024 | [PDF Link](https://link.springer.com/chapter/10.1007/978-3-031-63803-9_13) | [Anomaly detection system](https://github.com/rashidrao-pk/anomaly_detection_trust_case_study) - [![autollm stars](https://img.shields.io/github/stars/rashidrao-pk/anomaly_detection_trust_case_study?color=blueviolet)](https://github.com/rashidrao-pk/anomaly_detection_trust_case_study) - ![Published Date](https://img.shields.io/badge/published_Date-2024--03--13-brightgreen)|
+| 2. | Using Stratified Sampling to Improve LIME Image Explanations. |Main Author | **AAAI**-24   | 24-03-2024 | [PDF Link](https://ojs.aaai.org/index.php/AAAI/article/view/29397) |  [Stratified LIME](https://github.com/rashidrao-pk/lime_stratified)<br> [Examples](https://github.com/rashidrao-pk/lime-stratified-examples) - [![autollm stars](https://img.shields.io/github/stars/rashidrao-pk/lime_stratified?color=blueviolet)](https://github.com/rashidrao-pk/lime_stratified) - ![Published Date](https://img.shields.io/badge/published_Date-2023--12--11-brightgreen)|
 | 3. | A Novel Light U-Net Model for Left Ventricle Segmentation Using MRI. | Contributor | Mathematics | 24 July 2023 | [PDF Link](https://www.mdpi.com/2227-7390/11/14/3245) |  [GitHub Repo](https://github.com/rashidrao-pk/A-Novel-Light-Unet-Model-for-Left-Ventricle-Segmentation-Using-MRI) |
-| 4. | A sustainable deep learning framework for object recognition using multi-layers deep features fusion and selection | Main Author | Sustainability | 19 June 2020 | [PDF Link](https://link.springer.com/article/10.1007/s11042-018-7031-0) | [GitHub Repo ](https://github.com/rashidrao-pk/Object-Detection-and-Classification-A-Joint-Selection-and-Fusion-Strategy-of-Deep-Convolutional-Neu). |
+| 4. | A sustainable deep learning framework for object recognition using multi-layers deep features fusion and selection | Main Author | Sustainability | 19 June 2020 | [PDF Link](https://link.springer.com/article/10.1007/s11042-018-7031-0) | [GitHub Repo ](https://github.com/rashidrao-pk/Object-Detection-and-Classification-A-Joint-Selection-and-Fusion-Strategy-of-Deep-Convolutional-Neu) - [![autollm stars](https://img.shields.io/github/stars/rashidrao-pk/A-sustainable-deep-learning-framework-for-object-recognition-using-multi-layers-deep-features-fusion?color=blueviolet)](https://github.com/rashidrao-pk/A-sustainable-deep-learning-framework-for-object-recognition-using-multi-layers-deep-features-fusion)  - ![Published Date](https://img.shields.io/badge/published_Date-2019--03--21-brightgreen)  |
 | 5. | An Optimized Approach for Breast Cancer Classification for Histopathological Images Based on Hybrid Feature Set. | Contributor | Current medical imaging | 22 Apr 2020 |[PDF Link](https://www.ingentaconnect.com/content/ben/cmir/2021/00000017/00000001/art00016)  | [GitHub Repo](https://github.com/rashidrao-pk/An-Optimized-Approach-for-Breast-Cancer-Classification-for-Histopathological-Images-Based-on-Hybrid-) |
-| 6. | Deep CNN and geometric features-based gastrointestinal tract diseases detection and classification from wireless capsule endoscopy images. | Contributor | Journal of Experimental & Theoretical Artificial Intelligence | 02 Feb 2019 | [PDF Link](https://www.tandfonline.com/doi/abs/10.1080/0952813X.2019.1572657) | [GitHub Repo](https://github.com/rashidrao-pk/Deep-CNN-and-geometric-features-based-gastrointestinal-tract-diseases-detection-and-classification-f) |
+| 6. | Deep CNN and geometric features-based gastrointestinal tract diseases detection and classification from wireless capsule endoscopy images. | Contributor | Journal of Experimental & Theoretical Artificial Intelligence | 02 Feb 2019 | [PDF Link](https://www.tandfonline.com/doi/abs/10.1080/0952813X.2019.1572657) | [GitHub Repo](https://github.com/rashidrao-pk/Deep-CNN-and-geometric-features-based-gastrointestinal-tract-diseases-detection-and-classification-f) - [![autollm stars](https://img.shields.io/github/stars/rashidrao-pk/Deep-CNN-and-geometric-features-based-gastrointestinal-tract-diseases-detection-and-classification-f?color=blueviolet)](https://github.com/rashidrao-pk/Deep-CNN-and-geometric-features-based-gastrointestinal-tract-diseases-detection-and-classification-f) - ![Published Date](https://img.shields.io/badge/published_Date-2022--04--28-brightgreen) |
 | 7. | Classification of Gastrointestinal Diseases of Stomach from WCE using the improved Saliency-based method and Color Features. | Contributor | Multimedia Tools and Applications | 06 Jun 2019 | [PDF Link](https://link.springer.com/article/10.1007/s11042-019-07875-9) | [GitHub Repo](https://github.com/rashidrao-pk/Classification-of-Gastrointestinal-Diseases-of-Stomach-from-WCE-using-the-improved-Saliency-based-me) :-: [Mathworks](https://ch.mathworks.com/matlabcentral/fileexchange/113080-classification-of-gastrointestinal-diseases-of-stomach?s_tid=prof_contriblnk) |
 | 8. | An integrated framework of skin lesion detection and recognition through saliency method and optimal deep neural network features selection. | Contributor | Neural Computing and Applications | 08 Nov 2019 | [PDF Link](https://link.springer.com/article/10.1007/s00521-019-04514-0) | [GitHub Repo](https://github.com/rashidrao-pk/An-integrated-framework-of-skin-lesion-detection-and-recognition-through-saliency-method-and-optimal) |
-| 9. | Object Detection and Classification: A Joint Selection and Fusion Strategy of Deep Convolutional Neural Network and SIFT Point Features. | Main Author | Multimedia Tools and Applications | 08 Dec 2018 | [PDF Link](https://www.mdpi.com/2071-1050/12/12/5037) | [GitHub Repo](https://github.com/rashidrao-pk/A-sustainable-deep-learning-framework-for-object-recognition-using-multi-layers-deep-features-fusion) |
+| 9. | Object Detection and Classification: A Joint Selection and Fusion Strategy of Deep Convolutional Neural Network and SIFT Point Features. | Main Author | Multimedia Tools and Applications | 08 Dec 2018 | [PDF Link](https://www.mdpi.com/2071-1050/12/12/5037) | [GitHub Repo](https://github.com/rashidrao-pk/A-sustainable-deep-learning-framework-for-object-recognition-using-multi-layers-deep-features-fusion) - [![autollm stars](https://img.shields.io/github/stars/rashidrao-pk/Object-Detection-and-Classification-A-Joint-Selection-and-Fusion-Strategy-of-Deep-Convolutional-Neu?color=blueviolet)](https://github.com/rashidrao-pk/Object-Detection-and-Classification-A-Joint-Selection-and-Fusion-Strategy-of-Deep-Convolutional-Neu) - ![Published Date](https://img.shields.io/badge/published_Date-2022--04--28-brightgreen) |
 
----      
-# 4. Certificates 📝:
+<div style="text-align: right;">
+  <a href="#" 
+     style="
+        display: inline-block; 
+        padding: 5px 10px; 
+        background-color: #469B60; 
+        color: white; 
+        text-decoration: none; 
+        border-radius: 5px; 
+        font-weight: bold; 
+        font-size: 14px; 
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
+    Go to TOP
+  </a>
+</div>
+
+---   
+   
+# 5. Certificates 📝:
 
 ##  a. Certificates of Conferences:
 
@@ -145,6 +199,27 @@ Completed projects related  to ***Computer Vision*** and ***Machine Learning*** 
 | 10. | [AI for Everyone](https://www.coursera.org/learn/ai-for-everyone)          | Bertinoro International Spring School (BISS-23)                  | 12-19 Mar 2023                   | -----       |   -------     |     [LINK](https://www.coursera.org/account/accomplishments/verify/XFEK65GWB3MF) |
 | 11. | PHP Programming (Web Development)          | Buraq Institute of Science and Technology                  | 12th-Apr-2014 ~ 1st-Jul-2014                   |    --    |   3 Months     |     [LINK](https://drive.google.com/file/d/1K686f8rWsElKnx3g8lmmIc5j7OqL6bZI/view?usp=sharing) |
 
+<!-- <div style='text-align: right;'> <a href='#'> <b>Go to TOP</b> </a> </div> -->
+
+<div style="text-align: right;">
+  <a href="#" 
+     style="
+        display: inline-block; 
+        padding: 5px 10px; 
+        background-color: #469B60; 
+        color: white; 
+        text-decoration: none; 
+        border-radius: 5px; 
+        font-weight: bold; 
+        font-size: 14px; 
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
+    Go to TOP
+  </a>
+</div>
+
+
+
+
 ---
 ##  c. Certificates of Workshops/Seminars:
 
@@ -153,31 +228,38 @@ Completed projects related  to ***Computer Vision*** and ***Machine Learning*** 
 | 1.  | International Conference on Neonatal Neuroimaging and Monitoring and III Neonatal Neuroimaging Workshop[1](https://formacion.fueca.org/doccurso/390178.pdf), [2](https://parenth2020.com/events-new/)  | Universidad de Cádiz     |   Nov, 2024   |   [**LINK**](https://www.linkedin.com/in/rashid-rao-cuipakistan/details/certifications/1731577245688/single-media-viewer/?type=IMAGE&profileId=ACoAABD65c0BtQYsWVhZVXZ4PcZV9G1-CKFA7XE)    |
 | 2.  | 9 AI Superpowers - Marketing Masterclass  | MMC Learning    |   7 Nov, 2024   |   [**LINK**](https://certified.mmclearning.com/d25a810b-d950-4220-9cd8-86ff61c0fb21)    |
 
-##  5. Awards/Honors 🏆:
-
-| Sr. No.| Award Type    | Awarded By        |   Dated   | Reason |
-| :---:  | ------------------  | ------------     |   :---:   |   :---:    |     
-| 1.  | Erasmus Traineeship  | [Erasmus+](https://erasmus-plus.ec.europa.eu) |   Dec, 2024   |   **Erasmus Scholarship** for **Research Activities** in **Spain**    |
-| 2.  | Italian Industrial Scholarship for PhD Position  | National Recovery and Resilience Plan([NRRP](https://www.italiadomani.gov.it/content/sogei-ng/it/it/home.html)) & Ministry of Universities and Research [MUR](https://www.cineca.it/it) |   Nov, 2022   |   **Fully Funded Scholarship** for **PhD**    |
-| 3.  | National Laptop  | [Prime Minister Laptop Award]() |   Jan, 2019   |   National **Laptop Winner** in **Prime Minister Laptop Scheme**    |
-
-
 
 # 6. Profile Links 📧:
 
-## a. Coding Platforms 💻:
+## a. Social Platforms :
+|  Platform | Link  | count | 
+| --------- | ----- | ----- | 
+| LinkedIn  | [https://www.linkedin.com/in/rashid-rao-cuipakistan/](https://www.linkedin.com/in/rashid-rao-cuipakistan/)  | ![](https://img.shields.io/badge/LinkedIn-4K_Followers_-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111E68)
+<br>
+
+
+
+
+
+<!-- [![autollm stars](https://img.shields.io/github/stars/rashidrao-pk/AI_on_Edge_Devices?color=blueviolet)](https://github.com/rashidrao-pk/AI_on_Edge_Devices)  AI ON EDGE ![Published Date](https://img.shields.io/badge/published_Date-2024--12--22-brightgreen) -->
+
+
+
+
+
+
+## b. Coding Platforms 💻:
 |  Platform | Link  |
 | --------- | ----- |
 |  GitHub  | [https://github.com/rashidrao-pk](https://github.com/rashidrao-pk)  |
 |  Kaggle  | [https://www.kaggle.com/rashidrao](https://www.kaggle.com/rashidrao)  |
 | Mathworks | [https://www.mathworks.com/matlabcentral/profile/authors/14907465](https://www.mathworks.com/matlabcentral/profile/authors/14907465)
 
-## b. Research Platforms 🌐:
+## c. Research Platforms 🌐:
 |  Platform | Link  |
 | --------- | ----- |
 |  Google Scholar  | [https://scholar.google.com.pk/citations?user=F5u_Z5MAAAAJ](https://scholar.google.com.pk/citations?user=F5u_Z5MAAAAJ)  |
 | Scopus  | [https://www.scopus.com/authid/detail.uri?authorId=57417085200](https://www.scopus.com/authid/detail.uri?authorId=57417085200)  |
-| LinkedIn  | [https://www.linkedin.com/in/rashid-rao-cuipakistan/](https://www.linkedin.com/in/rashid-rao-cuipakistan/)  |
 | ResearchGate  | [https://www.researchgate.net/profile/Muhammad-Rashid-65](https://www.researchgate.net/profile/Muhammad-Rashid-65)  |
 | SementicScholor  | [https://www.semanticscholar.org/author/Muhammad-Rashid/2293444837](https://www.semanticscholar.org/author/Muhammad-Rashid/2293444837)  |
 | Web of Science  | [https://www.webofscience.com/wos/author/record/KSM-3480-2024](https://www.webofscience.com/wos/author/record/KSM-3480-2024)  |
@@ -187,14 +269,37 @@ Completed projects related  to ***Computer Vision*** and ***Machine Learning*** 
 | Loop Frontiersin  | [https://loop.frontiersin.org/people/2290013](https://loop.frontiersin.org/people/2290013)  |
 | Cousera  | [https://www.coursera.org/learner/rashidrao-pk](https://www.coursera.org/learner/rashidrao-pk)  |
 
-## c. Blog Posts 🌐:
+
+## d. Blog Posts 🌐:
 |  Platform | Link  |
 | --------- | ----- |
 |  Medium  | [https://medium.com/@muhammad-rashid](https://medium.com/@muhammad-rashid)  |
+|  Stackoverflow  | [https://stackoverflow.com/users/3309075/rashid-rao](https://stackoverflow.com/users/3309075/rashid-rao)  |
+|  Nvidia  | [https://forums.developer.nvidia.com/u/rashid-rao/summary](https://forums.developer.nvidia.com/u/rashid-rao/summary)  |
+|  ultralytics  | [https://community.ultralytics.com/u/mrashid/summary](https://community.ultralytics.com/u/mrashid/summary)  |
+
 
 <br>
 
+<div style="text-align: right;">
+  <a href="#" 
+     style="
+        display: inline-block; 
+        padding: 5px 10px; 
+        background-color: #469B60; 
+        color: white; 
+        text-decoration: none; 
+        border-radius: 5px; 
+        font-weight: bold; 
+        font-size: 14px; 
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
+    Go to TOP
+  </a>
+</div>
+
 # 7. Github Repositories Stats
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rashidrao-pk" alt="GitHub Streak" /></a>
 
 <a href="https://github.com/rashidrao-pk/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rashidrao-pk&rank_icon=percentile" />
@@ -202,3 +307,58 @@ Completed projects related  to ***Computer Vision*** and ***Machine Learning*** 
 <a href="https://github.com/rashidrao-pk/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashidrao-pk&layout=compact&langs_count=8&card_width=320" />
 </a>
+
+<hr>
+<p align="center">
+    <a href="https://github.com/rashidrao-pk" target="_blank">
+        <img src="assets/github.png" alt="github" width="30" height="30"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.kaggle.com/rashidrao" target="_blank">
+        <img src="assets/kaggle.png" alt="kaggle" width="70" height="30"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.mathworks.com/matlabcentral/profile/authors/14907465" target="_blank">
+        <img src="assets/mathworks.gif" alt="Mathworks" width="30" height="30"/>
+    &nbsp; | 
+    <a href="https://medium.com/@muhammad-rashid" target="_blank">
+        <img src="assets/medium.png" alt="Medium" width="30" height="30"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://stackoverflow.com/users/3309075/rashid-rao" target="_blank">
+        <img src="assets/stackoverflow.png" alt="StackOverflow" width="30" height="30"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://forums.developer.nvidia.com/u/rashid-rao/summary" target="_blank">
+        <img src="assets/nvidia.png" alt="Nvidia Developer" width="30" height="30"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://community.ultralytics.com/u/mrashid/summary" target="_blank">
+        <img src="assets/ultralytics.png" alt="linkedin" width="30" height="30"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/rashid-rao-cuipakistan/" target="_blank">
+        <img src="assets/linkedin.png" alt="linkedin" width="30" height="30"/>
+    </a>
+    &nbsp; |
+    <a href="https://scholar.google.com/citations?user=r3hkNdoAAAAJ" target="_blank">
+        <img src="assets/google scholar.png" alt="Google Scholar" width="30" height="30"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://orcid.org/0000-0002-2557-6845" target="_blank">
+        <img src="assets/orcid.png" alt="Google Scholar" width="30" height="30"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.researchgate.net/profile/Muhammad-Rashid-65" target="_blank">
+        <img src="assets/researchgate.png" alt="Google Scholar" width="30" height="30"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.scopus.com/authid/detail.uri?authorId=57417085200" target="_blank">
+        <img src="assets/scopus.png" alt="Google Scholar" width="30" height="30"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://underline.io/speakers/254136-muhammad-rashid" target="_blank">
+        <img src="assets/underline.png" alt="Google Scholar" width="70" height="30"/>
+    </a>
+</p>
+

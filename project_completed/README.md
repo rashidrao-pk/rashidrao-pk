@@ -1,3 +1,10 @@
+<hr>
+<div align="center">
+
+[🏠 Home](/README.md) | [📦 certifications](/certificates.md) | [🚀 Courses](/courses.md) | [📜 Projects Completed](/project_completed/README.md)
+
+</div>
+<hr>
 
 # RESEARCH PROJECTS (Completed as Freelancer) 🏭 :
 I have completed various ***Computer Vision*** and ***Machine Learning*** projects on different freelance plateform.
@@ -38,5 +45,127 @@ Apr<br>2018 | [Heart-Vein-Blockage-Detection](Heart-Vein-Blockage-Detection/READ
 ## CLIENT FEEDBACKS ⚡ :
 
 I always preferred quality over the quantity and hence I always provided quality solutions resulting in satisfied clients. Here are few of examples what clients said about me? can be found at [`This Link`](/feedbacks.md)
+
+
+# Profile Links 📧:
+
+## a. Social Platforms :
+|  Platform | Link  | count | 
+| --------- | ----- | ----- | 
+| LinkedIn  | [https://www.linkedin.com/in/rashid-rao-cuipakistan/](https://www.linkedin.com/in/rashid-rao-cuipakistan/)  | ![](https://img.shields.io/badge/LinkedIn-4K_Followers_-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111E68)
+<br>
+
+
+
+
+
+<!-- [![autollm stars](https://img.shields.io/github/stars/rashidrao-pk/AI_on_Edge_Devices?color=blueviolet)](https://github.com/rashidrao-pk/AI_on_Edge_Devices)  AI ON EDGE ![Published Date](https://img.shields.io/badge/published_Date-2024--12--22-brightgreen) -->
+
+
+
+
+
+
+## b. Coding Platforms 💻:
+|  Platform | Link  |
+| --------- | ----- |
+|  GitHub  | [https://github.com/rashidrao-pk](https://github.com/rashidrao-pk)  |
+|  Kaggle  | [https://www.kaggle.com/rashidrao](https://www.kaggle.com/rashidrao)  |
+| Mathworks | [https://www.mathworks.com/matlabcentral/profile/authors/14907465](https://www.mathworks.com/matlabcentral/profile/authors/14907465)
+
+## c. Research Platforms 🌐:
+|  Platform | Link  |
+| --------- | ----- |
+|  Google Scholar  | [https://scholar.google.com.pk/citations?user=F5u_Z5MAAAAJ](https://scholar.google.com.pk/citations?user=F5u_Z5MAAAAJ)  |
+| Scopus  | [https://www.scopus.com/authid/detail.uri?authorId=57417085200](https://www.scopus.com/authid/detail.uri?authorId=57417085200)  |
+| ResearchGate  | [https://www.researchgate.net/profile/Muhammad-Rashid-65](https://www.researchgate.net/profile/Muhammad-Rashid-65)  |
+| SementicScholor  | [https://www.semanticscholar.org/author/Muhammad-Rashid/2293444837](https://www.semanticscholar.org/author/Muhammad-Rashid/2293444837)  |
+| Web of Science  | [https://www.webofscience.com/wos/author/record/KSM-3480-2024](https://www.webofscience.com/wos/author/record/KSM-3480-2024)  |
+| ORCID  | [https://orcid.org/0000-0002-2557-6845](https://orcid.org/0000-0002-2557-6845/)  |
+| UnderLine  | [https://underline.io/speakers/254136-muhammad-rashid](https://underline.io/speakers/254136-muhammad-rashid)  |
+| Sciprofiles  | [https://sciprofiles.com/profile/rashidmuhammad](https://sciprofiles.com/profile/rashidmuhammad)  |
+| Loop Frontiersin  | [https://loop.frontiersin.org/people/2290013](https://loop.frontiersin.org/people/2290013)  |
+| Cousera  | [https://www.coursera.org/learner/rashidrao-pk](https://www.coursera.org/learner/rashidrao-pk)  |
+
+
+## d. Blog Posts 🌐:
+|  Platform | Link  |
+| --------- | ----- |
+|  Medium  | [https://medium.com/@muhammad-rashid](https://medium.com/@muhammad-rashid)  |
+|  Stackoverflow  | [https://stackoverflow.com/users/3309075/rashid-rao](https://stackoverflow.com/users/3309075/rashid-rao)  |
+|  Nvidia  | [https://forums.developer.nvidia.com/u/rashid-rao/summary](https://forums.developer.nvidia.com/u/rashid-rao/summary)  |
+|  ultralytics  | [https://community.ultralytics.com/u/mrashid/summary](https://community.ultralytics.com/u/mrashid/summary)  |
+
+
+<hr>
+<p align="center">
+    <a href="https://github.com/rashidrao-pk" target="_blank">
+        <img src="../assets/github.png" alt="github" width="30" height="30"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.kaggle.com/rashidrao" target="_blank">
+        <img src="../assets/kaggle.png" alt="kaggle" width="70" height="30"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.mathworks.com/matlabcentral/profile/authors/14907465" target="_blank">
+        <img src="../assets/mathworks.gif" alt="Mathworks" width="30" height="30"/>
+    &nbsp; | 
+    <a href="https://medium.com/@muhammad-rashid" target="_blank">
+        <img src="../assets/medium.png" alt="Medium" width="30" height="30"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://stackoverflow.com/users/3309075/rashid-rao" target="_blank">
+        <img src="../assets/stackoverflow.png" alt="StackOverflow" width="30" height="30"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://forums.developer.nvidia.com/u/rashid-rao/summary" target="_blank">
+        <img src="../assets/nvidia.png" alt="Nvidia Developer" width="30" height="30"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://community.ultralytics.com/u/mrashid/summary" target="_blank">
+        <img src="../assets/ultralytics.png" alt="linkedin" width="30" height="30"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/rashid-rao-cuipakistan/" target="_blank">
+        <img src="../assets/linkedin.png" alt="linkedin" width="30" height="30"/>
+    </a>
+    &nbsp; |
+    <a href="https://scholar.google.com/citations?user=r3hkNdoAAAAJ" target="_blank">
+        <img src="../assets/google scholar.png" alt="Google Scholar" width="30" height="30"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://orcid.org/0000-0002-2557-6845" target="_blank">
+        <img src="../assets/orcid.png" alt="Google Scholar" width="30" height="30"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.researchgate.net/profile/Muhammad-Rashid-65" target="_blank">
+        <img src="../assets/researchgate.png" alt="Google Scholar" width="30" height="30"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.scopus.com/authid/detail.uri?authorId=57417085200" target="_blank">
+        <img src="../assets/scopus.png" alt="Google Scholar" width="30" height="30"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://underline.io/speakers/254136-muhammad-rashid" target="_blank">
+        <img src="../assets/underline.png" alt="Google Scholar" width="70" height="30"/>
+    </a>
+</p>
+
+
+<div style="text-align: right;">
+  <a href="#" 
+     style="
+        display: inline-block; 
+        padding: 5px 10px; 
+        background-color: #469B60; 
+        color: white; 
+        text-decoration: none; 
+        border-radius: 5px; 
+        font-weight: bold; 
+        font-size: 14px; 
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
+    Go to TOP
+  </a>
+</div>
 
 
