@@ -185,19 +185,19 @@ Acheivements in this study are the following Publications made and also availabl
 
 ---
 ##  b. Certificates of Courses:
-| Sr. No. | Certificate Name                           | Issued By            |   Dated         | Grade (%) | Course Length | Certificate |
-| :---: | ------------------                           | ------------         |   :---:         |   :---:   |   :---:       |     :---:   |
-| 1.    | [Build Basic Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans/) | [DeepLearning.AI](https://www.deeplearning.ai/) |  XX-XX-2024 |    ---    | XX-XX-2024   |  [LINK]()   |
-| 2.    | [OxML Generative AI & Representation Learning](https://www.oxfordml.school/replearning) | Oxford University,UK & [Global Goals](http://www.globalgoals.ai/) |  July 2024 |    ---    | 11-14 July 2024   |  [LINK](https://www.linkedin.com/in/rashid-rao-cuipakistan/overlay/1723042628724/single-media-viewer/?type=DOCUMENT&profileId=ACoAABD65c0BtQYsWVhZVXZ4PcZV9G1-CKFA7XE)   |
-| 3.   | [Oxford Machine Learning Health & Bio](https://www.oxfordml.school/health) | Oxford University,UK & [Global Goals](http://www.globalgoals.ai/) | July 2024 |  ---       | 6-9 July 2024     |  [LINK](https://www.linkedin.com/in/rashid-rao-cuipakistan/overlay/1723042628724/single-media-viewer/?type=DOCUMENT&profileId=ACoAABD65c0BtQYsWVhZVXZ4PcZV9G1-CKFA7XE)   |
-| 4. | [Introduction to TensorFlow for Artificial Intelligence,Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow) | DeepLearning.AI  | 12-Jun-2024                   |  100%       |   17 hours     |     [LINK](https://coursera.org/share/c92c13ff02cf8e09592af5bf8fcb0d0e)    |
-| 5. | [Introduction to Generative AI](https://www.cloudskillsboost.google/course_templates/536) | Google                            | 25-Mar-2024                   | -----       |   -------     |     [LINK](https://www.cloudskillsboost.google/public_profiles/3924a3ad-b31b-42f5-b55b-6753ba136fb0/badges/8435493?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)   |
-| 6. | [Unlocking Grant Success with Funding Institutional](https://researcheracademy.elsevier.com/research-preparation/funding/unlocking-grant-success-funding-institutional) | Researcher Academy | 15-Mar-2024                   | -----       |   -------     |    [LINK](https://www.linkedin.com/posts/rashid-rao-cuipakistan_unlocking-grant-success-with-funding-institutional-activity-7177617228719112192-CcIc?utm_source=share&utm_medium=member_desktop')    |
-| 7. | [How to Protect your Data](https://community.rulex.ai/rulex-academy)          | RuleX                            | 08-Jan-2024                   | -----       |   -------     |     [LINK](https://drive.google.com/file/d/1FwmLfBSHWwRJdBjBv_khjoyEgVHhD-gO/view?usp=sharing') |
-| 8. | [AI for Health (Subject from School)](https://tempesta.cs.unibo.it/projects/BISS/2023/courses/#ai-for-health)          | Bertinoro International Spring School (BISS-23)                  | 12-19 Mar 2023                   | -----       |   -------     |     [LINK]() |
-| 9. | [Hybrid Quantum Computing (Subject from School)](https://tempesta.cs.unibo.it/projects/BISS/2023/courses/#hybrid-quantum-computing)         | Bertinoro International Spring School (BISS-23)                  | 12-19 Mar 2023                   | -----       |   -------     |     [LINK]() |
-| 10. | [AI for Everyone](https://www.coursera.org/learn/ai-for-everyone)          | Bertinoro International Spring School (BISS-23)                  | 12-19 Mar 2023                   | -----       |   -------     |     [LINK](https://www.coursera.org/account/accomplishments/verify/XFEK65GWB3MF) |
-| 11. | PHP Programming (Web Development)          | Buraq Institute of Science and Technology                  | 12th-Apr-2014 ~ 1st-Jul-2014                   |    --    |   3 Months     |     [LINK](https://drive.google.com/file/d/1K686f8rWsElKnx3g8lmmIc5j7OqL6bZI/view?usp=sharing) |
+| Sr. No. | Certificate Name                           | Issued By            |   Dated         | Course Length | Certificate |
+| :---: | ------------------                           | ------------         |   :---:         |   :---:   |     :---:   |
+| 1.    | [Build Basic Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans/) | [DeepLearning.AI](https://www.deeplearning.ai/) |  04-02-2025    | 29 hours   |  [LINK](https://www.coursera.org/account/accomplishments/verify/OVXPELXP2RAP?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)   |
+| 2.    | [OxML Generative AI & Representation Learning](https://www.oxfordml.school/replearning) | Oxford University,UK & [Global Goals](http://www.globalgoals.ai/) |  July 2024     | 11-14 July 2024   |  [LINK](https://www.linkedin.com/in/rashid-rao-cuipakistan/overlay/1723042628724/single-media-viewer/?type=DOCUMENT&profileId=ACoAABD65c0BtQYsWVhZVXZ4PcZV9G1-CKFA7XE)   |
+| 3.   | [Oxford Machine Learning Health & Bio](https://www.oxfordml.school/health) | Oxford University,UK & [Global Goals](http://www.globalgoals.ai/) | July 2024        | 6-9 July 2024     |  [LINK](https://www.linkedin.com/in/rashid-rao-cuipakistan/overlay/1723042628724/single-media-viewer/?type=DOCUMENT&profileId=ACoAABD65c0BtQYsWVhZVXZ4PcZV9G1-CKFA7XE)   |
+| 4. | [Introduction to TensorFlow for Artificial Intelligence,Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow) | [DeepLearning.AI](https://www.deeplearning.ai/)  | 12-Jun-2024                         |   17 hours     |     [LINK](https://coursera.org/share/c92c13ff02cf8e09592af5bf8fcb0d0e)    |
+| 5. | [Introduction to Generative AI](https://www.cloudskillsboost.google/course_templates/536) | Google                            | 25-Mar-2024                         |   -------     |     [LINK](https://www.cloudskillsboost.google/public_profiles/3924a3ad-b31b-42f5-b55b-6753ba136fb0/badges/8435493?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)   |
+| 6. | [Unlocking Grant Success with Funding Institutional](https://researcheracademy.elsevier.com/research-preparation/funding/unlocking-grant-success-funding-institutional) | Researcher Academy | 15-Mar-2024                         |   -------     |    [LINK](https://www.linkedin.com/posts/rashid-rao-cuipakistan_unlocking-grant-success-with-funding-institutional-activity-7177617228719112192-CcIc?utm_source=share&utm_medium=member_desktop')    |
+| 7. | [How to Protect your Data](https://community.rulex.ai/rulex-academy)          | RuleX                            | 08-Jan-2024                          |   -------     |     [LINK](https://drive.google.com/file/d/1FwmLfBSHWwRJdBjBv_khjoyEgVHhD-gO/view?usp=sharing') |
+| 8. | [AI for Health (Subject from School)](https://tempesta.cs.unibo.it/projects/BISS/2023/courses/#ai-for-health)          | Bertinoro International Spring School (BISS-23)                  | 12-19 Mar 2023                        |   -------     |     [LINK]() |
+| 9. | [Hybrid Quantum Computing (Subject from School)](https://tempesta.cs.unibo.it/projects/BISS/2023/courses/#hybrid-quantum-computing)         | Bertinoro International Spring School (BISS-23)                  | 12-19 Mar 2023                         |   -------     |     [LINK]() |
+| 10. | [AI for Everyone](https://www.coursera.org/learn/ai-for-everyone)          | Bertinoro International Spring School (BISS-23)                  | 12-19 Mar 2023                   | -----            |     [LINK](https://www.coursera.org/account/accomplishments/verify/XFEK65GWB3MF) |
+| 11. | PHP Programming (Web Development)          | Buraq Institute of Science and Technology                  | 12th-Apr-2014 ~ 1st-Jul-2014                      |   3 Months     |     [LINK](https://drive.google.com/file/d/1K686f8rWsElKnx3g8lmmIc5j7OqL6bZI/view?usp=sharing) |
 
 <!-- <div style='text-align: right;'> <a href='#'> <b>Go to TOP</b> </a> </div> -->
 
@@ -259,9 +259,10 @@ Acheivements in this study are the following Publications made and also availabl
 |  Platform | Link  |
 | --------- | ----- |
 |  Google Scholar  | [https://scholar.google.com.pk/citations?user=F5u_Z5MAAAAJ](https://scholar.google.com.pk/citations?user=F5u_Z5MAAAAJ)  |
-| Scopus  | [https://www.scopus.com/authid/detail.uri?authorId=57417085200](https://www.scopus.com/authid/detail.uri?authorId=57417085200)  |
+| Scopus  | [https://www.scopus.com/authid/detail.uri?authorId=57221707362&origin=resultslist](https://www.scopus.com/authid/detail.uri?authorId=57221707362&origin=resultslist)  |
 | ResearchGate  | [https://www.researchgate.net/profile/Muhammad-Rashid-65](https://www.researchgate.net/profile/Muhammad-Rashid-65)  |
 | SementicScholor  | [https://www.semanticscholar.org/author/Muhammad-Rashid/2293444837](https://www.semanticscholar.org/author/Muhammad-Rashid/2293444837)  |
+| IRIS-UniTo  | [https://iris.unito.it/cris/rp/rp203241](https://iris.unito.it/cris/rp/rp203241)  |
 | Web of Science  | [https://www.webofscience.com/wos/author/record/KSM-3480-2024](https://www.webofscience.com/wos/author/record/KSM-3480-2024)  |
 | ORCID  | [https://orcid.org/0000-0002-2557-6845](https://orcid.org/0000-0002-2557-6845/)  |
 | UnderLine  | [https://underline.io/speakers/254136-muhammad-rashid](https://underline.io/speakers/254136-muhammad-rashid)  |
@@ -298,8 +299,6 @@ Acheivements in this study are the following Publications made and also availabl
 </div>
 
 # 7. Github Repositories Stats
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rashidrao-pk" alt="GitHub Streak" /></a>
 
 <a href="https://github.com/rashidrao-pk/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rashidrao-pk&rank_icon=percentile" />
