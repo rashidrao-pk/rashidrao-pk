@@ -24,7 +24,7 @@ Hi 👋, I am Muhammad Rashid, an early career **researcher** working in **Artif
 # 1. Research Projects 🤖🧠👾
 Completed projects related  to ***Computer Vision*** and ***Machine Learning*** are described in [***this link***](project_completed/README.md).
 
-# 2. Educational Achievements Summary 🎓
+# Educational Achievements Summary 🎓
 
 |  Sr. No. | Degree 📘  | Institute                                             | From |  To  |
 |  :---:   | :--------   | :------                                              | :--:  | :--: |
@@ -34,8 +34,8 @@ Completed projects related  to ***Computer Vision*** and ***Machine Learning*** 
 
 <br>
 
-# Educational Achievements 💻
-## a. PhD(CS): 
+## Educational Achievements 💻
+### a. PhD(CS): 
 **Details about PhD work**: 
 - ***Title, & Type***: Industrial PhD funded by PNRR-CINECA Italy for European Projects
 - ***University & Industry***: [***University of Turin***](https://www.unito.it/), [***Rulex Innovation Labs***, *_Italy_*](https://www.rulex.ai/)
@@ -62,7 +62,7 @@ Acheivements in this study are the following Publications made and also availabl
 | 2. | ***Can I trust my anomaly detection system? A case study.*** |  [***XAI-World*** ( World Conference on eXplainable Artificial Intelligence)](https://xaiworldconference.com/2024/) | 17-19 July 2024 | Valletta, Malta  | 10 July 2024 | [**Paper PDF Link**](https://link.springer.com/chapter/10.1007/978-3-031-63803-9_13) -:- [**Codes**](https://github.com/rashidrao-pk/anomaly_detection_trust_case_study) -:- [***Medium Blog***](https://muhammad-rashid.medium.com/explainable-anomaly-detection-in-images-using-self-supervised-learning-with-generative-ai-vae-gan-40a34af50dd4)|
 | 3. | ***Using Stratified Sampling to Improve LIME Image Explanations.*** | [***AAAI-24*** (38th Annual AAAI Conference on Artificial Intelligence)](https://aaai.org/aaai-conference) |  22-27 feb 2024 | Vancouver, Canada. | 24-03-2024 |  [***Paper PDF Link***](https://ojs.aaai.org/index.php/AAAI/article/view/29397) -:- [***Stratified LIME***](https://github.com/rashidrao-pk/lime_stratified)<br> -:- [***Examples***](https://github.com/rashidrao-pk/lime-stratified-examples) -:- [***Medium Blog***](https://muhammad-rashid.medium.com/stratified-lime-to-generate-image-explanation-an-improved-version-of-lime-image-6b9668f03f1f)|
 
-## b. Master Degree 
+### b. Master Degree 
 
 **Degree Details**: 
 - ***Title & Duration***: Master of Science (Computer Vision and Graphics), 2017-2019
@@ -81,7 +81,7 @@ Acheivements in this study are the following Publications made and also availabl
 ***NOTE:*** Few of the research activities/publications were outcome of collaboration work with other members of the research group. [See](README.md#all-research-articles--publications) 
 <br>
 
-## c. Bachelor Degree
+### c. Bachelor Degree
 
 
  Bachelor of Science (Computer Science - **_Web Development_**) 
@@ -89,8 +89,8 @@ Acheivements in this study are the following Publications made and also availabl
 **Degree Details**: 
 - ***Title***: Bachelor of Science (Computer Science - Web Development) (2016)
 - ***Keywords***: Software Engineering, Web development, Web Applications, Web Security, Information Security. 
-<details> 
-<summary> Click Here to check full project details  to see details</summary>
+<!-- <details> 
+<summary> Click Here to check full project details  to see details</summary> -->
 
 
 **Achievements**: 
@@ -102,12 +102,12 @@ Acheivements in this study are the following Publications made and also availabl
 | Website      | [http://www.ovbtp.com](http://www.ovbtp.com) |
 | CODES      | [GITHUB](https://github.com/rashidrao-pk/Online-Venure-Booking-and-Tour-Planning)<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" /> - [![autollm stars](https://img.shields.io/github/stars/rashidrao-pk/Online-Venue-Booking-and-Tour-Planning?color=blueviolet)](https://github.com/rashidrao-pk/Online-Venue-Booking-and-Tour-Planning)  - ![Published Date](https://img.shields.io/badge/published_Date-2023--01--03-brightgreen)
 |  Tools Used      |  MVC, MS-SQL, CodeIgnitor, PhP, Javascript, HTML, CSS  |
-</details>
+<!-- </details> -->
 
 <hr><hr>
 <br>
 
-##  3. Awards/Honors 🏆:
+##  Awards/Honors 🏆:
 
 | Sr. No.| Award Type    | Awarded By        |   Dated   | Reason | Link |
 | :---:  | ------------------  | ------------     |   :---:   | :---:   |   :---:    |     
@@ -141,7 +141,7 @@ Acheivements in this study are the following Publications made and also availabl
 
 
 ---
-# 4. All Research Articles / Publications 📊📝:
+# All Research Articles / Publications 📊📝:
 
 |  Sr. No. | Title | Role | Journal /<br> Conferencce | Dated | Paper <img src="assets/google scholar.png" width="27" alt="" /> | Codes <img src="assets/github.png" width="27" alt="" />  |
 | :------: | ----- | ------- | --- | :---: | :--------: | :---------: |
@@ -175,7 +175,7 @@ Acheivements in this study are the following Publications made and also availabl
 
 ---   
    
-# 5. Certificates 📝:
+# Certificates 📝:
 
 ##  a. Certificates of Conferences:
 
@@ -243,7 +243,7 @@ Acheivements in this study are the following Publications made and also availabl
 <br>
 
 
-# 7. Profile Links 📧:
+# Profile Links 📧:
 
 ## a. Social Platforms :
 |  Platform | Link  | count | 
@@ -312,7 +312,7 @@ Acheivements in this study are the following Publications made and also availabl
   </a>
 </div>
 
-# 7. Github Repositories Stats
+# Github Repositories Stats
 
 <table> 
 <td>
