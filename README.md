@@ -320,9 +320,6 @@ Acheivements in this study are the following Publications made and also availabl
 
 </td>
 <td>
-
-</td>
-<td>
 <img height="150" align="center" src="https://camo.githubusercontent.com/4864a2623a76d071f36a4cfb1cd57bade85483712379324efbfccf308646cdb1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d72617368696472616f2d706b2672616e6b5f69636f6e3d70657263656e74696c65" data-canonical-src="https://github-readme-stats.vercel.app/api?username=rashidrao-pk&amp;rank_icon=percentile" style="max-width: 100%;">
 </td>
 <td> 
