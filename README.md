@@ -16,9 +16,8 @@
 # Few Lines about Muhammad Rashid
 <br>
 
-Hi 👋, I am Muhammad Rashid, an early career **researcher** working in **Artificial Intelligence**, **Computer Vision** and **eXplainable AI**.
-- **Present**: I have joined [**_Valeria-Lab_**](https://valeria.ugr.es), [_Dept. of Computer Engineering, Automation and Robotics Department_](https://icar.ugr.es), [_University of Granada_](https://www.ugr.es), Spain as a **_visiting researcher_**, to work on the generation of synthetic data for a use case of EU project [***`DistriMuSe`***](https://distrimuse.eu/about-the-project/).
-- **Present**:  I am working on European industrial projects [***`DistriMuSe`***](https://distrimuse.eu/about-the-project/) and [***`NextPerception`***](https://www.nextperception.eu/about-project/) where my role is to improve, develop and utilize the e***X***plainable ***AI*** (***`XAI`***) algorithms to add transparency and trust in the complex AI Models. 
+Hi 👋, I am Muhammad Rashid, a **_Machine Learning (Computer Vision) Researcher_** at the University of Turin in Italy, where I have been pursuing my **_PhD_** since 2022. My research is centered on advancing machine learning techniques for Computer vision related tasks, with a recent focus on **_eXplainable AI (XAI)_** and **_visual anomaly detection_** in industrial applications.
+ 
 - **Previous**: My past experiences spans building various Computer Vision & Machine Learning Solutions which can be checked by [***`visiting project_completed/README.md`***](project_completed/README.md). 👨🏻‍💻
 
 # 1. Research Projects 🤖🧠👾
@@ -285,14 +284,14 @@ Acheivements in this study are the following Publications made and also availabl
 | Cousera  | [https://www.coursera.org/learner/rashidrao-pk](https://www.coursera.org/learner/rashidrao-pk)  |
 
 
-## d. Blog Posts 🌐:
+## d. Blogs & Speaking 🌐:
 |  Platform | Link  |
 | --------- | ----- |
 |  Medium  | [https://medium.com/@muhammad-rashid](https://medium.com/@muhammad-rashid)  |
 |  Stackoverflow  | [https://stackoverflow.com/users/3309075/rashid-rao](https://stackoverflow.com/users/3309075/rashid-rao)  |
 |  Nvidia  | [https://forums.developer.nvidia.com/u/rashid-rao/summary](https://forums.developer.nvidia.com/u/rashid-rao/summary)  |
 |  ultralytics  | [https://community.ultralytics.com/u/mrashid/summary](https://community.ultralytics.com/u/mrashid/summary)  |
-
+| Speaker | [https://sessionize.com/rashid-m/](https://sessionize.com/rashid-m/) |
 
 <br>
 
