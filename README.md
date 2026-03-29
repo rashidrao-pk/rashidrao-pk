@@ -7,8 +7,8 @@ Machine Learning Researcher | Computer Vision | Explainable AI | Anomaly Detecti
 ![AAAI](https://img.shields.io/badge/AAAI-2026-orange)
 ![AAAI](https://img.shields.io/badge/AAAI-2024-orange)
 ![XAI](https://img.shields.io/badge/XAI-Research-blue)
-![Focus](https://img.shields.io/badge/Focus-Explainable%20AI-green)
-[![Website](https://img.shields.io/badge/Website-Visit-blue)](https://rashidrao-pk.github.io/) ![Field](https://img.shields.io/badge/Field-Computer%20Vision-purple) ![PhD](https://img.shields.io/badge/PhD-Computer%20Science-red)
+[![Website](https://img.shields.io/badge/Website-Visit-blue)](https://rashidrao-pk.github.io/) ![PhD](https://img.shields.io/badge/PhD-Computer%20Science-red) ![Focus](https://img.shields.io/badge/Focus-Computer%20Vision-green)
+![Field](https://img.shields.io/badge/Field-Anomaly%20Detection-purple)
 
 I am a PhD researcher at the **University of Turin, Italy**, working on **Computer Vision**, **eXplainable AI (XAI)**, and **visual anomaly detection** for industrial applications.
 
@@ -81,15 +81,19 @@ For a full profile, publications list, talks, and project archive, visit my webs
 
 **[rashidrao-pk.github.io](https://rashidrao-pk.github.io/)**
 
+
+Tech Stack:
+
+![Python](https://img.shields.io/badge/Python-Research-blue)
+![MATLAB](https://img.shields.io/badge/MATLAB-Vision-orange)
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)
+
+
 ## 📊 GitHub Stats
 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rashidrao-pk&hide_border=true"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rashidrao-pk&show_icons=true&hide_title=true&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashidrao-pk&layout=compact&hide_border=true" height="150"/>
-</p>
 
 ---
 
